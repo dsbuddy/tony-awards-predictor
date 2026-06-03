@@ -1,0 +1,238 @@
+{
+  "best_play": {
+    "pick": "Liberation",
+    "show": "Liberation",
+    "prob": 0.426034034676935,
+    "calibrated_prob": 0.41981422565254356,
+    "signals": [
+      "DramaLeague"
+    ]
+  },
+  "best_musical": {
+    "pick": "Schmigadoon!",
+    "show": "Schmigadoon!",
+    "prob": 0.7121799612530882,
+    "calibrated_prob": 0.7687634736941381,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "best_revival_play": {
+    "pick": "Death of a Salesman",
+    "show": "Death of a Salesman",
+    "prob": 0.7470396626138819,
+    "calibrated_prob": 0.8220219222388764,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "best_revival_musical": {
+    "pick": "Ragtime",
+    "show": "Ragtime",
+    "prob": 0.8346682626625599,
+    "calibrated_prob": 0.8813894962663477,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "best_book": {
+    "pick": "Cinco Paul",
+    "show": "Schmigadoon!",
+    "prob": 0.6820925312237189,
+    "calibrated_prob": 0.7493138263213472,
+    "signals": [
+      "OCC"
+    ]
+  },
+  "best_score": {
+    "pick": "Jim Barne and Kit Buchan",
+    "show": "Two Strangers (Carry a Cake Across New York)",
+    "prob": 0.569426124738756,
+    "calibrated_prob": 0.5736442156325584,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "lead_actor_play": {
+    "pick": "John Lithgow",
+    "show": "Giant",
+    "prob": 0.6526486989601711,
+    "calibrated_prob": 0.7381107818966056,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "lead_actress_play": {
+    "pick": "Lesley Manville",
+    "show": "Oedipus",
+    "prob": 0.7433525255777517,
+    "calibrated_prob": 0.8067622692291518,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "lead_actor_musical": {
+    "pick": "Joshua Henry",
+    "show": "Ragtime",
+    "prob": 0.6357061536012726,
+    "calibrated_prob": 0.6942580767080534,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "lead_actress_musical": {
+    "pick": "Caissie Levy",
+    "show": "Ragtime",
+    "prob": 0.6092671278912334,
+    "calibrated_prob": 0.6207859790427374,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "feat_actor_play": {
+    "pick": "Alden Ehrenreich",
+    "show": "Becky Shaw",
+    "prob": 0.37578973434790647,
+    "calibrated_prob": 0.36232994640439614,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "feat_actress_play": {
+    "pick": "Laurie Metcalf",
+    "show": "Death of a Salesman",
+    "prob": 0.30957582574865394,
+    "calibrated_prob": 0.32343064461948706,
+    "signals": []
+  },
+  "feat_actor_musical": {
+    "pick": "Ben Levi Ross",
+    "show": "Ragtime",
+    "prob": 0.6332308799934131,
+    "calibrated_prob": 0.7062492791067844,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "feat_actress_musical": {
+    "pick": "Ana Gasteyer",
+    "show": "Schmigadoon!",
+    "prob": 0.3164599248367778,
+    "calibrated_prob": 0.3575988735650868,
+    "signals": []
+  },
+  "direction_play": {
+    "pick": "Joe Mantello",
+    "show": "Death of a Salesman",
+    "prob": 0.680743663436936,
+    "calibrated_prob": 0.7272343922167233,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "direction_musical": {
+    "pick": "Lear deBessonet",
+    "show": "Ragtime",
+    "prob": 0.5851108762240882,
+    "calibrated_prob": 0.5736442156325584,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "choreography": {
+    "pick": "Christopher Gattelli",
+    "show": "Schmigadoon!",
+    "prob": 0.5631928068235443,
+    "calibrated_prob": 0.5657507910622602,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "orchestrations": {
+    "pick": "Doug Besterman and Mike Morris",
+    "show": "Schmigadoon!",
+    "prob": 0.6428171588563992,
+    "calibrated_prob": 0.7199565809359277,
+    "signals": [
+      "OCC"
+    ]
+  },
+  "scenic_play": {
+    "pick": "Chloe Lamford",
+    "show": "Death of a Salesman",
+    "prob": 0.7416395956328149,
+    "calibrated_prob": 0.8067622692291518,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "costume_play": {
+    "pick": "Paul Tazewell",
+    "show": "Joe Turner's Come and Gone",
+    "prob": 0.6550666258695468,
+    "calibrated_prob": 0.7215208985090632,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "lighting_play": {
+    "pick": "Jack Knowles",
+    "show": "Death of a Salesman",
+    "prob": 0.7073160057097724,
+    "calibrated_prob": 0.7825370653569345,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "sound_play": {
+    "pick": "Tom Gibbons",
+    "show": "Oedipus",
+    "prob": 0.6728044096719559,
+    "calibrated_prob": 0.7510124061877775,
+    "signals": [
+      "DramaDesk"
+    ]
+  },
+  "scenic_musical": {
+    "pick": "Dane Laffrey",
+    "show": "The Lost Boys",
+    "prob": 0.673539923719568,
+    "calibrated_prob": 0.7215208985090632,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "costume_musical": {
+    "pick": "Linda Cho",
+    "show": "Schmigadoon!",
+    "prob": 0.4657972995930126,
+    "calibrated_prob": 0.43641457952283313,
+    "signals": [
+      "OCC"
+    ]
+  },
+  "lighting_musical": {
+    "pick": "Michael Arden and Jen Schriever",
+    "show": "The Lost Boys",
+    "prob": 0.6998048871229081,
+    "calibrated_prob": 0.752626331138082,
+    "signals": [
+      "DramaDesk",
+      "OCC"
+    ]
+  },
+  "sound_musical": {
+    "pick": "Adam Fisher",
+    "show": "The Lost Boys",
+    "prob": 0.3065785515390684,
+    "calibrated_prob": 0.3394806976976895,
+    "signals": []
+  }
+}

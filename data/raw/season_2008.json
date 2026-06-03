@@ -1,0 +1,1970 @@
+{
+  "year": 2008,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2007-2008 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "August: Osage County",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Rock 'n' Roll",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Seafarer",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The 39 Steps",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "august osage county"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "In the Heights",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Cry-Baby",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Passing Strange",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Xanadu",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "in the heights"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Boeing-Boeing",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Homecoming",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Les Liaisons Dangereuses",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "boeing boeing"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Grease",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "south pacific"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Passing Strange",
+          "person": "Stew",
+          "won": true
+        },
+        {
+          "show": "Cry-Baby",
+          "person": "Mark O'Donnell & Thomas Meehan",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Quiara Alegr\u00eda Hudes",
+          "won": false
+        },
+        {
+          "show": "Xanadu",
+          "person": "Douglas Carter Beane",
+          "won": false
+        }
+      ],
+      "winner": "stew|passing strange"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "In the Heights",
+          "person": "Lin-Manuel Miranda",
+          "won": true
+        },
+        {
+          "show": "Cry-Baby",
+          "person": "David Javerbaum & Adam Schlesinger",
+          "won": false
+        },
+        {
+          "show": "The Little Mermaid",
+          "person": "Alan Menken, Howard Ashman & Glenn Slater",
+          "won": false
+        },
+        {
+          "show": "Passing Strange",
+          "person": "Stew & Heidi Rodewald",
+          "won": false
+        }
+      ],
+      "winner": "lin manuel miranda|in the heights"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Boeing-Boeing",
+          "person": "Mark Rylance",
+          "won": true
+        },
+        {
+          "show": "Les Liaisons Dangereuses",
+          "person": "Ben Daniels",
+          "won": false
+        },
+        {
+          "show": "Thurgood",
+          "person": "Laurence Fishburne",
+          "won": false
+        },
+        {
+          "show": "Rock 'n' Roll",
+          "person": "Rufus Sewell",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Patrick Stewart",
+          "won": false
+        }
+      ],
+      "winner": "mark rylance|boeing boeing"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "August: Osage County",
+          "person": "Deanna Dunagan",
+          "won": true
+        },
+        {
+          "show": "The Homecoming",
+          "person": "Eve Best",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Kate Fleetwood",
+          "won": false
+        },
+        {
+          "show": "Come Back, Little Sheba",
+          "person": "S. Epatha Merkerson",
+          "won": false
+        },
+        {
+          "show": "August: Osage County",
+          "person": "Amy Morton",
+          "won": false
+        }
+      ],
+      "winner": "deanna dunagan|august osage county"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": "Paulo Szot",
+          "won": true
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "Daniel Evans",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Lin-Manuel Miranda",
+          "won": false
+        },
+        {
+          "show": "Passing Strange",
+          "person": "Stew",
+          "won": false
+        },
+        {
+          "show": "A Catered Affair",
+          "person": "Tom Wopat",
+          "won": false
+        }
+      ],
+      "winner": "paulo szot|south pacific"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Gypsy",
+          "person": "Patti LuPone",
+          "won": true
+        },
+        {
+          "show": "Xanadu",
+          "person": "Kerry Butler",
+          "won": false
+        },
+        {
+          "show": "South Pacific",
+          "person": "Kelli O'Hara",
+          "won": false
+        },
+        {
+          "show": "A Catered Affair",
+          "person": "Faith Prince",
+          "won": false
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "Jenna Russell",
+          "won": false
+        }
+      ],
+      "winner": "patti lupone|gypsy"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "The Seafarer",
+          "person": "Jim Norton",
+          "won": true
+        },
+        {
+          "show": "Mauritius",
+          "person": "Bobby Cannavale",
+          "won": false
+        },
+        {
+          "show": "The Homecoming",
+          "person": "Ra\u00fal Esparza",
+          "won": false
+        },
+        {
+          "show": "The Seafarer",
+          "person": "Conleth Hill",
+          "won": false
+        },
+        {
+          "show": "Is He Dead?",
+          "person": "David Pittu",
+          "won": false
+        }
+      ],
+      "winner": "jim norton|seafarer"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "August: Osage County",
+          "person": "Rondi Reed",
+          "won": true
+        },
+        {
+          "show": "Rock 'n' Roll",
+          "person": "Sin\u00e9ad Cusack",
+          "won": false
+        },
+        {
+          "show": "Boeing-Boeing",
+          "person": "Mary McCormack",
+          "won": false
+        },
+        {
+          "show": "November",
+          "person": "Laurie Metcalf",
+          "won": false
+        },
+        {
+          "show": "Top Girls",
+          "person": "Martha Plimpton",
+          "won": false
+        }
+      ],
+      "winner": "rondi reed|august osage county"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Gypsy",
+          "person": "Boyd Gaines",
+          "won": true
+        },
+        {
+          "show": "Passing Strange",
+          "person": "Daniel Breaker",
+          "won": false
+        },
+        {
+          "show": "South Pacific",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Robin de Jes\u00fas",
+          "won": false
+        },
+        {
+          "show": "Young Frankenstein",
+          "person": "Christopher Fitzgerald",
+          "won": false
+        }
+      ],
+      "winner": "boyd gaines|gypsy"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Gypsy",
+          "person": "Laura Benanti",
+          "won": true
+        },
+        {
+          "show": "Passing Strange",
+          "person": "de'Adre Aziza",
+          "won": false
+        },
+        {
+          "show": "Young Frankenstein",
+          "person": "Andrea Martin",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Olga Merediz",
+          "won": false
+        },
+        {
+          "show": "South Pacific",
+          "person": "Loretta Ables Sayre",
+          "won": false
+        }
+      ],
+      "winner": "laura benanti|gypsy"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "August: Osage County",
+          "person": "Anna D. Shapiro",
+          "won": true
+        },
+        {
+          "show": "The 39 Steps",
+          "person": "Maria Aitken",
+          "won": false
+        },
+        {
+          "show": "The Seafarer",
+          "person": "Conor McPherson",
+          "won": false
+        },
+        {
+          "show": "Boeing-Boeing",
+          "person": "Matthew Warchus",
+          "won": false
+        }
+      ],
+      "winner": "anna d shapiro|august osage county"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": "Bartlett Sher",
+          "won": true
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "Sam Buntrock",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Thomas Kail",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Arthur Laurents",
+          "won": false
+        }
+      ],
+      "winner": "bartlett sher|south pacific"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "In the Heights",
+          "person": "Andy Blankenbuehler",
+          "won": true
+        },
+        {
+          "show": "Cry-Baby",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "South Pacific",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "Xanadu",
+          "person": "Dan Knechtges",
+          "won": false
+        }
+      ],
+      "winner": "andy blankenbuehler|in the heights"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "In the Heights",
+          "person": "Alex Lacamoire & Bill Sherman",
+          "won": true
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "Jason Carr",
+          "won": false
+        },
+        {
+          "show": "Passing Strange",
+          "person": "Stew & Heidi Rodewald",
+          "won": false
+        },
+        {
+          "show": "A Catered Affair",
+          "person": "Jonathan Tunick",
+          "won": false
+        }
+      ],
+      "winner": "alex lacamoire bill sherman|in the heights"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "August: Osage County",
+          "person": "Todd Rosenthal",
+          "won": true
+        },
+        {
+          "show": "The 39 Steps",
+          "person": "Peter McKintosh",
+          "won": false
+        },
+        {
+          "show": "Les Liaisons Dangereuses",
+          "person": "Scott Pask",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Anthony Ward",
+          "won": false
+        }
+      ],
+      "winner": "todd rosenthal|august osage county"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Les Liaisons Dangereuses",
+          "person": "Katrina Lindsay",
+          "won": true
+        },
+        {
+          "show": "Cyrano de Bergerac",
+          "person": "Gregory Gale",
+          "won": false
+        },
+        {
+          "show": "Boeing-Boeing",
+          "person": "Rob Howell",
+          "won": false
+        },
+        {
+          "show": "The 39 Steps",
+          "person": "Peter McKintosh",
+          "won": false
+        }
+      ],
+      "winner": "katrina lindsay|les liaisons dangereuses"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The 39 Steps",
+          "person": "Kevin Adams",
+          "won": true
+        },
+        {
+          "show": "Macbeth",
+          "person": "Howard Harrison",
+          "won": false
+        },
+        {
+          "show": "Les Liaisons Dangereuses",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "August: Osage County",
+          "person": "Ann G. Wrightson",
+          "won": false
+        }
+      ],
+      "winner": "kevin adams|39 steps"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "The 39 Steps",
+          "person": "Mic Pool",
+          "won": true
+        },
+        {
+          "show": "Boeing-Boeing",
+          "person": "Simon Baker",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Adam Cork",
+          "won": false
+        },
+        {
+          "show": "Rock 'n' Roll",
+          "person": "Ian Dickson",
+          "won": false
+        }
+      ],
+      "winner": "mic pool|39 steps"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": "Michael Yeargan",
+          "won": true
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "David Farley, Timothy Bird & The Knifedge Creative Network",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Anna Louizos",
+          "won": false
+        },
+        {
+          "show": "Young Frankenstein",
+          "person": "Robin Wagner",
+          "won": false
+        }
+      ],
+      "winner": "michael yeargan|south pacific"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "David Farley",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Martin Pakledinaz",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Paul Tazewell",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|south pacific"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": "Donald Holder",
+          "won": true
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "Ken Billington",
+          "won": false
+        },
+        {
+          "show": "In the Heights",
+          "person": "Howell Binkley",
+          "won": false
+        },
+        {
+          "show": "The Little Mermaid",
+          "person": "Natasha Katz",
+          "won": false
+        }
+      ],
+      "winner": "donald holder|south pacific"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "South Pacific",
+          "person": "Scott Lehrer",
+          "won": true
+        },
+        {
+          "show": "In the Heights",
+          "person": "Acme Sound Partners",
+          "won": false
+        },
+        {
+          "show": "Sunday in the Park with George",
+          "person": "Sebastian Frost",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Dan Moses Schreier",
+          "won": false
+        }
+      ],
+      "winner": "scott lehrer|south pacific"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "August: Osage County",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Dividing the Estate",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "From Up Here",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Horizon",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Intimate Exchanges",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Rock 'n' Roll",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Passing Strange",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "A Catered Affair",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Adding Machine",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Glorious Ones",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Slug Bearers of Kayrol Island",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Xanadu",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Boeing-Boeing",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Country Girl",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Dining Room",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Happy Days",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Macbeth",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Return of the Prodigal",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "South Pacific",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Black Nativity",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Gypsy",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Sunday in the Park with George",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Take Me Along",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Boeing-Boeing",
+        "person": "Mark Rylance",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Intimate Exchanges",
+        "person": "Bill Champion",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Cyrano de Bergerac",
+        "person": "Kevin Kline",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Peter & Jerry",
+        "person": "Bill Pullman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "From Up Here",
+        "person": "Tobias Segal",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Rock 'n' Roll",
+        "person": "Rufus Sewell",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "August: Osage County",
+        "person": "Deanna Dunagan",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Rock 'n' Roll",
+        "person": "Sin\u00e9ad Cusack",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Country Girl",
+        "person": "Frances McDormand",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "August: Osage County",
+        "person": "Amy Morton",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Happy Days",
+        "person": "Fiona Shaw",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "From Up Here",
+        "person": "Julie White",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "South Pacific",
+        "person": "Paulo Szot",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Passing Strange",
+        "person": "Daniel Breaker",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Black Nativity",
+        "person": "Andr\u00e9 De Shields",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sunday in the Park with George",
+        "person": "Daniel Evans",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Xanadu",
+        "person": "Cheyenne Jackson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "10 Million Miles",
+        "person": "Matthew Morrison",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Gypsy",
+        "person": "Patti LuPone",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Little Mermaid",
+        "person": "Sierra Boggess",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "South Pacific",
+        "person": "Kelli O'Hara",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "A Catered Affair",
+        "person": "Faith Prince",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Next to Normal",
+        "person": "Alice Ripley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Sunday in the Park with George",
+        "person": "Jenna Russell",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Seafarer",
+        "person": "Conleth Hill",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Conscientious Objector",
+        "person": "John Cullum",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Yellow Face",
+        "person": "Francis Jue",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Masked",
+        "person": "Arian Moayed",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "August: Osage County",
+        "person": "Jeff Perry",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Scarcity",
+        "person": "Michael T. Weiss",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The New Century",
+        "person": "Linda Lavin",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Dividing the Estate",
+        "person": "Elizabeth Ashley",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Peter and Jerry",
+        "person": "Johanna Day",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "100 Saints You Should Know",
+        "person": "Zoe Kazan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "August: Osage County",
+        "person": "Rondi Reed",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Top Girls",
+        "person": "Marisa Tomei",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Gypsy",
+        "person": "Boyd Gaines",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "South Pacific",
+        "person": "Danny Burstein",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Young Frankenstein",
+        "person": "Christopher Fitzgerald",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Young Frankenstein",
+        "person": "Shuler Hensley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Slug Bearers of Kayrol Island",
+        "person": "Bobby Steggert",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "A Catered Affair",
+        "person": "Tom Wopat",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Gypsy",
+        "person": "Laura Benanti",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "A Catered Affair",
+        "person": "Leslie Kritzer",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Young Frankenstein",
+        "person": "Andrea Martin",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Xanadu",
+        "person": "Mary Testa",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Adding Machine",
+        "person": "Amy Warren",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "10 Million Miles",
+        "person": "Mare Winningham",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "August: Osage County",
+        "person": "Anna D. Shapiro",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Horizon",
+        "person": "David Schweizer",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "From Up Here",
+        "person": "Leigh Silverman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Dining Room",
+        "person": "Jonathan Silverstein",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Boeing-Boeing",
+        "person": "Matthew Warchus",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Happy Days",
+        "person": "Deborah Warner",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "South Pacific",
+        "person": "Bartlett Sher",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Xanadu",
+        "person": "Christopher Ashley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Sunday in the Park with George",
+        "person": "Sam Buntrock",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Adding Machine",
+        "person": "David Cromer",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "A Catered Affair",
+        "person": "John Doyle",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Slug Bearers of Kayrol Island",
+        "person": "Bob McGrath",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Cry-Baby",
+        "person": "Rob Ashford",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Passing Strange",
+        "person": "Karole Armitage",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Traces",
+        "person": "Shana Carroll and Gypsy Snider",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Xanadu",
+        "person": "Dan Knechtges",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Queens Boulevard: The Musical",
+        "person": "Peter Pucci",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Young Frankenstein",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Passing Strange",
+        "person": "Stew & Heidi Rodewald",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "A Catered Affair",
+        "person": "John Bucchino",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Glorious Ones",
+        "person": "Stephen Flaherty",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Next to Normal",
+        "person": "Tom Kitt",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Slug Bearers of Kayrol Island",
+        "person": "Mark Mulcahy",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Adding Machine",
+        "person": "Joshua Schmidt",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Passing Strange",
+        "person": "Stew",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Glorious Ones",
+        "person": "Lynn Ahrens",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Young Frankenstein",
+        "person": "Mel Brooks",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "A Catered Affair",
+        "person": "John Bucchino",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Slug Bearers of Kayrol Island",
+        "person": "Ben Katchor",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Adding Machine",
+        "person": "Jason Loewith & Joshua Schmidt",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Xanadu",
+        "person": "Douglas Carter Beane",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "A Catered Affair",
+        "person": "Harvey Fierstein",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Slug Bearers of Kayrol Island",
+        "person": "Ben Katchor",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Adding Machine",
+        "person": "Jason Loewith and Joshua Schmidt",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Passing Strange",
+        "person": "Stew",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Wanda's World",
+        "person": "Eric H. Weinberger",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Sunday in the Park with George",
+        "person": "Jason Carr",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Young Frankenstein",
+        "person": "Doug Besterman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Glorious Ones",
+        "person": "Michael Starobin",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Passing Strange",
+        "person": "Stew and Heidi Rodewald",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "A Catered Affair",
+        "person": "Jonathan Tunick",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "10 Million Miles",
+        "person": "Tim Weil",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Les Liaisons Dangereuses",
+        "person": "Katrina Lindsay",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Glorious Ones",
+        "person": "Mara Blumenfeld",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Die, Mommie, Die!",
+        "person": "Michael Bottari, Ronald Case, and Jessica Jahn",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "A Catered Affair",
+        "person": "Ann Hould-Ward",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "August: Osage County",
+        "person": "Ana Kuzmanic",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Young Frankenstein",
+        "person": "William Ivey Long",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The 39 Steps",
+        "person": "Kevin Adams",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Sunday in the Park with George",
+        "person": "Ken Billington",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Slaughterhouse-Five",
+        "person": "Maruti Evans",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "South Pacific",
+        "person": "Donald Holder",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Little Mermaid",
+        "person": "Natasha Katz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Adding Machine",
+        "person": "Keith Parham",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "South Pacific",
+        "person": "Scott Lehrer",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Macbeth",
+        "person": "Adam Cork",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Opus",
+        "person": "Jorge Cousineau",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "The Conversation",
+        "person": "Joseph Fosco",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "The 39 Steps",
+        "person": "Mic Pool",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Adding Machine",
+        "person": "Tony Smolenski, IV",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "August: Osage County",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Xanadu",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Young Frankenstein",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Dividing the Estate",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Adding Machine",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Adding Machine",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Next to Normal",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Homecoming",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "South Pacific",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "August: Osage County",
+        "person": "Anna D. Shapiro",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "South Pacific",
+        "person": "Bartlett Sher",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Cyrano de Bergerac",
+        "person": "Kevin Kline",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "August: Osage County",
+        "person": "Deanna Dunagan",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "South Pacific",
+        "person": "Paulo Szot",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Gypsy",
+        "person": "Patti LuPone",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Cry-Baby",
+        "person": "Rob Ashford",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Sunday in the Park with George",
+        "person": "David Farley and Timothy Bird",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Les Liaisons Dangereuses",
+        "person": "Katrina Lindsay",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Sunday in the Park with George",
+        "person": "Ken Billington",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "August: Osage County",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "A Catered Affair",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Macbeth",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "South Pacific",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Gypsy",
+        "person": "Patti LuPone",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "August: Osage County",
+        "person": "Tracy Letts",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Musical",
+        "show": "Passing Strange",
+        "person": "Stew and Heidi Rodewald",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "The Road to Mecca",
+        "person": "Athol Fugard",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      }
+    ]
+  }
+}

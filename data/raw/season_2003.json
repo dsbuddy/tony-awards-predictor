@@ -1,0 +1,1003 @@
+{
+  "year": 2003,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2002-2003 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Take Me Out",
+          "person": "Richard Greenberg",
+          "won": true
+        },
+        {
+          "show": "Enchanted April",
+          "person": "Matthew Barber",
+          "won": false
+        },
+        {
+          "show": "Say Goodnight, Gracie",
+          "person": "Rupert Holmes",
+          "won": false
+        },
+        {
+          "show": "Vincent in Brixton",
+          "person": "Nicholas Wright",
+          "won": false
+        }
+      ],
+      "winner": "richard greenberg|take me out"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Amour",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A Year with Frog and Toad",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Movin' Out",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "hairspray"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Long Day's Journey into Night",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "A Day in the Death of Joe Egg",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Dinner at Eight",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Frankie and Johnny in the Clair de Lune",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "long days journey into night"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Nine",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Gypsy",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "La boh\u00e8me",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Man of La Mancha",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "nine"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "Mark O'Donnell and Thomas Meehan",
+          "won": true
+        },
+        {
+          "show": "Amour",
+          "person": "Didier van Cauwelaert and Jeremy Sams",
+          "won": false
+        },
+        {
+          "show": "A Year with Frog and Toad",
+          "person": "Willie Reale",
+          "won": false
+        },
+        {
+          "show": "Flower Drum Song",
+          "person": "David Henry Hwang",
+          "won": false
+        }
+      ],
+      "winner": "mark odonnell and thomas meehan|hairspray"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "Marc Shaiman (music), Scott Wittman and Marc Shaiman (lyrics)",
+          "won": true
+        },
+        {
+          "show": "A Year with Frog and Toad",
+          "person": "Robert Reale (music), Willie Reale (lyrics)",
+          "won": false
+        },
+        {
+          "show": "Amour",
+          "person": "Michel Legrand (music), Didier van Cauwelaert and Jeremy Sams (lyrics)",
+          "won": false
+        },
+        {
+          "show": "Urban Cowboy",
+          "person": "Various composers",
+          "won": false
+        }
+      ],
+      "winner": "marc shaiman music scott wittman and marc shaiman lyrics|hairspray"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Brian Dennehy",
+          "won": true
+        },
+        {
+          "show": "Tartuffe",
+          "person": "Brian Bedford",
+          "won": false
+        },
+        {
+          "show": "A Day in the Death of Joe Egg",
+          "person": "Eddie Izzard",
+          "won": false
+        },
+        {
+          "show": "Our Town",
+          "person": "Paul Newman",
+          "won": false
+        },
+        {
+          "show": "Frankie and Johnny in the Clair de Lune",
+          "person": "Stanley Tucci",
+          "won": false
+        }
+      ],
+      "winner": "brian dennehy|long days journey into night"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Vanessa Redgrave",
+          "won": true
+        },
+        {
+          "show": "Enchanted April",
+          "person": "Jayne Atkinson",
+          "won": false
+        },
+        {
+          "show": "A Day in the Death of Joe Egg",
+          "person": "Victoria Hamilton",
+          "won": false
+        },
+        {
+          "show": "Vincent in Brixton",
+          "person": "Clare Higgins",
+          "won": false
+        },
+        {
+          "show": "Medea",
+          "person": "Fiona Shaw",
+          "won": false
+        }
+      ],
+      "winner": "vanessa redgrave|long days journey into night"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "Harvey Fierstein",
+          "won": true
+        },
+        {
+          "show": "Nine",
+          "person": "Antonio Banderas",
+          "won": false
+        },
+        {
+          "show": "Amour",
+          "person": "Malcolm Gets",
+          "won": false
+        },
+        {
+          "show": "Man of La Mancha",
+          "person": "Brian Stokes Mitchell",
+          "won": false
+        },
+        {
+          "show": "Movin' Out",
+          "person": "John Selya",
+          "won": false
+        }
+      ],
+      "winner": "harvey fierstein|hairspray"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "Marissa Jaret Winokur",
+          "won": true
+        },
+        {
+          "show": "Amour",
+          "person": "Melissa Errico",
+          "won": false
+        },
+        {
+          "show": "Man of La Mancha",
+          "person": "Mary Elizabeth Mastrantonio",
+          "won": false
+        },
+        {
+          "show": "Movin' Out",
+          "person": "Elizabeth Parkinson",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Bernadette Peters",
+          "won": false
+        }
+      ],
+      "winner": "marissa jaret winokur|hairspray"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Take Me Out",
+          "person": "Denis O'Hare",
+          "won": true
+        },
+        {
+          "show": "Ma Rainey's Black Bottom",
+          "person": "Thomas Jefferson Byrd",
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Philip Seymour Hoffman",
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Robert Sean Leonard",
+          "won": false
+        },
+        {
+          "show": "Take Me Out",
+          "person": "Daniel Sunjata",
+          "won": false
+        }
+      ],
+      "winner": "denis ohare|take me out"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Hollywood Arms",
+          "person": "Michele Pawk",
+          "won": true
+        },
+        {
+          "show": "Dinner at Eight",
+          "person": "Christine Ebersole",
+          "won": false
+        },
+        {
+          "show": "Life (x) 3",
+          "person": "Linda Emond",
+          "won": false
+        },
+        {
+          "show": "Tartuffe",
+          "person": "Kathryn Meisle",
+          "won": false
+        },
+        {
+          "show": "Dinner at Eight",
+          "person": "Marian Seldes",
+          "won": false
+        }
+      ],
+      "winner": "michele pawk|hollywood arms"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "Dick Latessa",
+          "won": true
+        },
+        {
+          "show": "Movin' Out",
+          "person": "Michael Cavanaugh",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "John Dossett",
+          "won": false
+        },
+        {
+          "show": "Hairspray",
+          "person": "Corey Reynolds",
+          "won": false
+        },
+        {
+          "show": "Movin' Out",
+          "person": "Keith Roberts",
+          "won": false
+        }
+      ],
+      "winner": "dick latessa|hairspray"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Nine",
+          "person": "Jane Krakowski",
+          "won": true
+        },
+        {
+          "show": "Gypsy",
+          "person": "Tammy Blanchard",
+          "won": false
+        },
+        {
+          "show": "Nine",
+          "person": "Mary Stuart Masterson",
+          "won": false
+        },
+        {
+          "show": "Nine",
+          "person": "Chita Rivera",
+          "won": false
+        },
+        {
+          "show": "Movin' Out",
+          "person": "Ashley Tuttle",
+          "won": false
+        }
+      ],
+      "winner": "jane krakowski|nine"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Take Me Out",
+          "person": "Joe Mantello",
+          "won": true
+        },
+        {
+          "show": "A Day in the Death of Joe Egg",
+          "person": "Laurence Boswell",
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Robert Falls",
+          "won": false
+        },
+        {
+          "show": "Medea",
+          "person": "Deborah Warner",
+          "won": false
+        }
+      ],
+      "winner": "joe mantello|take me out"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "Jack O'Brien",
+          "won": true
+        },
+        {
+          "show": "Nine",
+          "person": "David Leveaux",
+          "won": false
+        },
+        {
+          "show": "La boh\u00e8me",
+          "person": "Baz Luhrmann",
+          "won": false
+        },
+        {
+          "show": "Movin' Out",
+          "person": "Twyla Tharp",
+          "won": false
+        }
+      ],
+      "winner": "jack obrien|hairspray"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Movin' Out",
+          "person": "Twyla Tharp",
+          "won": true
+        },
+        {
+          "show": "Flower Drum Song",
+          "person": "Robert Longbottom",
+          "won": false
+        },
+        {
+          "show": "Hairspray",
+          "person": "Jerry Mitchell",
+          "won": false
+        },
+        {
+          "show": "Urban Cowboy",
+          "person": "Melinda Roy",
+          "won": false
+        }
+      ],
+      "winner": "twyla tharp|movin out"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Movin' Out",
+          "person": "Billy Joel and Stuart Malina",
+          "won": true
+        },
+        {
+          "show": "La boh\u00e8me",
+          "person": "Nicholas Kitsopoulos",
+          "won": false
+        },
+        {
+          "show": "Nine",
+          "person": "Jonathan Tunick",
+          "won": false
+        },
+        {
+          "show": "Hairspray",
+          "person": "Harold Wheeler",
+          "won": false
+        }
+      ],
+      "winner": "billy joel and stuart malina|movin out"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "La boh\u00e8me",
+          "person": "Catherine Martin",
+          "won": true
+        },
+        {
+          "show": "Dinner at Eight",
+          "person": "John Lee Beatty",
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "Hairspray",
+          "person": "David Rockwell",
+          "won": false
+        }
+      ],
+      "winner": "catherine martin|la boh\u00e8me"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Hairspray",
+          "person": "William Ivey Long",
+          "won": true
+        },
+        {
+          "show": "Flower Drum Song",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "La boh\u00e8me",
+          "person": "Catherine Martin and Angus Strathie",
+          "won": false
+        },
+        {
+          "show": "Dinner at Eight",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "william ivey long|hairspray"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "La boh\u00e8me",
+          "person": "Nigel Levings",
+          "won": true
+        },
+        {
+          "show": "Movin' Out",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "Nine",
+          "person": "Brian MacDevitt",
+          "won": false
+        },
+        {
+          "show": "Hairspray",
+          "person": "Kenneth Posner",
+          "won": false
+        }
+      ],
+      "winner": "nigel levings|la boh\u00e8me"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "costume_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "lighting_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Take Me Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Long Day's Journey into Night",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Nine",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "person": "Brian Dennehy",
+        "show": "Long Day's Journey into Night",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "person": "Philip Seymour Hoffman",
+        "show": "Long Day's Journey into Night",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "person": "Vanessa Redgrave",
+        "show": "Long Day's Journey into Night",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "person": "Denis O'Hare",
+        "show": "Take Me Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Harvey Fierstein",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Antonio Banderas",
+        "show": "Nine",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "person": "Marissa Jaret Winokur",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "person": "Dick Latessa",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "person": "Corey Reynolds",
+        "show": "Hairspray",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "person": "Jane Krakowski",
+        "show": "Nine",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "person": "Mary Stuart Masterson",
+        "show": "Nine",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "person": "Chita Rivera",
+        "show": "Nine",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "person": "Kerry Butler",
+        "show": "Hairspray",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "person": "Robert Falls",
+        "show": "Long Day's Journey into Night",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "person": "Joe Mantello",
+        "show": "Take Me Out",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "person": "Jack O'Brien",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "person": "David Leveaux",
+        "show": "Nine",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "person": "Twyla Tharp",
+        "show": "Movin' Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "person": "Jerry Mitchell",
+        "show": "Hairspray",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "person": "Mark O'Donnell and Thomas Meehan",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "person": "Marc Shaiman",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "person": "Scott Wittman and Marc Shaiman",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "person": "Harold Wheeler",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design",
+        "person": "David Rockwell",
+        "show": "Hairspray",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "person": "William Ivey Long",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Take Me Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Enchanted April",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Play What I Wrote",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Vincent in Brixton",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Amour",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Movin' Out",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Urban Cowboy",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Long Day's Journey into Night",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "person": "Eddie Izzard",
+        "show": "A Day in the Death of Joe Egg",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "person": "Daniel Sunjata",
+        "show": "Take Me Out",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "person": "Jayne Atkinson",
+        "show": "Enchanted April",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "person": "Vanessa Redgrave",
+        "show": "Long Day's Journey into Night",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "person": "Michael Shannon",
+        "show": "Long Day's Journey into Night",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Antonio Banderas",
+        "show": "Nine",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Harvey Fierstein",
+        "show": "Hairspray",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Brian Stokes Mitchell",
+        "show": "Man of La Mancha",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "person": "Marissa Jaret Winokur",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "person": "Chita Rivera",
+        "show": "Nine",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "person": "Twyla Tharp",
+        "show": "Movin' Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design",
+        "person": "Catherine Martin",
+        "show": "La boh\u00e8me",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "person": "William Ivey Long",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "person": "Nigel Levings",
+        "show": "La boh\u00e8me",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "John Gassner Playwriting Award",
+        "person": "Matthew Barber",
+        "show": "Enchanted April",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "person": "Frank Gorshin",
+        "show": "Say Goodnight, Gracie",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Take Me Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "person": "Harvey Fierstein",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Take Me Out",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Musical",
+        "show": "Hairspray",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "Talking Heads",
+        "won": true,
+        "is_broadway": false
+      }
+    ]
+  }
+}

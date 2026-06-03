@@ -1,0 +1,2810 @@
+{
+  "year": 2013,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2012-2013 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Vanya and Sonia and Masha and Spike",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Assembled Parties",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Lucky Guy",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Testament of Mary",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "vanya and sonia and masha and spike"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Kinky Boots",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Bring It On: The Musical",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A Christmas Story: The Musical",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "kinky boots"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Golden Boy",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Orphans",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Trip to Bountiful",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "whos afraid of virginia woolf"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Pippin",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Annie",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Mystery of Edwin Drood",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "pippin"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Matilda the Musical",
+          "person": "Dennis Kelly",
+          "won": true
+        },
+        {
+          "show": "A Christmas Story: The Musical",
+          "person": "Joseph Robinette",
+          "won": false
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "Harvey Fierstein",
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Douglas Carter Beane",
+          "won": false
+        }
+      ],
+      "winner": "dennis kelly|matilda the musical"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Kinky Boots",
+          "person": "Cyndi Lauper",
+          "won": true
+        },
+        {
+          "show": "A Christmas Story: The Musical",
+          "person": "Benj Pasek and Justin Paul",
+          "won": false
+        },
+        {
+          "show": "Hands on a Hardbody",
+          "person": "Trey Anastasio and Amanda Green",
+          "won": false
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Tim Minchin",
+          "won": false
+        }
+      ],
+      "winner": "cyndi lauper|kinky boots"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Tracy Letts",
+          "won": true
+        },
+        {
+          "show": "Lucky Guy",
+          "person": "Tom Hanks",
+          "won": false
+        },
+        {
+          "show": "The Nance",
+          "person": "Nathan Lane",
+          "won": false
+        },
+        {
+          "show": "Vanya and Sonia and Masha and Spike",
+          "person": "David Hyde Pierce",
+          "won": false
+        },
+        {
+          "show": "Orphans",
+          "person": "Tom Sturridge",
+          "won": false
+        }
+      ],
+      "winner": "tracy letts|whos afraid of virginia woolf"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "The Trip to Bountiful",
+          "person": "Cicely Tyson",
+          "won": true
+        },
+        {
+          "show": "The Other Place",
+          "person": "Laurie Metcalf",
+          "won": false
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Amy Morton",
+          "won": false
+        },
+        {
+          "show": "Vanya and Sonia and Masha and Spike",
+          "person": "Kristine Nielsen",
+          "won": false
+        },
+        {
+          "show": "Ann",
+          "person": "Holland Taylor",
+          "won": false
+        }
+      ],
+      "winner": "cicely tyson|trip to bountiful"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Kinky Boots",
+          "person": "Billy Porter",
+          "won": true
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Bertie Carvel",
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Santino Fontana",
+          "won": false
+        },
+        {
+          "show": "Chaplin",
+          "person": "Rob McClure",
+          "won": false
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "Stark Sands",
+          "won": false
+        }
+      ],
+      "winner": "billy porter|kinky boots"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Pippin",
+          "person": "Patina Miller",
+          "won": true
+        },
+        {
+          "show": "The Mystery of Edwin Drood",
+          "person": "Stephanie J. Block",
+          "won": false
+        },
+        {
+          "show": "Scandalous",
+          "person": "Carolee Carmello",
+          "won": false
+        },
+        {
+          "show": "Motown: The Musical",
+          "person": "Valisia LeKae",
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Laura Osnes",
+          "won": false
+        }
+      ],
+      "winner": "patina miller|pippin"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Lucky Guy",
+          "person": "Courtney B. Vance",
+          "won": true
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "The Big Knife",
+          "person": "Richard Kind",
+          "won": false
+        },
+        {
+          "show": "Vanya and Sonia and Masha and Spike",
+          "person": "Billy Magnussen",
+          "won": false
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Tony Shalhoub",
+          "won": false
+        }
+      ],
+      "winner": "courtney b vance|lucky guy"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "The Assembled Parties",
+          "person": "Judith Light",
+          "won": true
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Carrie Coon",
+          "won": false
+        },
+        {
+          "show": "Vanya and Sonia and Masha and Spike",
+          "person": "Shalita Grant",
+          "won": false
+        },
+        {
+          "show": "The Heiress",
+          "person": "Judith Ivey",
+          "won": false
+        },
+        {
+          "show": "The Trip to Bountiful",
+          "person": "Condola Rashad",
+          "won": false
+        }
+      ],
+      "winner": "judith light|assembled parties"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Matilda the Musical",
+          "person": "Gabriel Ebert",
+          "won": true
+        },
+        {
+          "show": "Motown: The Musical",
+          "person": "Charl Brown",
+          "won": false
+        },
+        {
+          "show": "Hands on a Hardbody",
+          "person": "Keith Carradine",
+          "won": false
+        },
+        {
+          "show": "The Mystery of Edwin Drood",
+          "person": "Will Chase",
+          "won": false
+        },
+        {
+          "show": "Pippin",
+          "person": "Terrence Mann",
+          "won": false
+        }
+      ],
+      "winner": "gabriel ebert|matilda the musical"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Pippin",
+          "person": "Andrea Martin",
+          "won": true
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "Annaleigh Ashford",
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Victoria Clark",
+          "won": false
+        },
+        {
+          "show": "Hands on a Hardbody",
+          "person": "Keala Settle",
+          "won": false
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Lauren Ward",
+          "won": false
+        }
+      ],
+      "winner": "andrea martin|pippin"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Pam MacKinnon",
+          "won": true
+        },
+        {
+          "show": "Vanya and Sonia and Masha and Spike",
+          "person": "Nicholas Martin",
+          "won": false
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "Lucky Guy",
+          "person": "George C. Wolfe",
+          "won": false
+        }
+      ],
+      "winner": "pam mackinnon|whos afraid of virginia woolf"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Pippin",
+          "person": "Diane Paulus",
+          "won": true
+        },
+        {
+          "show": "The Mystery of Edwin Drood",
+          "person": "Scott Ellis",
+          "won": false
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "Jerry Mitchell",
+          "won": false
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Matthew Warchus",
+          "won": false
+        }
+      ],
+      "winner": "diane paulus|pippin"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Kinky Boots",
+          "person": "Jerry Mitchell",
+          "won": true
+        },
+        {
+          "show": "Bring It On: The Musical",
+          "person": "Andy Blankenbuehler",
+          "won": false
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Peter Darling",
+          "won": false
+        },
+        {
+          "show": "Pippin",
+          "person": "Chet Walker",
+          "won": false
+        }
+      ],
+      "winner": "jerry mitchell|kinky boots"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Kinky Boots",
+          "person": "Stephen Oremus",
+          "won": true
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Christopher Nightingale",
+          "won": false
+        },
+        {
+          "show": "Motown: The Musical",
+          "person": "Ethan Popp and Bryan Crook",
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Danny Troob",
+          "won": false
+        }
+      ],
+      "winner": "stephen oremus|kinky boots"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Nance",
+          "person": "John Lee Beatty",
+          "won": true
+        },
+        {
+          "show": "The Assembled Parties",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "Lucky Guy",
+          "person": "David Rockwell",
+          "won": false
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Michael Yeargan",
+          "won": false
+        }
+      ],
+      "winner": "john lee beatty|nance"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Nance",
+          "person": "Ann Roth",
+          "won": true
+        },
+        {
+          "show": "Cyrano de Bergerac",
+          "person": "Soutra Gilmour",
+          "won": false
+        },
+        {
+          "show": "The Heiress",
+          "person": "Albert Wolsky",
+          "won": false
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "ann roth|nance"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Lucky Guy",
+          "person": "Jules Fisher and Peggy Eisenhauer",
+          "won": true
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "The Testament of Mary",
+          "person": "Jennifer Tipton",
+          "won": false
+        },
+        {
+          "show": "The Nance",
+          "person": "Japhy Weideman",
+          "won": false
+        }
+      ],
+      "winner": "jules fisher and peggy eisenhauer|lucky guy"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "The Nance",
+          "person": "Leon Rothenberg",
+          "won": true
+        },
+        {
+          "show": "The Trip to Bountiful",
+          "person": "John Gromada",
+          "won": false
+        },
+        {
+          "show": "The Testament of Mary",
+          "person": "Mel Mercier",
+          "won": false
+        },
+        {
+          "show": "Golden Boy",
+          "person": "Peter John Still and Marc Salzberg",
+          "won": false
+        }
+      ],
+      "winner": "leon rothenberg|nance"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Matilda the Musical",
+          "person": "Rob Howell",
+          "won": true
+        },
+        {
+          "show": "The Mystery of Edwin Drood",
+          "person": "Anna Louizos",
+          "won": false
+        },
+        {
+          "show": "Pippin",
+          "person": "Scott Pask",
+          "won": false
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "David Rockwell",
+          "won": false
+        }
+      ],
+      "winner": "rob howell|matilda the musical"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "William Ivey Long",
+          "won": true
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "Matilda the Musical",
+          "person": "Rob Howell",
+          "won": false
+        },
+        {
+          "show": "Pippin",
+          "person": "Dominique Lemieux",
+          "won": false
+        }
+      ],
+      "winner": "william ivey long|rodgers + hammersteins cinderella"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Matilda the Musical",
+          "person": "Hugh Vanstone",
+          "won": true
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Kenneth Posner",
+          "won": false
+        },
+        {
+          "show": "Kinky Boots",
+          "person": "Kenneth Posner",
+          "won": false
+        },
+        {
+          "show": "Pippin",
+          "person": "Kenneth Posner",
+          "won": false
+        }
+      ],
+      "winner": "hugh vanstone|matilda the musical"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Kinky Boots",
+          "person": "John Shivers",
+          "won": true
+        },
+        {
+          "show": "Pippin",
+          "person": "Jonathan Deans and Garth Helm",
+          "won": false
+        },
+        {
+          "show": "Motown: The Musical",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Rodgers + Hammerstein's Cinderella",
+          "person": "Nevin Steinberg",
+          "won": false
+        }
+      ],
+      "winner": "john shivers|kinky boots"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": "Christopher Durang",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Assembled Parties",
+        "person": "Richard Greenberg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Belleville",
+        "person": "Amy Herzog",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Falling",
+        "person": "Deanna Jent",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Finks",
+        "person": "Joe Gilford",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Flick",
+        "person": "Annie Baker",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Sorry",
+        "person": "Richard Nelson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Matilda the Musical",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "A Christmas Story: The Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Giant",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Hands on a Hardbody",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Here Lies Love",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Natasha, Pierre and the Great Comet of 1812",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Other Josh Cohen",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Golden Boy",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Good Person of Szechwan",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Piano Lesson",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Trip to Bountiful",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Uncle Vanya",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Pippin",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Golden Land",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Passion",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Working",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Pam MacKinnon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Good Person of Szechwan",
+        "person": "Lear deBessonet",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Uncle Vanya",
+        "person": "Sam Gold",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Restoration Comedy",
+        "person": "Ed Sylvanus Iskandar",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Assembled Parties",
+        "person": "Lynne Meadow",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Piano Lesson",
+        "person": "Ruben Santiago-Hudson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Pippin",
+        "person": "Diane Paulus",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Bring It On: The Musical",
+        "person": "Andy Blankenbuehler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Natasha, Pierre and the Great Comet of 1812",
+        "person": "Rachel Chavkin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Passion",
+        "person": "John Doyle",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Wild Bride",
+        "person": "Emma Rice",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Here Lies Love",
+        "person": "Alex Timbers",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Matilda the Musical",
+        "person": "Matthew Warchus",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Pippin",
+        "person": "Chet Walker and Gypsy Snider",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Bring It On: The Musical",
+        "person": "Andy Blankenbuehler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "A Christmas Story: The Musical",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Matilda the Musical",
+        "person": "Peter Darling",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "person": "Josh Rhodes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Hands on a Hardbody",
+        "person": "Sergio Trujillo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Tracy Letts",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Uncle Vanya",
+        "person": "Reed Birney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Falling",
+        "person": "Daniel Everidge",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Lucky Guy",
+        "person": "Tom Hanks",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Whale",
+        "person": "Shuler Hensley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Nance",
+        "person": "Nathan Lane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Cicely Tyson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Belleville",
+        "person": "Maria Dizzia",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Amy Morton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Falling",
+        "person": "Julia Murney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Revisionist",
+        "person": "Vanessa Redgrave",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Finks",
+        "person": "Miriam Silverman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Kinky Boots",
+        "person": "Billy Porter",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Soul Doctor",
+        "person": "Eric Anderson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Giant",
+        "person": "Brian d'Arcy James",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Jim Norton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Other Josh Cohen",
+        "person": "Steve Rosen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Passion",
+        "person": "Ryan Silverman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Annie",
+        "person": "Anthony Warlow",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "person": "Laura Osnes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Giant",
+        "person": "Kate Baldwin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Stephanie J. Block",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Scandalous",
+        "person": "Carolee Carmello",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Dogfight",
+        "person": "Lindsay Mendez",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Into the Woods",
+        "person": "Donna Murphy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Donnybrook!",
+        "person": "Jenny Powers",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Big Knife",
+        "person": "Richard Kind",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Piano Lesson",
+        "person": "Chuck Cooper",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Great God Pan",
+        "person": "Peter Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Flick",
+        "person": "Aaron Clifton Moten",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "If There Is I Haven't Found It Yet",
+        "person": "Brian F. O'Byrne",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Golden Boy",
+        "person": "Tony Shalhoub",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Assembled Parties",
+        "person": "Judith Light",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Whale",
+        "person": "Tasha Lawrence",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Sleeping Rough",
+        "person": "Kellie Overbey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Sorry",
+        "person": "Maryann Plunkett",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Condola Rashad",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Sorry",
+        "person": "Laila Robins",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Matilda the Musical",
+        "person": "Bertie Carvel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Passion",
+        "person": "Stephen Bogardus",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "A Christmas Story: The Musical",
+        "person": "John Bolton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hands on a Hardbody",
+        "person": "Keith Carradine",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Giant",
+        "person": "John Dossett",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Andy Karl",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Pippin",
+        "person": "Andrea Martin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Kinky Boots",
+        "person": "Annaleigh Ashford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Passion",
+        "person": "Melissa Errico",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Jessie Mueller",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Chaplin: The Musical",
+        "person": "Christiane Noll",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Hands on a Hardbody",
+        "person": "Keala Settle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Other Josh Cohen",
+        "person": "Kate Wetherhead",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Here Lies Love",
+        "person": "David Byrne and Fatboy Slim",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Hands on a Hardbody",
+        "person": "Trey Anastasio and Amanda Green",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Giant",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Natasha, Pierre and the Great Comet of 1812",
+        "person": "Dave Malloy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "A Christmas Story: The Musical",
+        "person": "Benj Pasek and Justin Paul",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Other Josh Cohen",
+        "person": "David Rossmer and Steve Rosen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Matilda the Musical",
+        "person": "Tim Minchin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Hands on a Hardbody",
+        "person": "Amanda Green",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Bring It On: The Musical",
+        "person": "Amanda Green and Lin-Manuel Miranda",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Giant",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Natasha, Pierre and the Great Comet of 1812",
+        "person": "Dave Malloy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Other Josh Cohen",
+        "person": "Steve Rosen and David Rossmer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Matilda the Musical",
+        "person": "Dennis Kelly",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Giant",
+        "person": "Sybille Pearson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "A Christmas Story: The Musical",
+        "person": "Joseph Robinette",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Other Josh Cohen",
+        "person": "David Rossmer and Steve Rosen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Bring It On: The Musical",
+        "person": "Jeff Whitty",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Hands on a Hardbody",
+        "person": "Doug Wright",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "person": "Danny Troob",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Hands on a Hardbody",
+        "person": "Trey Anastasio and Don Hart",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "A Christmas Story: The Musical",
+        "person": "Larry Blank",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Giant",
+        "person": "Bruce Coughlin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Chaplin: The Musical",
+        "person": "Larry Hochman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Soul Doctor",
+        "person": "Steve Margoshes",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Matilda the Musical",
+        "person": "Rob Howell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Whale",
+        "person": "Mimi Lien",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Assembled Parties",
+        "person": "Santo Loquasto",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Anna Louizos",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Golden Boy",
+        "person": "Michael Yeargan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Flick",
+        "person": "David Zinn",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "person": "William Ivey Long",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Chaplin",
+        "person": "Amy Clark and Martin Pakledinaz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Pippin",
+        "person": "Dominique Lemieux",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Chris March's The Butt-Cracker Suite! A Trailer Park Ballet",
+        "person": "Chris March",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Restoration Comedy",
+        "person": "Loren Shaw",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Natasha, Pierre and the Great Comet of 1812",
+        "person": "Paloma Young",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Here Lies Love",
+        "person": "Justin Townsend",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Chaplin: The Musical",
+        "person": "Ken Billington",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Passion",
+        "person": "Jane Cox",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Pippin",
+        "person": "Kenneth Posner",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "A Civil War Christmas",
+        "person": "Scott Zielinski",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Grace",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Lucky Guy",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Nance",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Testament of Mary",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Kinky Boots",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Chaplin The Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Hands On a Hardbody",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Matilda the Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "A Christmas Story: The Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "My Name Is Asher Lev",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Whale",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Really Really",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Cock",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Bad Jews",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Here Lies Love",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "February House",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Dogfight",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Giant",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Murder Ballad",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Trip to Bountiful",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Piano Lesson",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Orphans",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Golden Boy",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Pippin",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Annie",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Passion",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "My Name Is Asher Lev",
+        "person": "Aaron Posner",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Disgraced",
+        "person": "Ayad Akhtar",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Really Really",
+        "person": "Paul Downs Colaizzo",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Bad Jews",
+        "person": "Joshua Harmon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "The Whale",
+        "person": "Samuel D. Hunter",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Kinky Boots",
+        "person": "Cyndi Lauper",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Chaplin",
+        "person": "Christopher Curtis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Dogfight",
+        "person": "Benj Pasek and Justin Paul",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Hands on a Hardbody",
+        "person": "Amanda Green and Trey Anastasio",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Here Lies Love",
+        "person": "David Byrne and Fatboy Slim",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Matilda the Musical",
+        "person": "Dennis Kelly",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Kinky Boots",
+        "person": "Harvey Fierstein",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Dogfight",
+        "person": "Peter Duchan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Chaplin",
+        "person": "Christopher Curtis and Thomas Meehan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "Douglas Carter Beane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Nance",
+        "person": "Jack O'Brien",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": "Nicholas Martin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Pam MacKinnon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Michael Wilson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Golden Boy",
+        "person": "Bartlett Sher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Pippin",
+        "person": "Diane Paulus",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Chaplin The Musical",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Kinky Boots",
+        "person": "Jerry Mitchell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Here Lies Love",
+        "person": "Alex Timbers",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Pippin",
+        "person": "Chet Walker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Chaplin The Musical",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Matilda the Musical",
+        "person": "Peter Darling",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Kinky Boots",
+        "person": "Jerry Mitchell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "Josh Rhodes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Nance",
+        "person": "Nathan Lane",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Lucky Guy",
+        "person": "Tom Hanks",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Whale",
+        "person": "Shuler Hensley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Tracy Letts",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": "David Hyde Pierce",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Cicely Tyson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Revisionist",
+        "person": "Vanessa Redgrave",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Bad Jews",
+        "person": "Tracee Chimo",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Amy Morton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Ivanov",
+        "person": "Joely Richardson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Kinky Boots",
+        "person": "Billy Porter",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Pippin",
+        "person": "Matthew James Thomas",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Matilda the Musical",
+        "person": "Bertie Carvel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "Santino Fontana",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Chaplin The Musical",
+        "person": "Rob McClure",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Pippin",
+        "person": "Patina Miller",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Annie",
+        "person": "Lilla Crawford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Dogfight",
+        "person": "Lindsay Mendez",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "Laura Osnes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Motown: The Musical",
+        "person": "Valisia LeKae",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Orphans",
+        "person": "Tom Sturridge",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Golden Boy",
+        "person": "Danny Burstein",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Big Knife",
+        "person": "Richard Kind",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Nance",
+        "person": "Jonny Orsini",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Golden Boy",
+        "person": "Tony Shalhoub",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": "Kristine Nielsen",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Assembled Parties",
+        "person": "Judith Light",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Nance",
+        "person": "Cady Huffman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Heiress",
+        "person": "Judith Ivey",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Vanessa Williams",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Pippin",
+        "person": "Terrence Mann",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Mystery of Edwin Drood",
+        "person": "Will Chase",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Motown: The Musical",
+        "person": "Raymond Luke Jr.",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "A Christmas Story: The Musical",
+        "person": "Dan Lauria",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kinky Boots",
+        "person": "Daniel Stewart Sherman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Pippin",
+        "person": "Andrea Martin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Kinky Boots",
+        "person": "Annaleigh Ashford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Hands on a Hardbody",
+        "person": "Keala Settle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "Victoria Clark",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Pippin",
+        "person": "Charlotte d'Amboise",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Ann",
+        "person": "Holland Taylor",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "All the Rage",
+        "person": "Martin Moran",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "The Testament of Mary",
+        "person": "Fiona Shaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Buyer & Cellar",
+        "person": "Michael Urie",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "I'll Eat You Last: A Chat With Sue Mengers",
+        "person": "Bette Midler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design (Play or Musical)",
+        "show": "Matilda the Musical",
+        "person": "Rob Howell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design (Play or Musical)",
+        "show": "Pippin",
+        "person": "Scott Pask",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design (Play or Musical)",
+        "show": "The Nance",
+        "person": "John Lee Beatty",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design (Play or Musical)",
+        "show": "Golden Boy",
+        "person": "Michael H. Yeargan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design (Play or Musical)",
+        "show": "Here Lies Love",
+        "person": "David Korins",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design (Play or Musical)",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "William Ivey Long",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design (Play or Musical)",
+        "show": "Pippin",
+        "person": "Dominique Lemieux",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design (Play or Musical)",
+        "show": "Chaplin The Musical",
+        "person": "Amy Clark and Martin Pakledinaz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design (Play or Musical)",
+        "show": "Kinky Boots",
+        "person": "Gregg Barnes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design (Play or Musical)",
+        "show": "Pippin",
+        "person": "Kenneth Posner",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design (Play or Musical)",
+        "show": "Golden Boy",
+        "person": "Donald Holder",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design (Play or Musical)",
+        "show": "Dogfight",
+        "person": "Paul Gallo",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design (Play or Musical)",
+        "show": "Chaplin The Musical",
+        "person": "Ken Billington",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design (Play or Musical)",
+        "show": "Rodgers & Hammerstein's Cinderella",
+        "person": "Kenneth Posner",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Kinky Boots",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Pippin",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "The Nance",
+        "person": "Nathan Lane",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Vanya and Sonia and Masha and Spike",
+        "person": "Christopher Durang",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Matilda the Musical",
+        "person": "Tim Minchin and Dennis Kelly",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ]
+  }
+}

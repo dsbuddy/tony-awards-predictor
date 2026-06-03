@@ -1,0 +1,1337 @@
+{
+  "year": 2016,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2015-2016 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Humans",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Eclipsed",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Father",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "King Charles III",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "humans"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Bright Star",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "School of Rock",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Waitress",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "hamilton"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "A View from the Bridge",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Blackbird",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Crucible",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey Into Night",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Noises Off",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "view from the bridge"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "The Color Purple",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "She Loves Me",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Spring Awakening",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "color purple"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Lin-Manuel Miranda",
+          "won": true
+        },
+        {
+          "show": "Bright Star",
+          "person": "Steve Martin",
+          "won": false
+        },
+        {
+          "show": "School of Rock",
+          "person": "Julian Fellowes",
+          "won": false
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "George C. Wolfe",
+          "won": false
+        }
+      ],
+      "winner": "lin manuel miranda|hamilton"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Lin-Manuel Miranda",
+          "won": true
+        },
+        {
+          "show": "Bright Star",
+          "person": "Edie Brickell and Steve Martin",
+          "won": false
+        },
+        {
+          "show": "School of Rock",
+          "person": "Andrew Lloyd Webber and Glenn Slater",
+          "won": false
+        },
+        {
+          "show": "Waitress",
+          "person": "Sara Bareilles",
+          "won": false
+        }
+      ],
+      "winner": "lin manuel miranda|hamilton"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "The Father",
+          "person": "Frank Langella",
+          "won": true
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Gabriel Byrne",
+          "won": false
+        },
+        {
+          "show": "Blackbird",
+          "person": "Jeff Daniels",
+          "won": false
+        },
+        {
+          "show": "King Charles III",
+          "person": "Tim Pigott-Smith",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Mark Strong",
+          "won": false
+        }
+      ],
+      "winner": "frank langella|father"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Jessica Lange",
+          "won": true
+        },
+        {
+          "show": "Misery",
+          "person": "Laurie Metcalf",
+          "won": false
+        },
+        {
+          "show": "Eclipsed",
+          "person": "Lupita Nyong'o",
+          "won": false
+        },
+        {
+          "show": "The Crucible",
+          "person": "Sophie Okonedo",
+          "won": false
+        },
+        {
+          "show": "Blackbird",
+          "person": "Michelle Williams",
+          "won": false
+        }
+      ],
+      "winner": "jessica lange|long days journey into night"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Leslie Odom Jr.",
+          "won": true
+        },
+        {
+          "show": "School of Rock",
+          "person": "Alex Brightman",
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "She Loves Me",
+          "person": "Zachary Levi",
+          "won": false
+        },
+        {
+          "show": "Hamilton",
+          "person": "Lin-Manuel Miranda",
+          "won": false
+        }
+      ],
+      "winner": "leslie odom jr|hamilton"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Color Purple",
+          "person": "Cynthia Erivo",
+          "won": true
+        },
+        {
+          "show": "She Loves Me",
+          "person": "Laura Benanti",
+          "won": false
+        },
+        {
+          "show": "Bright Star",
+          "person": "Carmen Cusack",
+          "won": false
+        },
+        {
+          "show": "Waitress",
+          "person": "Jessie Mueller",
+          "won": false
+        },
+        {
+          "show": "Hamilton",
+          "person": "Phillipa Soo",
+          "won": false
+        }
+      ],
+      "winner": "cynthia erivo|color purple"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "The Humans",
+          "person": "Reed Birney",
+          "won": true
+        },
+        {
+          "show": "The Crucible",
+          "person": "Bill Camp",
+          "won": false
+        },
+        {
+          "show": "Noises Off",
+          "person": "David Furr",
+          "won": false
+        },
+        {
+          "show": "King Charles III",
+          "person": "Richard Goulding",
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Michael Shannon",
+          "won": false
+        }
+      ],
+      "winner": "reed birney|humans"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "The Humans",
+          "person": "Jayne Houdyshell",
+          "won": true
+        },
+        {
+          "show": "Eclipsed",
+          "person": "Pascale Armand",
+          "won": false
+        },
+        {
+          "show": "Noises Off",
+          "person": "Megan Hilty",
+          "won": false
+        },
+        {
+          "show": "Noises Off",
+          "person": "Andrea Martin",
+          "won": false
+        },
+        {
+          "show": "Eclipsed",
+          "person": "Saycon Sengbloh",
+          "won": false
+        }
+      ],
+      "winner": "jayne houdyshell|humans"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Daveed Diggs",
+          "won": true
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Brandon Victor Dixon",
+          "won": false
+        },
+        {
+          "show": "Waitress",
+          "person": "Christopher Fitzgerald",
+          "won": false
+        },
+        {
+          "show": "Hamilton",
+          "person": "Jonathan Groff",
+          "won": false
+        },
+        {
+          "show": "Hamilton",
+          "person": "Christopher Jackson",
+          "won": false
+        }
+      ],
+      "winner": "daveed diggs|hamilton"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Ren\u00e9e Elise Goldsberry",
+          "won": true
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Danielle Brooks",
+          "won": false
+        },
+        {
+          "show": "She Loves Me",
+          "person": "Jane Krakowski",
+          "won": false
+        },
+        {
+          "show": "Disaster!",
+          "person": "Jennifer Simard",
+          "won": false
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Adrienne Warren",
+          "won": false
+        }
+      ],
+      "winner": "ren\u00e9e elise goldsberry|hamilton"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "A View from the Bridge",
+          "person": "Ivo van Hove",
+          "won": true
+        },
+        {
+          "show": "King Charles III",
+          "person": "Rupert Goold",
+          "won": false
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Jonathan Kent",
+          "won": false
+        },
+        {
+          "show": "The Humans",
+          "person": "Joe Mantello",
+          "won": false
+        },
+        {
+          "show": "Eclipsed",
+          "person": "Liesl Tommy",
+          "won": false
+        }
+      ],
+      "winner": "ivo van hove|view from the bridge"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Thomas Kail",
+          "won": true
+        },
+        {
+          "show": "Spring Awakening",
+          "person": "Michael Arden",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "John Doyle",
+          "won": false
+        },
+        {
+          "show": "She Loves Me",
+          "person": "Scott Ellis",
+          "won": false
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "George C. Wolfe",
+          "won": false
+        }
+      ],
+      "winner": "thomas kail|hamilton"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Andy Blankenbuehler",
+          "won": true
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Savion Glover",
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "Hofesh Shechter",
+          "won": false
+        },
+        {
+          "show": "Dames at Sea",
+          "person": "Randy Skinner",
+          "won": false
+        },
+        {
+          "show": "On Your Feet!",
+          "person": "Sergio Trujillo",
+          "won": false
+        }
+      ],
+      "winner": "andy blankenbuehler|hamilton"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Alex Lacamoire",
+          "won": true
+        },
+        {
+          "show": "Bright Star",
+          "person": "August Eriksmoen",
+          "won": false
+        },
+        {
+          "show": "She Loves Me",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Daryl Waters",
+          "won": false
+        }
+      ],
+      "winner": "alex lacamoire|hamilton"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Humans",
+          "person": "David Zinn",
+          "won": true
+        },
+        {
+          "show": "Th\u00e9r\u00e8se Raquin",
+          "person": "Beowulf Boritt",
+          "won": false
+        },
+        {
+          "show": "Hughie",
+          "person": "Christopher Oram",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Jan Versweyveld",
+          "won": false
+        }
+      ],
+      "winner": "david zinn|humans"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Eclipsed",
+          "person": "Clint Ramos",
+          "won": true
+        },
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Jane Greenwood",
+          "won": false
+        },
+        {
+          "show": "Noises Off",
+          "person": "Michael Krass",
+          "won": false
+        },
+        {
+          "show": "King Charles III",
+          "person": "Tom Scutt",
+          "won": false
+        }
+      ],
+      "winner": "clint ramos|eclipsed"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Long Day's Journey into Night",
+          "person": "Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "The Humans",
+          "person": "Justin Townsend",
+          "won": false
+        },
+        {
+          "show": "The Crucible",
+          "person": "Jan Versweyveld",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Jan Versweyveld",
+          "won": false
+        }
+      ],
+      "winner": "natasha katz|long days journey into night"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "She Loves Me",
+          "person": "David Rockwell",
+          "won": true
+        },
+        {
+          "show": "American Psycho",
+          "person": "Es Devlin and Finn Ross",
+          "won": false
+        },
+        {
+          "show": "Hamilton",
+          "person": "David Korins",
+          "won": false
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Santo Loquasto",
+          "won": false
+        }
+      ],
+      "winner": "david rockwell|she loves me"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Paul Tazewell",
+          "won": true
+        },
+        {
+          "show": "Tuck Everlasting",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "She Loves Me",
+          "person": "Jeff Mahshie",
+          "won": false
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Ann Roth",
+          "won": false
+        }
+      ],
+      "winner": "paul tazewell|hamilton"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Hamilton",
+          "person": "Howell Binkley",
+          "won": true
+        },
+        {
+          "show": "Shuffle Along",
+          "person": "Jules Fisher and Peggy Eisenhauer",
+          "won": false
+        },
+        {
+          "show": "Spring Awakening",
+          "person": "Ben Stanton",
+          "won": false
+        },
+        {
+          "show": "American Psycho",
+          "person": "Justin Townsend",
+          "won": false
+        }
+      ],
+      "winner": "howell binkley|hamilton"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The Humans",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Shuffle Along",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "A View from the Bridge",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "She Loves Me",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Father",
+        "person": "Frank Langella",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Long Day's Journey Into Night",
+        "person": "Jessica Lange",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Fiddler on the Roof",
+        "person": "Danny Burstein",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Color Purple",
+        "person": "Cynthia Erivo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Long Day's Journey Into Night",
+        "person": "Michael Shannon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Eclipsed",
+        "person": "Saycon Sengbloh",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Waitress",
+        "person": "Christopher Fitzgerald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "She Loves Me",
+        "person": "Jane Krakowski",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A View from the Bridge",
+        "person": "Ivo van Hove",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Color Purple",
+        "person": "John Doyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Fiddler on the Roof",
+        "person": "Bartlett Sher",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Shuffle Along",
+        "person": "Savion Glover",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Bright Star",
+        "person": "Steve Martin and Edie Brickell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Dear Evan Hansen",
+        "person": "Benj Pasek and Justin Paul",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Daddy Long Legs",
+        "person": "John Caird",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "She Loves Me",
+        "person": "Larry Hochman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music in a Play",
+        "show": "The Crucible",
+        "person": "Philip Glass",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design for a Play",
+        "show": "Hughie",
+        "person": "Christopher Oram",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design for a Musical",
+        "show": "She Loves Me",
+        "person": "David Rockwell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design for a Play",
+        "show": "The Legend of Georgia McBride",
+        "person": "Anita Yavich",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design for a Musical",
+        "show": "Shuffle Along",
+        "person": "Ann Roth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design for a Play",
+        "show": "The Humans",
+        "person": "Justin Townsend",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design for a Musical",
+        "show": "American Psycho",
+        "person": "Justin Townsend",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "American Psycho",
+        "person": "Finn Ross",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design for a Play",
+        "show": "The Humans",
+        "person": "Fitz Patton",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design for a Musical",
+        "show": "American Psycho",
+        "person": "Dan Moses Schreier",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Wig and Hair Design",
+        "show": "Shuffle Along",
+        "person": "Mia M. Neal",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Fully Committed",
+        "person": "Jesse Tyler Ferguson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Humans",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Eclipsed",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Father",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "King Charles III",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Th\u00e9r\u00e8se Raquin",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Bright Star",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "American Psycho",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "On Your Feet!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Tuck Everlasting",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Waitress",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Long Day's Journey Into Night",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Blackbird",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Crucible",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Fool for Love",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "A View from the Bridge",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "She Loves Me",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Color Purple",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Dames at Sea",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Fiddler on the Roof",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Spring Awakening",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Christians",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Dear Evan Hansen",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Dear Evan Hansen",
+        "person": "Steven Levenson",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Bright Star",
+        "person": "Steve Martin and Edie Brickell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A View from the Bridge",
+        "person": "Ivo van Hove",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Spring Awakening",
+        "person": "Michael Arden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "On Your Feet!",
+        "person": "Sergio Trujillo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Father",
+        "person": "Frank Langella",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Long Day's Journey Into Night",
+        "person": "Jessica Lange",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Long Day's Journey Into Night",
+        "person": "Michael Shannon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Eclipsed",
+        "person": "Pascale Armand",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Th\u00e9r\u00e8se Raquin",
+        "person": "Judith Light",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Fiddler on the Roof",
+        "person": "Danny Burstein",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Color Purple",
+        "person": "Cynthia Erivo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Waitress",
+        "person": "Christopher Fitzgerald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "She Loves Me",
+        "person": "Jane Krakowski",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "The Absolute Brightness of Leonard Pelkey",
+        "person": "James Lecesne",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "She Loves Me",
+        "person": "David Rockwell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "She Loves Me",
+        "person": "Jeff Mahshie",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "American Psycho",
+        "person": "Justin Townsend",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "American Psycho",
+        "person": "Finn Ross",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "The Royale",
+        "person": "Marco Ramirez",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "The Humans",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Hamilton",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "A View from the Bridge",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "The Color Purple",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Humans",
+        "person": "Stephen Karam",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ]
+  }
+}

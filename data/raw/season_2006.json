@@ -1,0 +1,2315 @@
+{
+  "year": 2006,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2005-2006 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The History Boys",
+          "person": "Alan Bennett",
+          "won": true
+        },
+        {
+          "show": "The Lieutenant of Inishmore",
+          "person": "Martin McDonagh",
+          "won": false
+        },
+        {
+          "show": "Rabbit Hole",
+          "person": "David Lindsay-Abaire",
+          "won": false
+        },
+        {
+          "show": "Shining City",
+          "person": "Conor McPherson",
+          "won": false
+        }
+      ],
+      "winner": "alan bennett|history boys"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Jersey Boys",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Color Purple",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Wedding Singer",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "jersey boys"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Awake and Sing!",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Constant Wife",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Faith Healer",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Seascape",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "awake and sing"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "The Pajama Game",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Threepenny Opera",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "pajama game"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Bob Martin and Don McKellar",
+          "won": true
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Marsha Norman",
+          "won": false
+        },
+        {
+          "show": "Jersey Boys",
+          "person": "Marshall Brickman and Rick Elice",
+          "won": false
+        },
+        {
+          "show": "The Wedding Singer",
+          "person": "Chad Beguelin and Tim Herlihy",
+          "won": false
+        }
+      ],
+      "winner": "bob martin and don mckellar|drowsy chaperone"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Lisa Lambert and Greg Morrison",
+          "won": true
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Brenda Russell, Allee Willis and Stephen Bray",
+          "won": false
+        },
+        {
+          "show": "The Wedding Singer",
+          "person": "Matthew Sklar (music), Chad Beguelin (lyrics)",
+          "won": false
+        },
+        {
+          "show": "The Woman in White",
+          "person": "Andrew Lloyd Webber (music), David Zippel (lyrics)",
+          "won": false
+        }
+      ],
+      "winner": "lisa lambert and greg morrison|drowsy chaperone"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "The History Boys",
+          "person": "Richard Griffiths",
+          "won": true
+        },
+        {
+          "show": "Faith Healer",
+          "person": "Ralph Fiennes",
+          "won": false
+        },
+        {
+          "show": "The Caine Mutiny Court-Martial",
+          "person": "\u017deljko Ivanek",
+          "won": false
+        },
+        {
+          "show": "Shining City",
+          "person": "Oliver Platt",
+          "won": false
+        },
+        {
+          "show": "The Lieutenant of Inishmore",
+          "person": "David Wilmot",
+          "won": false
+        }
+      ],
+      "winner": "richard griffiths|history boys"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Rabbit Hole",
+          "person": "Cynthia Nixon",
+          "won": true
+        },
+        {
+          "show": "The Constant Wife",
+          "person": "Kate Burton",
+          "won": false
+        },
+        {
+          "show": "Souvenir",
+          "person": "Judy Kaye",
+          "won": false
+        },
+        {
+          "show": "Well",
+          "person": "Lisa Kron",
+          "won": false
+        },
+        {
+          "show": "The Constant Wife",
+          "person": "Lynn Redgrave",
+          "won": false
+        }
+      ],
+      "winner": "cynthia nixon|rabbit hole"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Jersey Boys",
+          "person": "John Lloyd Young",
+          "won": true
+        },
+        {
+          "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "person": "Michael Cerveris",
+          "won": false
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Harry Connick Jr.",
+          "won": false
+        },
+        {
+          "show": "The Wedding Singer",
+          "person": "Stephen Lynch",
+          "won": false
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Bob Martin",
+          "won": false
+        }
+      ],
+      "winner": "john lloyd young|jersey boys"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Color Purple",
+          "person": "LaChanze",
+          "won": true
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Sutton Foster",
+          "won": false
+        },
+        {
+          "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "person": "Patti LuPone",
+          "won": false
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Kelli O'Hara",
+          "won": false
+        },
+        {
+          "show": "Chita Rivera: The Dancer's Life",
+          "person": "Chita Rivera",
+          "won": false
+        }
+      ],
+      "winner": "lachanze|color purple"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Faith Healer",
+          "person": "Ian McDiarmid",
+          "won": true
+        },
+        {
+          "show": "The History Boys",
+          "person": "Samuel Barnett",
+          "won": false
+        },
+        {
+          "show": "The Lieutenant of Inishmore",
+          "person": "Domhnall Gleeson",
+          "won": false
+        },
+        {
+          "show": "Awake and Sing!",
+          "person": "Mark Ruffalo",
+          "won": false
+        },
+        {
+          "show": "Awake and Sing!",
+          "person": "Pablo Schreiber",
+          "won": false
+        }
+      ],
+      "winner": "ian mcdiarmid|faith healer"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "The History Boys",
+          "person": "Frances de la Tour",
+          "won": true
+        },
+        {
+          "show": "Rabbit Hole",
+          "person": "Tyne Daly",
+          "won": false
+        },
+        {
+          "show": "Well",
+          "person": "Jayne Houdyshell",
+          "won": false
+        },
+        {
+          "show": "The Lieutenant of Inishmore",
+          "person": "Alison Pill",
+          "won": false
+        },
+        {
+          "show": "Awake and Sing!",
+          "person": "Zo\u00eb Wanamaker",
+          "won": false
+        }
+      ],
+      "winner": "frances de la tour|history boys"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Jersey Boys",
+          "person": "Christian Hoff",
+          "won": true
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "The Threepenny Opera",
+          "person": "Jim Dale",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Brandon Victor Dixon",
+          "won": false
+        },
+        {
+          "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "person": "Manoel Felciano",
+          "won": false
+        }
+      ],
+      "winner": "christian hoff|jersey boys"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Beth Leavel",
+          "won": true
+        },
+        {
+          "show": "Lestat",
+          "person": "Carolee Carmello",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Felicia P. Fields",
+          "won": false
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Megan Lawrence",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Elisabeth Withers",
+          "won": false
+        }
+      ],
+      "winner": "beth leavel|drowsy chaperone"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "The History Boys",
+          "person": "Nicholas Hytner",
+          "won": true
+        },
+        {
+          "show": "The Lieutenant of Inishmore",
+          "person": "Wilson Milam",
+          "won": false
+        },
+        {
+          "show": "Awake and Sing!",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "Rabbit Hole",
+          "person": "Daniel Sullivan",
+          "won": false
+        }
+      ],
+      "winner": "nicholas hytner|history boys"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "person": "John Doyle",
+          "won": true
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Kathleen Marshall",
+          "won": false
+        },
+        {
+          "show": "Jersey Boys",
+          "person": "Des McAnuff",
+          "won": false
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Casey Nicholaw",
+          "won": false
+        }
+      ],
+      "winner": "john doyle|sweeney todd the demon barber of fleet street"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "The Pajama Game",
+          "person": "Kathleen Marshall",
+          "won": true
+        },
+        {
+          "show": "The Wedding Singer",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Donald Byrd",
+          "won": false
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Casey Nicholaw",
+          "won": false
+        }
+      ],
+      "winner": "kathleen marshall|pajama game"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "person": "Sarah Travis",
+          "won": true
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Larry Blank",
+          "won": false
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Dick Lieb and Danny Troob",
+          "won": false
+        },
+        {
+          "show": "Jersey Boys",
+          "person": "Steve Orich",
+          "won": false
+        }
+      ],
+      "winner": "sarah travis|sweeney todd the demon barber of fleet street"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The History Boys",
+          "person": "Bob Crowley",
+          "won": true
+        },
+        {
+          "show": "Rabbit Hole",
+          "person": "John Lee Beatty",
+          "won": false
+        },
+        {
+          "show": "Three Days of Rain",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "Awake and Sing!",
+          "person": "Michael Yeargan",
+          "won": false
+        }
+      ],
+      "winner": "bob crowley|history boys"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Awake and Sing!",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "The Constant Wife",
+          "person": "Michael Krass",
+          "won": false
+        },
+        {
+          "show": "A Touch of the Poet",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "Seascape",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|awake and sing"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The History Boys",
+          "person": "Mark Henderson",
+          "won": true
+        },
+        {
+          "show": "Awake and Sing!",
+          "person": "Christopher Akerlind",
+          "won": false
+        },
+        {
+          "show": "Three Days of Rain",
+          "person": "Paul Gallo",
+          "won": false
+        },
+        {
+          "show": "Faith Healer",
+          "person": "Mark Henderson",
+          "won": false
+        }
+      ],
+      "winner": "mark henderson|history boys"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "David Gallo",
+          "won": true
+        },
+        {
+          "show": "The Color Purple",
+          "person": "John Lee Beatty",
+          "won": false
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Derek McLane",
+          "won": false
+        },
+        {
+          "show": "Jersey Boys",
+          "person": "Klara Zieglerova",
+          "won": false
+        }
+      ],
+      "winner": "david gallo|drowsy chaperone"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Gregg Barnes",
+          "won": true
+        },
+        {
+          "show": "Lestat",
+          "person": "Susan Hilferty",
+          "won": false
+        },
+        {
+          "show": "The Pajama Game",
+          "person": "Martin Pakledinaz",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Paul Tazewell",
+          "won": false
+        }
+      ],
+      "winner": "gregg barnes|drowsy chaperone"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Jersey Boys",
+          "person": "Howell Binkley",
+          "won": true
+        },
+        {
+          "show": "The Drowsy Chaperone",
+          "person": "Ken Billington and Brian Monahan",
+          "won": false
+        },
+        {
+          "show": "Tarzan",
+          "person": "Natasha Katz",
+          "won": false
+        },
+        {
+          "show": "The Color Purple",
+          "person": "Brian MacDevitt",
+          "won": false
+        }
+      ],
+      "winner": "howell binkley|jersey boys"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The History Boys",
+        "person": "Alan Bennett",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Dedication or The Stuff of Dreams",
+        "person": "Terrence McNally",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Lieutenant of Inishmore",
+        "person": "Martin McDonagh",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "No Foreigners Beyond This Point",
+        "person": "Warren Leight",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Pavilion",
+        "person": "Craig Wright",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Stuff Happens",
+        "person": "David Hare",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Drowsy Chaperone",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Grey Gardens",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Jersey Boys",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "See What I Wanna See",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Thrill Me",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Wedding Singer",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Awake and Sing!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Caine Mutiny Court-Martial",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Philadelphia, Here I Come!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Soldier's Wife",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Traveling Lady",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Trip to Bountiful",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Jacques Brel is Alive and Well and Living in Paris",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Pajama Game",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The History Boys",
+        "person": "Richard Griffiths",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Candy & Dorothy",
+        "person": "Vince Gatton",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Paris Letter",
+        "person": "John Glover",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Caine Mutiny Court-Martial",
+        "person": "\u017deljko Ivanek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Dedication or The Stuff of Dreams",
+        "person": "Nathan Lane",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Shining City",
+        "person": "Br\u00edan F. O'Byrne",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Lois Smith",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Defiance",
+        "person": "Margaret Colin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Faith Healer",
+        "person": "Cherry Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Abigail's Party",
+        "person": "Jennifer Jason Leigh",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Entertaining Mr Sloane",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Little Dog Laughed",
+        "person": "Julie White",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Jersey Boys",
+        "person": "John Lloyd Young",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Michael Cerveris",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Pajama Game",
+        "person": "Harry Connick Jr.",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "See What I Wanna See",
+        "person": "Marc Kudisch",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Wedding Singer",
+        "person": "Stephen Lynch",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Bob Martin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Grey Gardens",
+        "person": "Christine Ebersole",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Fanny Hill",
+        "person": "Nancy Anderson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Sutton Foster",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Patti LuPone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "See What I Wanna See",
+        "person": "Idina Menzel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Pajama Game",
+        "person": "Kelli O'Hara",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The History Boys",
+        "person": "Samuel Barnett",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Devon Abner",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The History Boys",
+        "person": "Dominic Cooper",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Paris Letter",
+        "person": "Jason Butler Harner",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The History Boys",
+        "person": "Stephen Campbell Moore",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Celebration and The Room",
+        "person": "David Pittu",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The History Boys",
+        "person": "Frances de la Tour",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Abigail's Party",
+        "person": "Lisa Emery",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Soldier's Wife",
+        "person": "Judith Hawking",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Paris Letter",
+        "person": "Michele Pawk",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Constant Wife",
+        "person": "Lynn Redgrave",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Dedication or The Stuff of Dreams",
+        "person": "Marian Seldes",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Threepenny Opera",
+        "person": "Jim Dale",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Alexander Gemignani",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Jersey Boys",
+        "person": "Christian Hoff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Eddie Korbich",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Grey Gardens",
+        "person": "John McMartin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Jersey Boys",
+        "person": "Daniel Reichard",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Beth Leavel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Lestat",
+        "person": "Carolee Carmello",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Great American Trailer Park Musical",
+        "person": "Leslie Kritzer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Wedding Singer",
+        "person": "Amy Spanger",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "See What I Wanna See",
+        "person": "Mary Testa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Grey Gardens",
+        "person": "Mary Louise Wilson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The History Boys",
+        "person": "Nicholas Hytner",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Private Fears in Public Places",
+        "person": "Alan Ayckbourn",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Agamemnon",
+        "person": "Gisela Cardenas",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Stuff Happens",
+        "person": "Daniel J. Sullivan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Peer Gynt",
+        "person": "Robert Wilson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Caine Mutiny Court-Martial",
+        "person": "Jerry Zaks",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "John Doyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Grey Gardens",
+        "person": "Michael Greif",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Rain",
+        "person": "Daniele Finzi Pasca",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Jersey Boys",
+        "person": "Des McAnuff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Pajama Game",
+        "person": "Kathleen Marshall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Bob Martin and Don McKellar",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Jersey Boys",
+        "person": "Rick Elice and Marshall Brickman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Grey Gardens",
+        "person": "Doug Wright",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Drowsy Chaperone",
+        "person": "Lisa Lambert and Greg Morrison",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Thrill Me",
+        "person": "Stephen Dolginoff",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Grey Gardens",
+        "person": "Scott Frankel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "See What I Wanna See",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Pursuit of Persephone",
+        "person": "Peter Mills",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Wedding Singer",
+        "person": "Matthew Sklar",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Drowsy Chaperone",
+        "person": "Lisa Lambert and Greg Morrison",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Wedding Singer",
+        "person": "Chad Beguelin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Songs from an Unmade Bed",
+        "person": "Mark Campbell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "I Love You Because",
+        "person": "Ryan Cunningham",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Grey Gardens",
+        "person": "Michael Korie",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "See What I Wanna See",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Sarah Travis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Drowsy Chaperone",
+        "person": "Larry Blank",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Grey Gardens",
+        "person": "Bruce Coughlin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Pursuit of Persephone",
+        "person": "Daniel Feyer and Peter Mills",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Pajama Game",
+        "person": "Danny Troob and Dick Lieb",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Pajama Game",
+        "person": "Kathleen Marshall",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Wedding Singer",
+        "person": "Rob Ashford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Golden Dragon Acrobats",
+        "person": "Angela Chang",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Bernarda Alba",
+        "person": "Graciela Daniele",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Drowsy Chaperone",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Jersey Boys",
+        "person": "Sergio Trujillo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Drowsy Chaperone",
+        "person": "David Gallo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Drowsy Chaperone",
+        "person": "Gregg Barnes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Abigail's Party",
+        "person": "Eric Becker",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Wedding Singer",
+        "person": "Gregory Gale",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Grey Gardens",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Peer Gynt",
+        "person": "Jacques Reynaud",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Wooden Breeks",
+        "person": "Anita Yavich",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Richard G. Jones",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Awake and Sing!",
+        "person": "Christopher Akerlind",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Asphalt Kiss",
+        "person": "Traci Klainer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Rain",
+        "person": "Martin Labrecque",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Trip to Bountiful",
+        "person": "John McKernon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Peer Gynt",
+        "person": "Robert Wilson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Jersey Boys",
+        "person": "Steve Canyon Kennedy",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "See What I Wanna See and The Drowsy Chaperone",
+        "person": "Acme Sound Partners",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Grey Gardens and The Pajama Game",
+        "person": "Brian Ronan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Dan Moses Schreier",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The History Boys",
+        "person": "Alan Bennett",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Lieutenant of Inishmore",
+        "person": "Martin McDonagh",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Primo",
+        "person": "Antony Sher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Festen",
+        "person": "David Eldridge",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Jersey Boys",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Color Purple",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Drowsy Chaperone",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Woman in White",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "The Drowsy Chaperone",
+        "person": "Lisa Lambert and Greg Morrison",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "See What I Wanna See",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "The Color Purple",
+        "person": "Brenda Russell, Allee Willis, Stephen Bray",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Grey Gardens",
+        "person": "Scott Frankel, Michael Korie",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Awake and Sing!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Caine Mutiny Court-Martial",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Trip to Bountiful",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Constant Wife",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Pajama Game",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Jacques Brel Is Alive and Well and Living in Paris",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Two Gentlemen of Verona",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A Touch of the Poet",
+        "person": "Gabriel Byrne",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Caine Mutiny Court-Martial",
+        "person": "\u017deljko Ivanek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Faith Healer",
+        "person": "Ian McDiarmid",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Lieutenant of Inishmore",
+        "person": "David Wilmot",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Lois Smith",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Rabbit Hole",
+        "person": "Cynthia Nixon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Little Dog Laughed",
+        "person": "Julie White",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Awake and Sing!",
+        "person": "Zo\u00eb Wanamaker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Jersey Boys",
+        "person": "John Lloyd Young",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Michael Cerveris",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Pajama Game",
+        "person": "Harry Connick Jr.",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Lestat",
+        "person": "Hugh Panaro",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Grey Gardens",
+        "person": "Christine Ebersole",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Color Purple",
+        "person": "LaChanze",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Patti LuPone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Pajama Game",
+        "person": "Kelli O'Hara",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The History Boys",
+        "person": "Richard Griffiths",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Entertaining Mr. Sloane",
+        "person": "Richard Easton",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Lieutenant of Inishmore",
+        "person": "Peter Gerety",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Awake and Sing!",
+        "person": "Mark Ruffalo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The History Boys",
+        "person": "Frances de la Tour",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Trip to Bountiful",
+        "person": "Hallie Foote",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Constant Wife",
+        "person": "Lynn Redgrave",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Entertaining Mr. Sloane",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Threepenny Opera",
+        "person": "Jim Dale",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Woman in White",
+        "person": "Michael Ball",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Pajama Game",
+        "person": "Peter Benson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Jersey Boys",
+        "person": "Christian Hoff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Beth Leavel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Pajama Game",
+        "person": "Megan Lawrence",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Grey Gardens",
+        "person": "Mary Louise Wilson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Color Purple",
+        "person": "Elisabeth Withers-Mendes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The History Boys",
+        "person": "Nicholas Hytner",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Awake and Sing!",
+        "person": "Bartlett Sher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Caine Mutiny Court-Martial",
+        "person": "Jerry Zaks",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Lieutenant of Inishmore",
+        "person": "Wilson Milam",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "John Doyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Pajama Game",
+        "person": "Kathleen Marshall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Jersey Boys",
+        "person": "Des McAnuff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Grey Gardens",
+        "person": "Michael Greif",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Pajama Game",
+        "person": "Kathleen Marshall",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Bernarda Alba",
+        "person": "Graciela Daniele",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Drowsy Chaperone",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Jersey Boys",
+        "person": "Sergio Trujillo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Drowsy Chaperone",
+        "person": "David Gallo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Color Purple",
+        "person": "John Lee Beatty",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Woman in White",
+        "person": "William Dudley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Grey Gardens",
+        "person": "Allen Moyer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Drowsy Chaperone",
+        "person": "Gregg Barnes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Grey Gardens",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Pajama Game",
+        "person": "Martin Pakledinaz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Woman in White",
+        "person": "William Dudley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Jersey Boys",
+        "person": "Howell Binkley",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Woman in White",
+        "person": "Paul Pyant",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Richard G. Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Tryst",
+        "person": "Jeff Nellis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "The History Boys",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Jersey Boys",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Awake and Sing!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Grey Gardens",
+        "person": "Christine Ebersole",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The History Boys",
+        "person": "Alan Bennett",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Best Musical",
+        "show": "The Drowsy Chaperone",
+        "person": "Bob Martin, Don McKellar, Lisa Lambert, Greg Morrison",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1008 @@
+{
+  "year": 2025,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2024-2025 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Purpose",
+          "won": true
+        },
+        {
+          "show": "English",
+          "won": false
+        },
+        {
+          "show": "The Hills of California",
+          "won": false
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "won": false
+        },
+        {
+          "show": "Oh, Mary!",
+          "won": false
+        }
+      ],
+      "winner": "purpose"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Maybe Happy Ending",
+          "won": true
+        },
+        {
+          "show": "Buena Vista Social Club",
+          "won": false
+        },
+        {
+          "show": "Dead Outlaw",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "won": false
+        },
+        {
+          "show": "Operation Mincemeat",
+          "won": false
+        }
+      ],
+      "winner": "maybe happy ending"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Eureka Day",
+          "won": true
+        },
+        {
+          "show": "Our Town",
+          "won": false
+        },
+        {
+          "show": "Romeo + Juliet",
+          "won": false
+        },
+        {
+          "show": "Yellow Face",
+          "won": false
+        }
+      ],
+      "winner": "eureka day"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Sunset Boulevard",
+          "won": true
+        },
+        {
+          "show": "Floyd Collins",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "won": false
+        },
+        {
+          "show": "Pirates! The Penzance Musical",
+          "won": false
+        }
+      ],
+      "winner": "sunset boulevard"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Will Aronson and Hue Park",
+          "won": true
+        },
+        {
+          "show": "Operation Mincemeat",
+          "person": "David Cumming, Felix Hagan, Natasha Hodgson, Zoe Roberts",
+          "won": false
+        },
+        {
+          "show": "Dead Outlaw",
+          "person": "Itamar Moses",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Marco Pennette",
+          "won": false
+        },
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Marco Ramirez",
+          "won": false
+        }
+      ],
+      "winner": "will aronson and hue park|maybe happy ending"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Will Aronson and Hue Park",
+          "won": true
+        },
+        {
+          "show": "Dead Outlaw",
+          "person": "Erik Della Penna and David Yazbek",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Noel Carey and Julia Mattison",
+          "won": false
+        },
+        {
+          "show": "Operation Mincemeat",
+          "person": "David Cumming, Felix Hagan, Natasha Hodgson, Zoe Roberts",
+          "won": false
+        },
+        {
+          "show": "Real Women Have Curves",
+          "person": "Joy Huerta and Benjamin Velez",
+          "won": false
+        }
+      ],
+      "winner": "will aronson and hue park|maybe happy ending"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Oh, Mary!",
+          "person": "Cole Escola",
+          "won": true
+        },
+        {
+          "show": "Good Night, and Good Luck",
+          "person": "George Clooney",
+          "won": false
+        },
+        {
+          "show": "Purpose",
+          "person": "Jon Michael Hill",
+          "won": false
+        },
+        {
+          "show": "Yellow Face",
+          "person": "Daniel Dae Kim",
+          "won": false
+        },
+        {
+          "show": "Purpose",
+          "person": "Harry Lennix",
+          "won": false
+        },
+        {
+          "show": "Stranger Things: The First Shadow",
+          "person": "Louis McCartney",
+          "won": false
+        }
+      ],
+      "winner": "cole escola|oh, mary!"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "The Picture of Dorian Gray",
+          "person": "Sarah Snook",
+          "won": true
+        },
+        {
+          "show": "The Hills of California",
+          "person": "Laura Donnelly",
+          "won": false
+        },
+        {
+          "show": "The Roommate",
+          "person": "Mia Farrow",
+          "won": false
+        },
+        {
+          "show": "Purpose",
+          "person": "LaTanya Richardson Jackson",
+          "won": false
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "person": "Sadie Sink",
+          "won": false
+        }
+      ],
+      "winner": "sarah snook|the picture of dorian gray"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Darren Criss",
+          "won": true
+        },
+        {
+          "show": "Dead Outlaw",
+          "person": "Andrew Durand",
+          "won": false
+        },
+        {
+          "show": "Sunset Boulevard",
+          "person": "Tom Francis",
+          "won": false
+        },
+        {
+          "show": "Just in Time",
+          "person": "Jonathan Groff",
+          "won": false
+        },
+        {
+          "show": "A Wonderful World",
+          "person": "James Monroe Iglehart",
+          "won": false
+        },
+        {
+          "show": "Floyd Collins",
+          "person": "Jeremy Jordan",
+          "won": false
+        }
+      ],
+      "winner": "darren criss|maybe happy ending"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Sunset Boulevard",
+          "person": "Nicole Scherzinger",
+          "won": true
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Megan Hilty",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Audra McDonald",
+          "won": false
+        },
+        {
+          "show": "Boop! The Musical",
+          "person": "Jasmine Amy Rogers",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Jennifer Simard",
+          "won": false
+        }
+      ],
+      "winner": "nicole scherzinger|sunset boulevard"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Yellow Face",
+          "person": "Francis Jue",
+          "won": true
+        },
+        {
+          "show": "Purpose",
+          "person": "Glenn Davis",
+          "won": false
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "person": "Gabriel Ebert",
+          "won": false
+        },
+        {
+          "show": "Glengarry Glen Ross",
+          "person": "Bob Odenkirk",
+          "won": false
+        },
+        {
+          "show": "Oh, Mary!",
+          "person": "Conrad Ricamora",
+          "won": false
+        }
+      ],
+      "winner": "francis jue|yellow face"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Purpose",
+          "person": "Kara Young",
+          "won": true
+        },
+        {
+          "show": "English",
+          "person": "Tala Ashe",
+          "won": false
+        },
+        {
+          "show": "Eureka Day",
+          "person": "Jessica Hecht",
+          "won": false
+        },
+        {
+          "show": "English",
+          "person": "Marjan Neshat",
+          "won": false
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "person": "Fina Strazza",
+          "won": false
+        }
+      ],
+      "winner": "kara young|purpose"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Operation Mincemeat",
+          "person": "Jak Malone",
+          "won": true
+        },
+        {
+          "show": "Smash",
+          "person": "Brooks Ashmanskas",
+          "won": false
+        },
+        {
+          "show": "Dead Outlaw",
+          "person": "Jeb Brown",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "Floyd Collins",
+          "person": "Taylor Trensch",
+          "won": false
+        }
+      ],
+      "winner": "jak malone|operation mincemeat"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Natalie Venetia Belcon",
+          "won": true
+        },
+        {
+          "show": "Dead Outlaw",
+          "person": "Julia Knitel",
+          "won": false
+        },
+        {
+          "show": "Just in Time",
+          "person": "Gracie Lawrence",
+          "won": false
+        },
+        {
+          "show": "Real Women Have Curves",
+          "person": "Justina Machado",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Joy Woods",
+          "won": false
+        }
+      ],
+      "winner": "natalie venetia belcon|buena vista social club"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Oh, Mary!",
+          "person": "Sam Pinkleton",
+          "won": true
+        },
+        {
+          "show": "English",
+          "person": "Knud Adams",
+          "won": false
+        },
+        {
+          "show": "The Hills of California",
+          "person": "Sam Mendes",
+          "won": false
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "person": "Danya Taymor",
+          "won": false
+        },
+        {
+          "show": "The Picture of Dorian Gray",
+          "person": "Kip Williams",
+          "won": false
+        }
+      ],
+      "winner": "sam pinkleton|oh, mary!"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Michael Arden",
+          "won": true
+        },
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Saheem Ali",
+          "won": false
+        },
+        {
+          "show": "Dead Outlaw",
+          "person": "David Cromer",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "Sunset Boulevard",
+          "person": "Jamie Lloyd",
+          "won": false
+        }
+      ],
+      "winner": "michael arden|maybe happy ending"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Patricia Delgado and Justin Peck",
+          "won": true
+        },
+        {
+          "show": "Smash",
+          "person": "Joshua Bergasse",
+          "won": false
+        },
+        {
+          "show": "Gypsy",
+          "person": "Camille A. Brown",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "Boop! The Musical",
+          "person": "Jerry Mitchell",
+          "won": false
+        }
+      ],
+      "winner": "patricia delgado and justin peck|buena vista social club"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Marco Paguia",
+          "won": true
+        },
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Will Aronson",
+          "won": false
+        },
+        {
+          "show": "Floyd Collins",
+          "person": "Bruce Coughlin",
+          "won": false
+        },
+        {
+          "show": "Sunset Boulevard",
+          "person": "David Cullen and Andrew Lloyd Webber",
+          "won": false
+        },
+        {
+          "show": "Just in Time",
+          "person": "Andrew Resnick and Michael Thurber",
+          "won": false
+        }
+      ],
+      "winner": "marco paguia|buena vista social club"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Stranger Things: The First Shadow",
+          "person": "Miriam Buether and 59 Productions",
+          "won": true
+        },
+        {
+          "show": "The Picture of Dorian Gray",
+          "person": "David Bergman and Marg Horwell",
+          "won": false
+        },
+        {
+          "show": "English",
+          "person": "Marsha Ginsberg",
+          "won": false
+        },
+        {
+          "show": "The Hills of California",
+          "person": "Rob Howell",
+          "won": false
+        },
+        {
+          "show": "Good Night, and Good Luck",
+          "person": "Scott Pask",
+          "won": false
+        }
+      ],
+      "winner": "miriam buether and 59 productions|stranger things: the first shadow"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Dane Laffrey and George Reeve",
+          "won": true
+        },
+        {
+          "show": "Swept Away",
+          "person": "Rachel Hauck",
+          "won": false
+        },
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Arnulfo Maldonado",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Derek McLane",
+          "won": false
+        },
+        {
+          "show": "Just in Time",
+          "person": "Derek McLane",
+          "won": false
+        }
+      ],
+      "winner": "dane laffrey and george reeve|maybe happy ending"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Picture of Dorian Gray",
+          "person": "Marg Horwell",
+          "won": true
+        },
+        {
+          "show": "Good Night, and Good Luck",
+          "person": "Brenda Abbandandolo",
+          "won": false
+        },
+        {
+          "show": "The Hills of California",
+          "person": "Rob Howell",
+          "won": false
+        },
+        {
+          "show": "Oh, Mary!",
+          "person": "Holly Pierson",
+          "won": false
+        },
+        {
+          "show": "Stranger Things: The First Shadow",
+          "person": "Brigitte Reiffenstuel",
+          "won": false
+        }
+      ],
+      "winner": "marg horwell|the picture of dorian gray"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Death Becomes Her",
+          "person": "Paul Tazewell",
+          "won": true
+        },
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Dede Ayite",
+          "won": false
+        },
+        {
+          "show": "Boop! The Musical",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Clint Ramos",
+          "won": false
+        },
+        {
+          "show": "Just in Time",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "paul tazewell|death becomes her"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Stranger Things: The First Shadow",
+          "person": "Jon Clark",
+          "won": true
+        },
+        {
+          "show": "Good Night, and Good Luck",
+          "person": "David Bengali and Heather Gilbert",
+          "won": false
+        },
+        {
+          "show": "The Hills of California",
+          "person": "Natasha Chivers",
+          "won": false
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "person": "Natasha Katz and Hannah Wasileski",
+          "won": false
+        },
+        {
+          "show": "The Picture of Dorian Gray",
+          "person": "Nick Schlieper",
+          "won": false
+        }
+      ],
+      "winner": "jon clark|stranger things: the first shadow"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Sunset Boulevard",
+          "person": "Jack Knowles",
+          "won": true
+        },
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Tyler Micoleau",
+          "won": false
+        },
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Ben Stanton",
+          "won": false
+        },
+        {
+          "show": "Floyd Collins",
+          "person": "Ruey Horng Sun and Scott Zielinski",
+          "won": false
+        },
+        {
+          "show": "Death Becomes Her",
+          "person": "Justin Townsend",
+          "won": false
+        }
+      ],
+      "winner": "jack knowles|sunset boulevard"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Stranger Things: The First Shadow",
+          "person": "Paul Arditti",
+          "won": true
+        },
+        {
+          "show": "John Proctor Is the Villain",
+          "person": "Palmer Hefferan",
+          "won": false
+        },
+        {
+          "show": "Good Night, and Good Luck",
+          "person": "Daniel Kluger",
+          "won": false
+        },
+        {
+          "show": "The Hills of California",
+          "person": "Nick Powell",
+          "won": false
+        },
+        {
+          "show": "The Picture of Dorian Gray",
+          "person": "Clemence Williams",
+          "won": false
+        }
+      ],
+      "winner": "paul arditti|stranger things: the first shadow"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Buena Vista Social Club",
+          "person": "Jonathan Deans",
+          "won": true
+        },
+        {
+          "show": "Sunset Boulevard",
+          "person": "Adam Fisher",
+          "won": false
+        },
+        {
+          "show": "Just in Time",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Maybe Happy Ending",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Floyd Collins",
+          "person": "Dan Moses Schreier",
+          "won": false
+        }
+      ],
+      "winner": "jonathan deans|buena vista social club"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Purpose",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Maybe Happy Ending",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Eureka Day",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Gypsy",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "The Hills of California",
+        "person": "Laura Donnelly",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "The Picture of Dorian Gray",
+        "person": "Sarah Snook",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "John Proctor Is the Villain",
+        "person": "Amalia Yoo",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Purpose",
+        "person": "Kara Young",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Gypsy",
+        "person": "Audra McDonald",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Boop! The Musical",
+        "person": "Jasmine Amy Rogers",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Smash",
+        "person": "Brooks Ashmanskas",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Operation Mincemeat",
+        "person": "Jak Malone",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Once Upon a Mattress",
+        "person": "Michael Urie",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "John Proctor Is the Villain",
+        "person": "Danya Taymor",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "Maybe Happy Ending",
+        "person": "Michael Arden",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Boop! The Musical",
+        "person": "Jerry Mitchell",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Maybe Happy Ending",
+        "person": "Will Aronson and Hue Park",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Maybe Happy Ending",
+        "person": "Will Aronson and Hue Park",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Maybe Happy Ending",
+        "person": "Will Aronson and Hue Park",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Just in Time",
+        "person": "Andrew Resnick and Michael Thurber",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Stranger Things: The First Shadow",
+        "person": "Miriam Buether, Jamie Harrison, and Chris Fisher",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Maybe Happy Ending",
+        "person": "Dane Laffrey and George Reeve",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Our Town",
+        "person": "Dede Ayite",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Boop! The Musical",
+        "person": "Gregg Barnes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Stranger Things: The First Shadow",
+        "person": "Jon Clark",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Sunset Boulevard",
+        "person": "Jack Knowles",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Stranger Things: The First Shadow",
+        "person": "Paul Arditti",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Just in Time",
+        "person": "Peter Hylenski",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Purpose",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Maybe Happy Ending",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "Sunset Boulevard",
+        "person": "Nicole Scherzinger",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Purpose",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Musical",
+        "show": "Maybe Happy Ending",
+        "won": true,
+        "is_broadway": true
+      }
+    ]
+  }
+}

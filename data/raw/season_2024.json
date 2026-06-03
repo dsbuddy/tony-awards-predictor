@@ -1,0 +1,3070 @@
+{
+  "year": 2024,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2023-2024 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Stereophonic",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Jaja's African Hair Braiding",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mary Jane",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mother Play",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Prayer for the French Republic",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "stereophonic"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "The Outsiders",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Illinoise",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Suffs",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "outsiders"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Appropriate",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "An Enemy of the People",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Purlie Victorious: A Non-Confederate Romp through the Cotton Patch",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "appropriate"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Merrily We Roll Along",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Gutenberg! The Musical!",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Who's Tommy",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "merrily we roll along"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Hell's Kitchen",
+          "person": "Kristoffer Diaz",
+          "won": false
+        },
+        {
+          "show": "The Notebook",
+          "person": "Bekah Brunstetter",
+          "won": false
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Justin Levine and Adam Rapp",
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": "Rick Elice",
+          "won": false
+        },
+        {
+          "show": "Suffs",
+          "person": "Shaina Taub",
+          "won": true
+        }
+      ],
+      "winner": "shaina taub|suffs"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Suffs",
+          "person": "Shaina Taub",
+          "won": true
+        },
+        {
+          "show": "Days of Wine and Roses",
+          "person": "Adam Guettel",
+          "won": false
+        },
+        {
+          "show": "Here Lies Love",
+          "person": "David Byrne and Fatboy Slim",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Will Butler",
+          "won": false
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Jamestown Revival (Zach Chance and Jonathan Clay) and Justin Levine",
+          "won": false
+        }
+      ],
+      "winner": "shaina taub|suffs"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "An Enemy of the People",
+          "person": "Jeremy Strong",
+          "won": true
+        },
+        {
+          "show": "Uncle Vanya",
+          "person": "William Jackson Harper",
+          "won": false
+        },
+        {
+          "show": "Purlie Victorious",
+          "person": "Leslie Odom Jr.",
+          "won": false
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "Liev Schreiber",
+          "won": false
+        },
+        {
+          "show": "Patriots",
+          "person": "Michael Stuhlbarg",
+          "won": false
+        }
+      ],
+      "winner": "jeremy strong|enemy of the people"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Appropriate",
+          "person": "Sarah Paulson",
+          "won": true
+        },
+        {
+          "show": "Prayer for the French Republic",
+          "person": "Betsy Aidem",
+          "won": false
+        },
+        {
+          "show": "Mother Play",
+          "person": "Jessica Lange",
+          "won": false
+        },
+        {
+          "show": "Mary Jane",
+          "person": "Rachel McAdams",
+          "won": false
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "Amy Ryan",
+          "won": false
+        }
+      ],
+      "winner": "sarah paulson|appropriate"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Merrily We Roll Along",
+          "person": "Jonathan Groff",
+          "won": true
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Brody Grant",
+          "won": false
+        },
+        {
+          "show": "The Notebook",
+          "person": "Dorian Harewood",
+          "won": false
+        },
+        {
+          "show": "Days of Wine and Roses",
+          "person": "Brian d'Arcy James",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Eddie Redmayne",
+          "won": false
+        }
+      ],
+      "winner": "jonathan groff|merrily we roll along"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Hell's Kitchen",
+          "person": "Maleah Joi Moon",
+          "won": true
+        },
+        {
+          "show": "Lempicka",
+          "person": "Eden Espinosa",
+          "won": false
+        },
+        {
+          "show": "Days of Wine and Roses",
+          "person": "Kelli O'Hara",
+          "won": false
+        },
+        {
+          "show": "The Notebook",
+          "person": "Maryann Plunkett",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Gayle Rankin",
+          "won": false
+        }
+      ],
+      "winner": "maleah joi moon|hells kitchen"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Stereophonic",
+          "person": "Will Brill",
+          "won": true
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Eli Gelb",
+          "won": false
+        },
+        {
+          "show": "Mother Play",
+          "person": "Jim Parsons",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Tom Pecinka",
+          "won": false
+        },
+        {
+          "show": "Appropriate",
+          "person": "Corey Stoll",
+          "won": false
+        }
+      ],
+      "winner": "will brill|stereophonic"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Purlie Victorious",
+          "person": "Kara Young",
+          "won": true
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "Quincy Tyler Bernstine",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Juliana Canfield",
+          "won": false
+        },
+        {
+          "show": "Mother Play",
+          "person": "Celia Keenan-Bolger",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Sarah Pidgeon",
+          "won": false
+        }
+      ],
+      "winner": "kara young|purlie victorious"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Merrily We Roll Along",
+          "person": "Daniel Radcliffe",
+          "won": true
+        },
+        {
+          "show": "Back to the Future: The Musical",
+          "person": "Roger Bart",
+          "won": false
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Joshua Boone",
+          "won": false
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Brandon Victor Dixon",
+          "won": false
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Sky Lakota-Lynch",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Steven Skybell",
+          "won": false
+        }
+      ],
+      "winner": "daniel radcliffe|merrily we roll along"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Hell's Kitchen",
+          "person": "Kecia Lewis",
+          "won": true
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Shoshana Bean",
+          "won": false
+        },
+        {
+          "show": "Lempicka",
+          "person": "Amber Iman",
+          "won": false
+        },
+        {
+          "show": "Suffs",
+          "person": "Nikki M. James",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Leslie Rodriguez Kritzer",
+          "won": false
+        },
+        {
+          "show": "Merrily We Roll Along",
+          "person": "Lindsay Mendez",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Bebe Neuwirth",
+          "won": false
+        }
+      ],
+      "winner": "kecia lewis|hells kitchen"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Stereophonic",
+          "person": "Daniel Aukin",
+          "won": true
+        },
+        {
+          "show": "Mary Jane",
+          "person": "Anne Kauffman",
+          "won": false
+        },
+        {
+          "show": "Purlie Victorious",
+          "person": "Kenny Leon",
+          "won": false
+        },
+        {
+          "show": "Appropriate",
+          "person": "Lila Neugebauer",
+          "won": false
+        },
+        {
+          "show": "Jaja's African Hair Braiding",
+          "person": "Whitney White",
+          "won": false
+        }
+      ],
+      "winner": "daniel aukin|stereophonic"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "The Outsiders",
+          "person": "Danya Taymor",
+          "won": true
+        },
+        {
+          "show": "Merrily We Roll Along",
+          "person": "Maria Friedman",
+          "won": false
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Michael Greif",
+          "won": false
+        },
+        {
+          "show": "Suffs",
+          "person": "Leigh Silverman",
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": "Jessica Stone",
+          "won": false
+        }
+      ],
+      "winner": "danya taymor|outsiders"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Illinoise",
+          "person": "Justin Peck",
+          "won": true
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Camille A. Brown",
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": "Shana Carroll and Jesse Robb",
+          "won": false
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Jeff Kuperman and Rick Kuperman",
+          "won": false
+        },
+        {
+          "show": "Here Lies Love",
+          "person": "Annie-B Parson",
+          "won": false
+        }
+      ],
+      "winner": "justin peck|illinoise"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Merrily We Roll Along",
+          "person": "Jonathan Tunick",
+          "won": true
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Adam Blackstone and Tom Kitt",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Will Butler and Justin Craig",
+          "won": false
+        },
+        {
+          "show": "The Outsiders",
+          "person": "Matt Hinkley, Justin Levine, and Jamestown Revival (Zach Chance and Jonathan Clay)",
+          "won": false
+        },
+        {
+          "show": "Illinoise",
+          "person": "Timo Andres",
+          "won": false
+        }
+      ],
+      "winner": "jonathan tunick|merrily we roll along"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Stereophonic",
+          "person": "David Zinn",
+          "won": true
+        },
+        {
+          "show": "Appropriate",
+          "person": "dots",
+          "won": false
+        },
+        {
+          "show": "An Enemy of the People",
+          "person": "dots",
+          "won": false
+        },
+        {
+          "show": "Purlie Victorious",
+          "person": "Derek McLane",
+          "won": false
+        },
+        {
+          "show": "Jaja's African Hair Braiding",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "david zinn|stereophonic"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Jaja's African Hair Braiding",
+          "person": "Dede Ayite",
+          "won": true
+        },
+        {
+          "show": "Appropriate",
+          "person": "Dede Ayite",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Enver Chakartash",
+          "won": false
+        },
+        {
+          "show": "Purlie Victorious",
+          "person": "Emilio Sosa",
+          "won": false
+        },
+        {
+          "show": "An Enemy of the People",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "dede ayite|jajas african hair braiding"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Appropriate",
+          "person": "Jane Cox",
+          "won": true
+        },
+        {
+          "show": "An Enemy of the People",
+          "person": "Isabella Byrd",
+          "won": false
+        },
+        {
+          "show": "Prayer for the French Republic",
+          "person": "Amith Chandrashaker",
+          "won": false
+        },
+        {
+          "show": "Stereophonic",
+          "person": "Jiyoun Chang",
+          "won": false
+        },
+        {
+          "show": "Grey House",
+          "person": "Natasha Katz",
+          "won": false
+        }
+      ],
+      "winner": "jane cox|appropriate"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Stereophonic",
+          "person": "Ryan Rumery",
+          "won": true
+        },
+        {
+          "show": "Jaja's African Hair Braiding",
+          "person": "Stefania Bulbarella and Justin Ellington",
+          "won": false
+        },
+        {
+          "show": "Mary Jane",
+          "person": "Leah Gelpe",
+          "won": false
+        },
+        {
+          "show": "Grey House",
+          "person": "Tom Gibbons",
+          "won": false
+        },
+        {
+          "show": "Appropriate",
+          "person": "Will Pickens and Bray Poor",
+          "won": false
+        }
+      ],
+      "winner": "ryan rumery|stereophonic"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Tom Scutt",
+          "won": true
+        },
+        {
+          "show": "The Outsiders",
+          "person": "AMP featuring Tatiana Kahvegian",
+          "won": false
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Robert Brill and Peter Nigrini",
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": "Takeshi Kata",
+          "won": false
+        },
+        {
+          "show": "Here Lies Love",
+          "person": "David Korins",
+          "won": false
+        },
+        {
+          "show": "Back to the Future: The Musical",
+          "person": "Tim Hatley and Finn Ross",
+          "won": false
+        },
+        {
+          "show": "Lempicka",
+          "person": "Riccardo Hern\u00e1ndez and Peter Nigrini",
+          "won": false
+        }
+      ],
+      "winner": "tom scutt|cabaret at the kit kat club"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "The Great Gatsby",
+          "person": "Linda Cho",
+          "won": true
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Dede Ayite",
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": "David Israel Reynoso",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Tom Scutt",
+          "won": false
+        },
+        {
+          "show": "Suffs",
+          "person": "Paul Tazewell",
+          "won": false
+        }
+      ],
+      "winner": "linda cho|great gatsby"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "The Outsiders",
+          "person": "Hana S. Kim and Brian MacDevitt",
+          "won": true
+        },
+        {
+          "show": "Illinoise",
+          "person": "Brandon Stirling Baker",
+          "won": false
+        },
+        {
+          "show": "Water for Elephants",
+          "person": "David Bengali and Bradley King",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Isabella Byrd",
+          "won": false
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Natasha Katz",
+          "won": false
+        }
+      ],
+      "winner": "hana s kim and brian macdevitt|outsiders"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "The Outsiders",
+          "person": "Cody Spencer",
+          "won": true
+        },
+        {
+          "show": "Here Lies Love",
+          "person": "M. L. Dogg and Cody Spencer",
+          "won": false
+        },
+        {
+          "show": "Merrily We Roll Along",
+          "person": "Kai Harada",
+          "won": false
+        },
+        {
+          "show": "Cabaret at the Kit Kat Club",
+          "person": "Nick Lidster for Autograph",
+          "won": false
+        },
+        {
+          "show": "Hell's Kitchen",
+          "person": "Gareth Owen",
+          "won": false
+        }
+      ],
+      "winner": "cody spencer|outsiders"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Stereophonic",
+        "person": "David Adjmi",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Infinite Life",
+        "person": "Annie Baker",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Jaja's African Hair Braiding",
+        "person": "Jocelyn Bioh",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Mother Play",
+        "person": "Paula Vogel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Swing State",
+        "person": "Rebecca Gilman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Ally",
+        "person": "Itamar Moses",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Dead Outlaw",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Illinoise",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Lizard Boy",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Teeth",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Connector",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Outsiders",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Appropriate",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Doubt: A Parable",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Philadelphia, Here I Come!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Purlie Victorious",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Uncle Vanya",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "I Can Get It for You Wholesale",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Cabaret at the Kit Kat Club",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Gutenberg! The Musical!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Mother Play",
+        "person": "Jessica Lange",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Appropriate",
+        "person": "Sarah Paulson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Macbeth (an undoing)",
+        "person": "Nicole Cooper",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Primary Trust",
+        "person": "William Jackson Harper",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Mary Jane",
+        "person": "Rachel McAdams",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "The Hunt",
+        "person": "Tobias Menzies",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Purlie Victorious",
+        "person": "Leslie Odom, Jr.",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Philadelphia, Here I Come!",
+        "person": "A.J. Shively",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "The Doctor",
+        "person": "Juliet Stevenson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Patriots",
+        "person": "Michael Stuhlbarg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Days of Wine and Roses",
+        "person": "Brian d'Arcy James",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Hell's Kitchen",
+        "person": "Maleah Joi Moon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Days of Wine and Roses",
+        "person": "Kelli O'Hara",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Dead Outlaw",
+        "person": "Andrew Durand",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "I Can Get It for You Wholesale",
+        "person": "Santino Fontana",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "The Outsiders",
+        "person": "Brody Grant",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "How to Dance in Ohio",
+        "person": "Liam Pearce",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Cabaret at the Kit Kat Club",
+        "person": "Gayle Rankin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "The Connector",
+        "person": "Ben Levi Ross",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Illinoise",
+        "person": "Ricky Ubeda",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Mother Play",
+        "person": "Celia Keenan-Bolger",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Purlie Victorious",
+        "person": "Kara Young",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Jaja's African Hair Braiding",
+        "person": "Brittany Adebumola",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Infinite Life",
+        "person": "Marylouise Burke",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Appropriate",
+        "person": "Michael Esper",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Uncle Vanya",
+        "person": "Marin Ireland",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Patriots",
+        "person": "Will Keen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Oh, Mary!",
+        "person": "Conrad Ricamora",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Manahatta",
+        "person": "Sheila Tousey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Swing State",
+        "person": "Bubba Weiler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Hell's Kitchen",
+        "person": "Kecia Lewis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Cabaret at the Kit Kat Club",
+        "person": "Bebe Neuwirth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Hell's Kitchen",
+        "person": "Shoshana Bean",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Buena Vista Social Club",
+        "person": "Natalie Venetia Belcon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "The Notebook",
+        "person": "Dorian Harewood",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Spamalot",
+        "person": "Leslie Rodriguez Kritzer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Teeth",
+        "person": "Steven Pasquale",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "The Notebook",
+        "person": "Maryann Plunkett",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Dead Outlaw",
+        "person": "Thom Sesma",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Suffs",
+        "person": "Emily Skinner",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "Stereophonic",
+        "person": "Daniel Aukin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "The Hunt",
+        "person": "Rupert Goold",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "Purlie Victorious",
+        "person": "Kenny Leon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "Appropriate",
+        "person": "Lila Neugebauer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "Philadelphia, Here I Come!",
+        "person": "Ciar\u00e1n O'Reilly",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "Water for Elephants",
+        "person": "Jessica Stone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "Dead Outlaw",
+        "person": "David Cromer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "Cabaret at the Kit Kat Club",
+        "person": "Rebecca Frecknall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "The Connector",
+        "person": "Daisy Prince",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "The Outsiders",
+        "person": "Danya Taymor",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Suffs",
+        "person": "Shaina Taub",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Connector",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Lizard Boy",
+        "person": "Justin Huertas",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Outsiders",
+        "person": "Jamestown Revival (Jonathan Clay and Zach Chance) and Justin Levine",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Dead Outlaw",
+        "person": "David Yazbek and Erik Della Penna",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Dead Outlaw",
+        "person": "David Yazbek and Erik Della Penna",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Rachel Bloom: Death, Let Me Do My Show",
+        "person": "Rachel Bloom, Eli Bolin, and Jack Dolgen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Connector",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Teeth",
+        "person": "Michael R. Jackson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Outsiders",
+        "person": "Jamestown Revival (Jonathan Clay and Zach Chance) and Justin Levine",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Dead Outlaw",
+        "person": "Itamar Moses",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Lizard Boy",
+        "person": "Justin Huertas",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Teeth",
+        "person": "Michael R. Jackson and Anna K. Jacobs",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Gardens of Anuncia",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "How to Dance in Ohio",
+        "person": "Rebekah Green Melocik",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Illinoise",
+        "person": "Justin Peck",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Hell's Kitchen",
+        "person": "Camille A. Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Gardens of Anuncia",
+        "person": "Graciela Daniele and Alex Sanchez",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Outsiders",
+        "person": "Jeff Kuperman and Rick Kuperman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Heart of Rock and Roll",
+        "person": "Lorin Latarro",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Water for Elephants",
+        "person": "Jesse Robb and Shana Carroll",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Buena Vista Social Club",
+        "person": "Marco Paguia",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Illinoise",
+        "person": "Timo Andres",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Stereophonic",
+        "person": "Will Butler and Justin Craig",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Greatest Hits Down Route 66",
+        "person": "Andy Evan Cohen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Dead Outlaw",
+        "person": "Erik Della Penna, Dean Sharenow, and David Yazbek",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Suffs",
+        "person": "Michael Starobin, Shaina Taub, and Andrea Grody",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Stereophonic",
+        "person": "David Zinn",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Appropriate",
+        "person": "dots",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "The Hunt",
+        "person": "Es Devlin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Purlie Victorious",
+        "person": "Derek McLane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Grey House",
+        "person": "Scott Pask",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "The Great Gatsby",
+        "person": "Paul Tate dePoo III",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "The Outsiders",
+        "person": "AMP and Tatiana Kahvegian",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Suffs",
+        "person": "Riccardo Hern\u00e1ndez",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Dead Outlaw",
+        "person": "Arnulfo Maldonado",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Good Vibrations: A Punk Rock Musical",
+        "person": "Grace Smart",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Stereophonic",
+        "person": "Enver Chakartash",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Macbeth (an undoing)",
+        "person": "Alex Berry",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Warrior Sisters of Wu",
+        "person": "Karen Boyer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Manahatta",
+        "person": "Lux Haac",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Sally & Tom",
+        "person": "Rodrigo Mu\u00f1oz",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Suffs",
+        "person": "Paul Tazewell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Buena Vista Social Club",
+        "person": "Dede Ayite",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "The Connector",
+        "person": "M\u00e1rion Tal\u00e1n de la Rosa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Once Upon a One More Time",
+        "person": "Loren Elstein",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Water for Elephants",
+        "person": "David Israel Reynoso",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Appropriate",
+        "person": "Jane Cox",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Uncle Vanya",
+        "person": "Stacey Derosier",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "The Far Country",
+        "person": "Jiyoun Chang",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Grey House",
+        "person": "Natasha Katz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Macbeth (an undoing)",
+        "person": "Lizzie Powell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Swing State",
+        "person": "Eric Southern",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "The Outsiders",
+        "person": "Brian MacDevitt and Hana S. Kim",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Suffs",
+        "person": "Lap Chi Chu",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Dead Outlaw",
+        "person": "Heather Gilbert",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Water for Elephants",
+        "person": "Bradley King",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "The Connector",
+        "person": "Jeanette Oi-Suk Yew",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Stereophonic",
+        "person": "Ryan Rumery",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "The Hunt",
+        "person": "Adam Cork",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Grey House",
+        "person": "Tom Gibbons",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "The Comeuppance",
+        "person": "Palmer Hefferan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Appropriate",
+        "person": "Bray Poor and Will Pickens",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Cabaret at the Kit Kat Club",
+        "person": "Nick Lidster for Autograph",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "The Outsiders",
+        "person": "Cody Spencer",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Water for Elephants",
+        "person": "Walter Trarbach",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Suffs",
+        "person": "Jason Crystal",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Dead Outlaw",
+        "person": "Kai Harada and Joshua Millican",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Suffs",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Days of Wine and Roses",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Great Gatsby",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Outsiders",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Water for Elephants",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Stereophonic",
+        "person": "David Adjmi",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Jaja's African Hair Braiding",
+        "person": "Jocelyn Bioh",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Mother Play: A Play in Five Evictions",
+        "person": "Paula Vogel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Patriots",
+        "person": "Peter Morgan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Shark Is Broken",
+        "person": "Joseph Nixon and Ian Shaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Dead Outlaw",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Buena Vista Social Club",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Illinoise",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Teeth",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Connector",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Primary Trust",
+        "person": "Eboni Booth",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Dig",
+        "person": "Theresa Rebeck",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "King of the Jews",
+        "person": "Leslie Epstein",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "King James",
+        "person": "Rajiv Joseph",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Swing State",
+        "person": "Rebecca Gilman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Appropriate",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "An Enemy of the People",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Doubt: A Parable",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Mary Jane",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Philadelphia, Here I Come!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Purlie Victorious: A Non-Confederate Romp Through the Cotton Patch",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "I Can Get It for You Wholesale",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Cabaret",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Here Lies Love",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Who's Tommy",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Oh, Mary!",
+        "person": "Cole Escola",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Job",
+        "person": "Max Wolf Friedlich",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Manahatta",
+        "person": "Mary Kathryn Nagle",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "The Apiary",
+        "person": "Kate Douglas",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Wet Brain",
+        "person": "John J. Caswell Jr.",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Suffs",
+        "person": "Shaina Taub",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Illinoise",
+        "person": "Justin Peck and Jackie Sibblies Drury",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Teeth",
+        "person": "Anna K. Jacobs and Michael R. Jackson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "Dead Outlaw",
+        "person": "Itamar Moses",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical (Broadway or Off-Broadway)",
+        "show": "The Connector",
+        "person": "Jonathan Marc Sherman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Suffs",
+        "person": "Shaina Taub",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "The Connector",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Stereophonic",
+        "person": "Will Butler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Days of Wine and Roses",
+        "person": "Adam Guettel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Dead Outlaw",
+        "person": "David Yazbek and Erik Della Penna",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of Play",
+        "show": "Stereophonic",
+        "person": "Daniel Aukin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of Play",
+        "show": "Primary Trust",
+        "person": "Knud Adams",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of Play",
+        "show": "Swing State",
+        "person": "Robert Falls",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of Play",
+        "show": "Purlie Victorious",
+        "person": "Kenny Leon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of Play",
+        "show": "Appropriate",
+        "person": "Lila Neugebauer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Water for Elephants",
+        "person": "Jessica Stone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Dead Outlaw",
+        "person": "David Cromer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Days of Wine and Roses",
+        "person": "Michael Greif",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Connector",
+        "person": "Daisy Prince",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Suffs",
+        "person": "Leigh Silverman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Illinoise",
+        "person": "Justin Peck",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Water for Elephants",
+        "person": "Jesse Robb and Shana Carroll",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Outsiders",
+        "person": "Rick Kuperman and Jeff Kuperman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Who's Tommy",
+        "person": "Lorin Latarro",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Buena Vista Social Club",
+        "person": "Patricia Delgado and Justin Peck",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Buena Vista Social Club",
+        "person": "Marco Paguia",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Illinoise",
+        "person": "Timo Andres",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Days of Wine and Roses",
+        "person": "Adam Guettel and Jamie Lawrence",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Suffs",
+        "person": "Michael Starobin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Dead Outlaw",
+        "person": "Erik Della Penna, Dean Sharenow, and David Yazbek",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Play",
+        "show": "Mother Play: A Play in Five Evictions",
+        "person": "Jessica Lange",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Play",
+        "show": "Mary Jane",
+        "person": "Rachel McAdams",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Play",
+        "show": "Appropriate",
+        "person": "Sarah Paulson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Play",
+        "show": "An Enemy of the People",
+        "person": "Jeremy Strong",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Play",
+        "show": "Patriots",
+        "person": "Michael Stuhlbarg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Musical",
+        "show": "Days of Wine and Roses",
+        "person": "Kelli O'Hara",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Musical",
+        "show": "The Who's Tommy",
+        "person": "Ali Louis Bourzgui",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Musical",
+        "show": "Days of Wine and Roses",
+        "person": "Brian d'Arcy James",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Musical",
+        "show": "Back to the Future",
+        "person": "Casey Likes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Musical",
+        "show": "The Notebook",
+        "person": "Maryann Plunkett",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Play",
+        "show": "Oh, Mary!",
+        "person": "Cole Escola",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Play",
+        "show": "Primary Trust",
+        "person": "William Jackson Harper",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Play",
+        "show": "Swing State",
+        "person": "Mary Beth Fisher",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Play",
+        "show": "The Saviour",
+        "person": "Marie Mullen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Play",
+        "show": "Waiting for Godot",
+        "person": "Paul Sparks",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Musical",
+        "show": "Dead Outlaw",
+        "person": "Andrew Durand",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Musical",
+        "show": "Dead Outlaw",
+        "person": "Jeb Brown",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Musical",
+        "show": "Teeth",
+        "person": "Alyse Alan Louis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Musical",
+        "show": "The Connector",
+        "person": "Ben Levi Ross",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lead Performer in an Off-Broadway Musical",
+        "show": "Illinoise",
+        "person": "Ricky Ubeda",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "Purlie Victorious: A Non-Confederate Romp Through the Cotton Patch",
+        "person": "Kara Young",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "Purlie Victorious",
+        "person": "Billy Eugene Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "Mother Play",
+        "person": "Celia Keenan-Bolger",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "The Cottage",
+        "person": "Alex Moffat",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "Mother Play",
+        "person": "Jim Parsons",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "Stereophonic",
+        "person": "Sarah Pidgeon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Musical",
+        "show": "Hell's Kitchen",
+        "person": "Kecia Lewis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Musical",
+        "show": "Back to the Future",
+        "person": "Roger Bart",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Musical",
+        "show": "Once Upon a One More Time",
+        "person": "Justin Guarini",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Musical",
+        "show": "Spamalot",
+        "person": "Leslie Kritzer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Musical",
+        "show": "Cabaret",
+        "person": "Bebe Neuwirth",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Play",
+        "show": "Primary Trust",
+        "person": "Jay O. Sanders",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Play",
+        "show": "Our Class",
+        "person": "Gus Birney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Play",
+        "show": "Primary Trust",
+        "person": "April Matthis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Play",
+        "show": "Oh, Mary!",
+        "person": "Conrad Ricamora",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Play",
+        "show": "Swing State",
+        "person": "Bubba Weiler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Musical",
+        "show": "I Can Get It for You Wholesale",
+        "person": "Judy Kuhn",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Musical",
+        "show": "Dead Outlaw",
+        "person": "Thom Sesma",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Musical",
+        "show": "Illinoise",
+        "person": "Ben Cook",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Musical",
+        "show": "The Connector",
+        "person": "Hannah Cruz",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Musical",
+        "show": "Dead Outlaw",
+        "person": "Julia Knitel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Performer in an Off-Broadway Musical",
+        "show": "The Connector",
+        "person": "Jessica Molaskey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "All the Devils Are Here",
+        "person": "Patrick Page",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Hamlet",
+        "person": "Eddie Izzard",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "I Love You So Much I Could Die",
+        "person": "Mona Pirnot",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Small",
+        "person": "Robert Montano",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Eisenhower: This Piece of Ground",
+        "person": "John Rubenstein",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Great Gatsby",
+        "person": "Paul Tate dePoo III",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Stereophonic",
+        "person": "David Zinn",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Cottage",
+        "person": "Paul Tate dePoo III",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Appropriate",
+        "person": "Dots",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Here Lies Love",
+        "person": "David Korins",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Great Gatsby",
+        "person": "Linda Cho",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Jaja's African Hair Braiding",
+        "person": "Dede Ayite",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Stereophonic",
+        "person": "Enver Chakartash",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Teeth",
+        "person": "Enver Chakartash",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Cottage",
+        "person": "Sydney Maresca",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Outsiders",
+        "person": "Brian MacDevitt",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Water for Elephants",
+        "person": "Bradley King",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Here Lies Love",
+        "person": "Justin Townsend",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Back to the Future",
+        "person": "Tim Lutkin and Hugh Vanstone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Who's Tommy",
+        "person": "Amanda Zieve",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "The Who's Tommy",
+        "person": "Peter Nigrini",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Water for Elephants",
+        "person": "David Bengali",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "The Great Gatsby",
+        "person": "Paul Tate dePoo III",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Back to the Future",
+        "person": "Finn Ross",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Patriots",
+        "person": "Ash J. Woodward",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Stereophonic",
+        "person": "Ryan Rumery",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Grey House",
+        "person": "Tom Gibbons",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Back to the Future",
+        "person": "Gareth Owen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "The Who's Tommy",
+        "person": "Gareth Owen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Here Lies Love",
+        "person": "M.L. Dogg and Cody Spencer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Stereophonic",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Hell's Kitchen",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Appropriate",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Merrily We Roll Along",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Appropriate",
+        "person": "Sarah Paulson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Stereophonic",
+        "person": "David Adjmi",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Dead Outlaw",
+        "person": "Itamar Moses, David Yazbek, and Erik Della Penna",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

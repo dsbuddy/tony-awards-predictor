@@ -1,0 +1,1051 @@
+{
+  "year": 2005,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2004-2005 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Doubt: A Parable",
+          "person": "John Patrick Shanley",
+          "won": true
+        },
+        {
+          "show": "Democracy",
+          "person": "Michael Frayn",
+          "won": false
+        },
+        {
+          "show": "Gem of the Ocean",
+          "person": "August Wilson",
+          "won": false
+        },
+        {
+          "show": "The Pillowman",
+          "person": "Martin McDonagh",
+          "won": false
+        }
+      ],
+      "winner": "john patrick shanley|doubt a parable"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Monty Python's Spamalot",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Light in the Piazza",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The 25th Annual Putnam County Spelling Bee",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "monty pythons spamalot"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Glengarry Glen Ross",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "On Golden Pond",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Twelve Angry Men",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "glengarry glen ross"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "La Cage aux Folles",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Pacific Overtures",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Sweet Charity",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "la cage aux folles"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "The 25th Annual Putnam County Spelling Bee",
+          "person": "Rachel Sheinkin",
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Jeffrey Lane",
+          "won": false
+        },
+        {
+          "show": "The Light in the Piazza",
+          "person": "Craig Lucas",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Eric Idle",
+          "won": false
+        }
+      ],
+      "winner": "rachel sheinkin|25th annual putnam county spelling bee"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "The Light in the Piazza",
+          "person": "Adam Guettel",
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "David Yazbek",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "John Du Prez and Eric Idle",
+          "won": false
+        },
+        {
+          "show": "The 25th Annual Putnam County Spelling Bee",
+          "person": "William Finn",
+          "won": false
+        }
+      ],
+      "winner": "adam guettel|light in the piazza"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Bill Irwin",
+          "won": true
+        },
+        {
+          "show": "The Pillowman",
+          "person": "Billy Crudup",
+          "won": false
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "Br\u00edan F. O'Byrne",
+          "won": false
+        },
+        {
+          "show": "On Golden Pond",
+          "person": "James Earl Jones",
+          "won": false
+        },
+        {
+          "show": "Twelve Angry Men",
+          "person": "Philip Bosco",
+          "won": false
+        }
+      ],
+      "winner": "bill irwin|whos afraid of virginia woolf"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Doubt: A Parable",
+          "person": "Cherry Jones",
+          "won": true
+        },
+        {
+          "show": "Gem of the Ocean",
+          "person": "Phylicia Rashad",
+          "won": false
+        },
+        {
+          "show": "Reckless",
+          "person": "Mary-Louise Parker",
+          "won": false
+        },
+        {
+          "show": "Sight Unseen",
+          "person": "Laura Linney",
+          "won": false
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Kathleen Turner",
+          "won": false
+        }
+      ],
+      "winner": "cherry jones|doubt a parable"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Norbert Leo Butz",
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "John Lithgow",
+          "won": false
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Gary Beach",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Hank Azaria",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Tim Curry",
+          "won": false
+        }
+      ],
+      "winner": "norbert leo butz|dirty rotten scoundrels"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Light in the Piazza",
+          "person": "Victoria Clark",
+          "won": true
+        },
+        {
+          "show": "Chitty Chitty Bang Bang",
+          "person": "Erin Dilly",
+          "won": false
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Sherie Rene Scott",
+          "won": false
+        },
+        {
+          "show": "Little Women",
+          "person": "Sutton Foster",
+          "won": false
+        },
+        {
+          "show": "Sweet Charity",
+          "person": "Christina Applegate",
+          "won": false
+        }
+      ],
+      "winner": "victoria clark|light in the piazza"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Glengarry Glen Ross",
+          "person": "Liev Schreiber",
+          "won": true
+        },
+        {
+          "show": "Glengarry Glen Ross",
+          "person": "Alan Alda",
+          "won": false
+        },
+        {
+          "show": "Glengarry Glen Ross",
+          "person": "Gordon Clapp",
+          "won": false
+        },
+        {
+          "show": "The Pillowman",
+          "person": "Michael Stuhlbarg",
+          "won": false
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "David Harbour",
+          "won": false
+        }
+      ],
+      "winner": "liev schreiber|glengarry glen ross"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Doubt: A Parable",
+          "person": "Adriane Lenox",
+          "won": true
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "Heather Goldenhersh",
+          "won": false
+        },
+        {
+          "show": "The Rivals",
+          "person": "Dana Ivey",
+          "won": false
+        },
+        {
+          "show": "A Streetcar Named Desire",
+          "person": "Amy Ryan",
+          "won": false
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Mireille Enos",
+          "won": false
+        }
+      ],
+      "winner": "adriane lenox|doubt a parable"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "The 25th Annual Putnam County Spelling Bee",
+          "person": "Dan Fogler",
+          "won": true
+        },
+        {
+          "show": "Chitty Chitty Bang Bang",
+          "person": "Marc Kudisch",
+          "won": false
+        },
+        {
+          "show": "The Light in the Piazza",
+          "person": "Matthew Morrison",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Michael McGrath",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Christopher Sieber",
+          "won": false
+        }
+      ],
+      "winner": "dan fogler|25th annual putnam county spelling bee"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Sara Ramirez",
+          "won": true
+        },
+        {
+          "show": "Chitty Chitty Bang Bang",
+          "person": "Jan Maxwell",
+          "won": false
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Joanna Gleason",
+          "won": false
+        },
+        {
+          "show": "The Light in the Piazza",
+          "person": "Kelli O'Hara",
+          "won": false
+        },
+        {
+          "show": "The 25th Annual Putnam County Spelling Bee",
+          "person": "Celia Keenan-Bolger",
+          "won": false
+        }
+      ],
+      "winner": "sara ramirez|monty pythons spamalot"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Doubt: A Parable",
+          "person": "Doug Hughes",
+          "won": true
+        },
+        {
+          "show": "Glengarry Glen Ross",
+          "person": "Joe Mantello",
+          "won": false
+        },
+        {
+          "show": "The Pillowman",
+          "person": "John Crowley",
+          "won": false
+        },
+        {
+          "show": "Twelve Angry Men",
+          "person": "Scott Ellis",
+          "won": false
+        }
+      ],
+      "winner": "doug hughes|doubt a parable"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Mike Nichols",
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Jack O'Brien",
+          "won": false
+        },
+        {
+          "show": "The Light in the Piazza",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "The 25th Annual Putnam County Spelling Bee",
+          "person": "James Lapine",
+          "won": false
+        }
+      ],
+      "winner": "mike nichols|monty pythons spamalot"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "La Cage aux Folles",
+          "person": "Jerry Mitchell",
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Jerry Mitchell",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Casey Nicholaw",
+          "won": false
+        },
+        {
+          "show": "Sweet Charity",
+          "person": "Wayne Cilento",
+          "won": false
+        }
+      ],
+      "winner": "jerry mitchell|la cage aux folles"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "The Light in the Piazza",
+          "person": "Ted Sperling, Adam Guettel and Bruce Coughlin",
+          "won": true
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Harold Wheeler",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Pacific Overtures",
+          "person": "Jonathan Tunick",
+          "won": false
+        }
+      ],
+      "winner": "ted sperling adam guettel and bruce coughlin|light in the piazza"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Pillowman",
+          "person": "Scott Pask",
+          "won": true
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "John Lee Beatty",
+          "won": false
+        },
+        {
+          "show": "Gem of the Ocean",
+          "person": "David Gallo",
+          "won": false
+        },
+        {
+          "show": "Glengarry Glen Ross",
+          "person": "Santo Loquasto",
+          "won": false
+        }
+      ],
+      "winner": "scott pask|pillowman"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Rivals",
+          "person": "Jess Goldstein",
+          "won": true
+        },
+        {
+          "show": "Gem of the Ocean",
+          "person": "Constanza Romero",
+          "won": false
+        },
+        {
+          "show": "A Streetcar Named Desire",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "Who's Afraid of Virginia Woolf?",
+          "person": "Jane Greenwood",
+          "won": false
+        }
+      ],
+      "winner": "jess goldstein|rivals"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The Pillowman",
+          "person": "Brian MacDevitt",
+          "won": true
+        },
+        {
+          "show": "Doubt: A Parable",
+          "person": "Pat Collins",
+          "won": false
+        },
+        {
+          "show": "Gem of the Ocean",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "A Streetcar Named Desire",
+          "person": "Donald Holder",
+          "won": false
+        }
+      ],
+      "winner": "brian macdevitt|pillowman"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "The Light in the Piazza",
+          "person": "Michael Yeargan",
+          "won": true
+        },
+        {
+          "show": "Chitty Chitty Bang Bang",
+          "person": "Anthony Ward",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Tim Hatley",
+          "won": false
+        },
+        {
+          "show": "Pacific Overtures",
+          "person": "Rumi Matsui",
+          "won": false
+        }
+      ],
+      "winner": "michael yeargan|light in the piazza"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "The Light in the Piazza",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Tim Hatley",
+          "won": false
+        },
+        {
+          "show": "Pacific Overtures",
+          "person": "Junko Koshino",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|light in the piazza"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "The Light in the Piazza",
+          "person": "Christopher Akerlind",
+          "won": true
+        },
+        {
+          "show": "Chitty Chitty Bang Bang",
+          "person": "Mark Henderson",
+          "won": false
+        },
+        {
+          "show": "Dirty Rotten Scoundrels",
+          "person": "Kenneth Posner",
+          "won": false
+        },
+        {
+          "show": "Monty Python's Spamalot",
+          "person": "Hugh Vanstone",
+          "won": false
+        }
+      ],
+      "winner": "christopher akerlind|light in the piazza"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Doubt: A Parable",
+        "person": "John Patrick Shanley",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Monty Python's Spamalot",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Sweet Charity",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Who's Afraid of Virginia Woolf?",
+        "person": "Bill Irwin",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Doubt: A Parable",
+        "person": "Cherry Jones",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Hank Azaria",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "David Hyde Pierce",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Light in the Piazza",
+        "person": "Matthew Morrison",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Sweet Charity",
+        "person": "Christina Applegate",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Light in the Piazza",
+        "person": "Victoria Clark",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Twelve Angry Men",
+        "person": "Philip Bosco",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Doubt: A Parable",
+        "person": "Adriane Lenox",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Christian Borle",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Michael McGrath",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Light in the Piazza",
+        "person": "Sarah Uriarte Berry",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Doubt: A Parable",
+        "person": "Doug Hughes",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Mike Nichols",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Monty Python's Spamalot",
+        "person": "Casey Nicholaw",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Light in the Piazza",
+        "person": "Adam Guettel",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Monty Python's Spamalot",
+        "person": "Eric Idle",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The 25th Annual Putnam County Spelling Bee",
+        "person": "Rachel Sheinkin",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Eric Idle",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Light in the Piazza",
+        "person": "Ted Sperling, Adam Guettel and Bruce Coughlin",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Monty Python's Spamalot",
+        "person": "Larry Hochman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "The Light in the Piazza",
+        "person": "Michael Yeargan",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Light in the Piazza",
+        "person": "Catherine Zuber",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Light in the Piazza",
+        "person": "Christopher Akerlind",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revue",
+        "show": "Forbidden Broadway: Special Victims Unit",
+        "person": null,
+        "show_type": null,
+        "won": true,
+        "is_broadway": false
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Doubt: A Parable",
+        "person": "John Patrick Shanley",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Monty Python's Spamalot",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Twelve Angry Men",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "La Cage aux Folles",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Doubt: A Parable",
+        "person": "Br\u00edan F. O'Byrne",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Doubt: A Parable",
+        "person": "Cherry Jones",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Dirty Rotten Scoundrels",
+        "person": "Norbert Leo Butz",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Light in the Piazza",
+        "person": "Victoria Clark",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Pillowman",
+        "person": "Jeff Goldblum",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "A Streetcar Named Desire",
+        "person": "Amy Ryan",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The 25th Annual Putnam County Spelling Bee",
+        "person": "Dan Fogler",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Sara Ramirez",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Doubt: A Parable",
+        "person": "Doug Hughes",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Monty Python's Spamalot",
+        "person": "Mike Nichols",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "La Cage aux Folles",
+        "person": "Jerry Mitchell",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Doubt: A Parable",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Dirty Rotten Scoundrels",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Dirty Rotten Scoundrels",
+        "person": "Norbert Leo Butz",
+        "show_type": null,
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Doubt: A Parable",
+        "person": "John Patrick Shanley",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "The Pillowman",
+        "person": "Martin McDonagh",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      }
+    ]
+  }
+}

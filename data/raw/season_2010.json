@@ -1,0 +1,2229 @@
+{
+  "year": 2010,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2009-2010 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Red",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "In the Next Room (or The Vibrator Play)",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Next Fall",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Time Stands Still",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "red"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Memphis",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "American Idiot",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Million Dollar Quartet",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "memphis"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Fences",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Lend Me a Tenor",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Royal Family",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "fences"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "La Cage aux Folles",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Finian's Rainbow",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A Little Night Music",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "la cage aux folles"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Memphis",
+          "person": "Joe DiPietro",
+          "won": true
+        },
+        {
+          "show": "Everyday Rapture",
+          "person": "Dick Scanlan and Sherie Rene Scott",
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": "Jim Lewis and Bill T. Jones",
+          "won": false
+        },
+        {
+          "show": "Million Dollar Quartet",
+          "person": "Colin Escott and Floyd Mutrux",
+          "won": false
+        }
+      ],
+      "winner": "joe dipietro|memphis"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Memphis",
+          "person": "David Bryan and Joe DiPietro",
+          "won": true
+        },
+        {
+          "show": "The Addams Family",
+          "person": "Andrew Lippa",
+          "won": false
+        },
+        {
+          "show": "Enron",
+          "person": "Adam Cork and Lucy Prebble",
+          "won": false
+        },
+        {
+          "show": "Fences",
+          "person": "Branford Marsalis",
+          "won": false
+        }
+      ],
+      "winner": "david bryan and joe dipietro|memphis"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Fences",
+          "person": "Denzel Washington",
+          "won": true
+        },
+        {
+          "show": "Hamlet",
+          "person": "Jude Law",
+          "won": false
+        },
+        {
+          "show": "Red",
+          "person": "Alfred Molina",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Liev Schreiber",
+          "won": false
+        },
+        {
+          "show": "A Behanding in Spokane",
+          "person": "Christopher Walken",
+          "won": false
+        }
+      ],
+      "winner": "denzel washington|fences"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Fences",
+          "person": "Viola Davis",
+          "won": true
+        },
+        {
+          "show": "Looped",
+          "person": "Valerie Harper",
+          "won": false
+        },
+        {
+          "show": "Collected Stories",
+          "person": "Linda Lavin",
+          "won": false
+        },
+        {
+          "show": "Time Stands Still",
+          "person": "Laura Linney",
+          "won": false
+        },
+        {
+          "show": "The Royal Family",
+          "person": "Jan Maxwell",
+          "won": false
+        }
+      ],
+      "winner": "viola davis|fences"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "La Cage aux Folles",
+          "person": "Douglas Hodge",
+          "won": true
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Kelsey Grammer",
+          "won": false
+        },
+        {
+          "show": "Promises, Promises",
+          "person": "Sean Hayes",
+          "won": false
+        },
+        {
+          "show": "Memphis",
+          "person": "Chad Kimball",
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": "Sahr Ngaujah",
+          "won": false
+        }
+      ],
+      "winner": "douglas hodge|la cage aux folles"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "A Little Night Music",
+          "person": "Catherine Zeta-Jones",
+          "won": true
+        },
+        {
+          "show": "Finian's Rainbow",
+          "person": "Kate Baldwin",
+          "won": false
+        },
+        {
+          "show": "Memphis",
+          "person": "Montego Glover",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Christiane Noll",
+          "won": false
+        },
+        {
+          "show": "Everyday Rapture",
+          "person": "Sherie Rene Scott",
+          "won": false
+        }
+      ],
+      "winner": "catherine zeta jones|little night music"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Red",
+          "person": "Eddie Redmayne",
+          "won": true
+        },
+        {
+          "show": "Race",
+          "person": "David Alan Grier",
+          "won": false
+        },
+        {
+          "show": "Fences",
+          "person": "Stephen McKinley Henderson",
+          "won": false
+        },
+        {
+          "show": "Superior Donuts",
+          "person": "Jon Michael Hill",
+          "won": false
+        },
+        {
+          "show": "Enron",
+          "person": "Stephen Kunken",
+          "won": false
+        }
+      ],
+      "winner": "eddie redmayne|red"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "A View from the Bridge",
+          "person": "Scarlett Johansson",
+          "won": true
+        },
+        {
+          "show": "In the Next Room (or The Vibrator Play)",
+          "person": "Maria Dizzia",
+          "won": false
+        },
+        {
+          "show": "The Royal Family",
+          "person": "Rosemary Harris",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Jessica Hecht",
+          "won": false
+        },
+        {
+          "show": "Lend Me a Tenor",
+          "person": "Jan Maxwell",
+          "won": false
+        }
+      ],
+      "winner": "scarlett johansson|view from the bridge"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Million Dollar Quartet",
+          "person": "Levi Kreis",
+          "won": true
+        },
+        {
+          "show": "The Addams Family",
+          "person": "Kevin Chamberlin",
+          "won": false
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Robin de Jes\u00fas",
+          "won": false
+        },
+        {
+          "show": "Finian's Rainbow",
+          "person": "Christopher Fitzgerald",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Bobby Steggert",
+          "won": false
+        }
+      ],
+      "winner": "levi kreis|million dollar quartet"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Promises, Promises",
+          "person": "Katie Finneran",
+          "won": true
+        },
+        {
+          "show": "Sondheim on Sondheim",
+          "person": "Barbara Cook",
+          "won": false
+        },
+        {
+          "show": "A Little Night Music",
+          "person": "Angela Lansbury",
+          "won": false
+        },
+        {
+          "show": "Come Fly Away",
+          "person": "Karine Plantadit",
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": "Lillias White",
+          "won": false
+        }
+      ],
+      "winner": "katie finneran|promises promises"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Red",
+          "person": "Michael Grandage",
+          "won": true
+        },
+        {
+          "show": "Next Fall",
+          "person": "Sheryl Kaller",
+          "won": false
+        },
+        {
+          "show": "Fences",
+          "person": "Kenny Leon",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Gregory Mosher",
+          "won": false
+        }
+      ],
+      "winner": "michael grandage|red"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "La Cage aux Folles",
+          "person": "Terry Johnson",
+          "won": true
+        },
+        {
+          "show": "Memphis",
+          "person": "Christopher Ashley",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Marcia Milgrom Dodge",
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": "Bill T. Jones",
+          "won": false
+        }
+      ],
+      "winner": "terry johnson|la cage aux folles"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Fela!",
+          "person": "Bill T. Jones",
+          "won": true
+        },
+        {
+          "show": "Promises, Promises",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Lynne Page",
+          "won": false
+        },
+        {
+          "show": "Come Fly Away",
+          "person": "Twyla Tharp",
+          "won": false
+        }
+      ],
+      "winner": "bill t jones|fela"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Memphis",
+          "person": "Daryl Waters and David Bryan",
+          "won": true
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Jason Carr",
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": "Aaron Johnson",
+          "won": false
+        },
+        {
+          "show": "Promises, Promises",
+          "person": "Jonathan Tunick",
+          "won": false
+        }
+      ],
+      "winner": "daryl waters and david bryan|memphis"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Red",
+          "person": "Christopher Oram",
+          "won": true
+        },
+        {
+          "show": "The Royal Family",
+          "person": "John Lee Beatty",
+          "won": false
+        },
+        {
+          "show": "Present Laughter",
+          "person": "Alexander Dodge",
+          "won": false
+        },
+        {
+          "show": "Fences",
+          "person": "Santo Loquasto",
+          "won": false
+        }
+      ],
+      "winner": "christopher oram|red"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Royal Family",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "Lend Me a Tenor",
+          "person": "Martin Pakledinaz",
+          "won": false
+        },
+        {
+          "show": "Fences",
+          "person": "Constanza Romero",
+          "won": false
+        },
+        {
+          "show": "In the Next Room (or The Vibrator Play)",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|royal family"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Red",
+          "person": "Neil Austin",
+          "won": true
+        },
+        {
+          "show": "Hamlet",
+          "person": "Neil Austin",
+          "won": false
+        },
+        {
+          "show": "Enron",
+          "person": "Mark Henderson",
+          "won": false
+        },
+        {
+          "show": "Fences",
+          "person": "Brian MacDevitt",
+          "won": false
+        }
+      ],
+      "winner": "neil austin|red"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Red",
+          "person": "Adam Cork",
+          "won": true
+        },
+        {
+          "show": "Fences",
+          "person": "Acme Sound Partners",
+          "won": false
+        },
+        {
+          "show": "Enron",
+          "person": "Adam Cork",
+          "won": false
+        },
+        {
+          "show": "A View from the Bridge",
+          "person": "Scott Lehrer",
+          "won": false
+        }
+      ],
+      "winner": "adam cork|red"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "American Idiot",
+          "person": "Christine Jones",
+          "won": true
+        },
+        {
+          "show": "Fela!",
+          "person": "Marina Draghici",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Derek McLane",
+          "won": false
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Tim Shortall",
+          "won": false
+        }
+      ],
+      "winner": "christine jones|american idiot"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Fela!",
+          "person": "Marina Draghici",
+          "won": true
+        },
+        {
+          "show": "Memphis",
+          "person": "Paul Tazewell",
+          "won": false
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Matthew Wright",
+          "won": false
+        }
+      ],
+      "winner": "marina draghici|fela"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "American Idiot",
+          "person": "Kevin Adams",
+          "won": true
+        },
+        {
+          "show": "Ragtime",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Nick Richings",
+          "won": false
+        },
+        {
+          "show": "Fela!",
+          "person": "Robert Wierzel",
+          "won": false
+        }
+      ],
+      "winner": "kevin adams|american idiot"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Fela!",
+          "person": "Robert Kaplowitz",
+          "won": true
+        },
+        {
+          "show": "La Cage aux Folles",
+          "person": "Jonathan Deans",
+          "won": false
+        },
+        {
+          "show": "A Little Night Music",
+          "person": "Dan Moses Schreier and Gareth Owen",
+          "won": false
+        },
+        {
+          "show": "Sondheim on Sondheim",
+          "person": "Dan Moses Schreier",
+          "won": false
+        }
+      ],
+      "winner": "robert kaplowitz|fela"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Red",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Circle Mirror Transformation",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Clybourne Park",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Happy Now?",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "My Wonderful Day",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Next Fall",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Memphis",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Addams Family",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "American Idiot",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Everyday Rapture",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Scottsboro Boys",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Yank!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "A View from the Bridge",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Fences",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Boys in the Band",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Brighton Beach Memoirs",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Hamlet",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "So Help Me God!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "La Cage aux Folles",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "A Little Night Music",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Finian's Rainbow",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Promises, Promises",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Ragtime",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A View from the Bridge",
+        "person": "Liev Schreiber",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Orphans' Home Cycle",
+        "person": "Bill Heck",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Hamlet",
+        "person": "Jude Law",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Red",
+        "person": "Alfred Molina",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Red",
+        "person": "Eddie Redmayne",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Emperor Jones",
+        "person": "John Douglas Thompson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A Behanding in Spokane",
+        "person": "Christopher Walken",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Royal Family",
+        "person": "Jan Maxwell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "My Wonderful Day",
+        "person": "Ayesha Antoine",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Candida",
+        "person": "Melissa Errico",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Twelfth Night",
+        "person": "Anne Hathaway",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "So Help Me God!",
+        "person": "Kristen Johnston",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Time Stands Still",
+        "person": "Laura Linney",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "La Cage aux Folles",
+        "person": "Douglas Hodge",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Scottsboro Boys",
+        "person": "Brandon Victor Dixon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Finian's Rainbow",
+        "person": "Cheyenne Jackson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Memphis",
+        "person": "Chad Kimball",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Addams Family",
+        "person": "Nathan Lane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Yank!",
+        "person": "Bobby Steggert",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Memphis",
+        "person": "Montego Glover",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "A Little Night Music",
+        "person": "Catherine Zeta-Jones",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Finian's Rainbow",
+        "person": "Kate Baldwin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Coraline",
+        "person": "Jayne Houdyshell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Ragtime",
+        "person": "Christiane Noll",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Everyday Rapture",
+        "person": "Sherie Rene Scott",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Brighton Beach Memoirs",
+        "person": "Santino Fontana",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Fences",
+        "person": "Chris Chalk",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Next Fall",
+        "person": "Sean Dugan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Pride",
+        "person": "Adam James",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Twelfth Night",
+        "person": "Hamish Linklater",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Boys in the Band",
+        "person": "Nick Westrate",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Fences",
+        "person": "Viola Davis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "When the Rain Stops Falling",
+        "person": "Victoria Clark",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Candida",
+        "person": "Xanthe Elbrick",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "When the Rain Stops Falling",
+        "person": "Mary Beth Hurt",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "A View from the Bridge",
+        "person": "Scarlett Johansson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Pride",
+        "person": "Andrea Riseborough",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Finian's Rainbow",
+        "person": "Christopher Fitzgerald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Addams Family",
+        "person": "Kevin Chamberlin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "La Cage aux Folles",
+        "person": "Robin de Jes\u00fas",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Yank!",
+        "person": "Jeffry Denman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Bloodsong of Love",
+        "person": "Jeremy Morse",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Ragtime",
+        "person": "Bobby Steggert",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Promises, Promises",
+        "person": "Katie Finneran",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Addams Family",
+        "person": "Carolee Carmello",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Lizzie Borden",
+        "person": "Carrie Cimma",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "A Little Night Music",
+        "person": "Angela Lansbury",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Langston in Harlem",
+        "person": "Kenita R. Miller",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Finian's Rainbow",
+        "person": "Terri White",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Red",
+        "person": "Michael Grandage",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "So Help Me God!",
+        "person": "Jonathan Bank",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Boys in the Band",
+        "person": "Jack Cummings III",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Circle Mirror Transformation",
+        "person": "Sam Gold",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Hamlet",
+        "person": "Michael Grandage",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Lie of the Mind",
+        "person": "Ethan Hawke",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "American Idiot",
+        "person": "Michael Mayer",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Finian's Rainbow",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Ragtime",
+        "person": "Marcia Milgrom Dodge",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Yank!",
+        "person": "Igor Goldin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "La Cage aux Folles",
+        "person": "Terry Johnson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Scottsboro Boys",
+        "person": "Susan Stroman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Memphis",
+        "person": "David Bryan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Bloody Bloody Andrew Jackson",
+        "person": "Michael Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Bloodsong of Love",
+        "person": "Joe Iconis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Scottsboro Boys",
+        "person": "John Kander and Fred Ebb",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Addams Family",
+        "person": "Andrew Lippa",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Yank!",
+        "person": "Joseph Zellnik",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Scottsboro Boys",
+        "person": "Fred Ebb and John Kander",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Newsical",
+        "person": "Rick Crom",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Click, Clack, Moo: Cows That Type",
+        "person": "Kevin Del Aguila",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Fascinating A\u00efda",
+        "person": "Ad\u00e8le Anderson and Dillie Keane",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Addams Family",
+        "person": "Andrew Lippa",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Yank!",
+        "person": "David Zellnik",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Bloody Bloody Andrew Jackson",
+        "person": "Alex Timbers",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Memphis",
+        "person": "Joe DiPietro",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Bloodsong of Love",
+        "person": "Joe Iconis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Everyday Rapture",
+        "person": "Dick Scanlan and Sherie Rene Scott",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Scottsboro Boys",
+        "person": "David Thompson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Yank!",
+        "person": "David Zellnik",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Memphis",
+        "person": "Daryl Waters and David Bryan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Scottsboro Boys",
+        "person": "Larry Hochman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "American Idiot",
+        "person": "Tom Kitt",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "All About Me",
+        "person": "John Oddo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Come Fly Away",
+        "person": "Twyla Tharp",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Finian's Rainbow",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Ragtime",
+        "person": "Marcia Milgrom Dodge",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "La Cage aux Folles",
+        "person": "Lynne Page",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Scottsboro Boys",
+        "person": "Susan Stroman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Memphis",
+        "person": "Sergio Trujillo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Addams Family",
+        "person": "Phelim McDermott, Julian Crouch and Basil Twist",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Boys in the Band",
+        "person": "Sandra Goldmark",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Ragtime",
+        "person": "Derek McLane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Red",
+        "person": "Christopher Oram",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Underground",
+        "person": "Jay Rohloff",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Hansel and Gretel",
+        "person": "Karen Tennent",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "La Cage aux Folles",
+        "person": "Matthew Wright",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Emperor Jones",
+        "person": "Antonia Ford-Roberts and Bob Flanagan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "So Help Me God!",
+        "person": "Clint Ramos",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Lizzie Borden",
+        "person": "Bobby Frederick Tilley II",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "In the Next Room (or The Vibrator Play)",
+        "person": "David Zinn",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Red",
+        "person": "Neil Austin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Hamlet",
+        "person": "Neil Austin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Lizzie Borden",
+        "person": "Christian DeAngelis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "John Ball's In the Heat of the Night",
+        "person": "Maruti Evans",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Addams Family",
+        "person": "Natasha Katz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Boys in the Band",
+        "person": "Dane Laffery",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "When the Rain Stops Falling",
+        "person": "Fitz Patton",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Frankenstein",
+        "person": "Dan Bianchi and Wes Shippee",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Underground",
+        "person": "Dale Bigall",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Enron",
+        "person": "Adam Cork",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Top Secret: The Battle for the Pentagon Papers",
+        "person": "Lindsay Jones",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "John Ball's In the Heat of the Night",
+        "person": "Elizabeth Rhodes",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Ragtime",
+        "person": "Acme Sound Partners",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "La Cage aux Folles",
+        "person": "Jonathan Deans",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Everyday Rapture",
+        "person": "Kurt Eric Fischer, Ashley Hanson and Brian Ronan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "The Scottsboro Boys",
+        "person": "Peter Hylenski",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Finian's Rainbow",
+        "person": "Scott Lehrer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Promises, Promises",
+        "person": "Brian Ronan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Red",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Next Fall",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Superior Donuts",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Time Stands Still",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Memphis",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "American Idiot",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Come Fly Away",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Fela!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Sondheim on Sondheim",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Fences",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Lend Me a Tenor",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Royal Family",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "A View from the Bridge",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "La Cage aux Folles",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Finian's Rainbow",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "A Little Night Music",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Promises, Promises",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Orphans' Home Cycle",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Clybourne Park",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Pride",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Temperamentals",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Bloody Bloody Andrew Jackson",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Scottsboro Boys",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Tin Pan Alley Rag",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Yank!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score (Broadway or Off-Broadway)",
+        "show": "Memphis",
+        "person": "David Bryan and Joe DiPietro",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Addams Family",
+        "person": "Phelim McDermott and Julian Crouch",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "La Cage aux Folles",
+        "person": "Matthew Wright",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "American Idiot",
+        "person": "Kevin Adams",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Fela!",
+        "person": "Bill T. Jones",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Memphis",
+        "person": "Sergio Trujillo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Orphans' Home Cycle",
+        "person": "Michael Wilson",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "La Cage aux Folles",
+        "person": "Terry Johnson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Wishful Drinking",
+        "person": "Carrie Fisher",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Fences",
+        "person": "Denzel Washington",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Fences",
+        "person": "Viola Davis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Superior Donuts",
+        "person": "Jon Michael Hill",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Lend Me a Tenor",
+        "person": "Jan Maxwell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "La Cage aux Folles",
+        "person": "Douglas Hodge",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "A Little Night Music",
+        "person": "Catherine Zeta-Jones",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Memphis",
+        "person": "Montego Glover",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Million Dollar Quartet",
+        "person": "Levi Kreis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Promises, Promises",
+        "person": "Katie Finneran",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Next Fall",
+        "person": "Geoffrey Nauffts",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Red",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Sondheim on Sondheim",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "A View from the Bridge",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "La Cage aux Folles",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Red",
+        "person": "Alfred Molina",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Orphans' Home Cycle",
+        "person": "Horton Foote",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

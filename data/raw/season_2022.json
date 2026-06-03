@@ -1,0 +1,1535 @@
+{
+  "year": 2022,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2021-2022 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Lehman Trilogy",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Clyde's",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Hangmen",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Skeleton Crew",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Minutes",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "lehman trilogy"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "A Strange Loop",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Girl from the North Country",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "MJ",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mr. Saturday Night",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Six",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "strange loop"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Take Me Out",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "American Buffalo",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "How I Learned to Drive",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Trouble in Mind",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "take me out"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Company",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "company"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "A Strange Loop",
+          "person": "Michael R. Jackson",
+          "won": true
+        },
+        {
+          "show": "Girl from the North Country",
+          "person": "Conor McPherson",
+          "won": false
+        },
+        {
+          "show": "MJ",
+          "person": "Lynn Nottage",
+          "won": false
+        },
+        {
+          "show": "Mr. Saturday Night",
+          "person": "Billy Crystal, Lowell Ganz, Babaloo Mandel",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Christina Anderson, Larry Kirwan, Craig Lucas",
+          "won": false
+        }
+      ],
+      "winner": "michael r jackson|strange loop"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Six",
+          "person": "Toby Marlow and Lucy Moss",
+          "won": true
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Michael R. Jackson",
+          "won": false
+        },
+        {
+          "show": "Flying Over Sunset",
+          "person": "Tom Kitt, Michael Korie",
+          "won": false
+        },
+        {
+          "show": "Mr. Saturday Night",
+          "person": "Jason Robert Brown, Amanda Green",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Jason Howland, Masi Asare, Nathan Tysen",
+          "won": false
+        }
+      ],
+      "winner": "toby marlow and lucy moss|six"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Simon Russell Beale",
+          "won": true
+        },
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Adam Godley",
+          "won": false
+        },
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Adrian Lester",
+          "won": false
+        },
+        {
+          "show": "How I Learned to Drive",
+          "person": "David Morse",
+          "won": false
+        },
+        {
+          "show": "American Buffalo",
+          "person": "Sam Rockwell",
+          "won": false
+        },
+        {
+          "show": "Lackawanna Blues",
+          "person": "Ruben Santiago-Hudson",
+          "won": false
+        },
+        {
+          "show": "Hangmen",
+          "person": "David Threlfall",
+          "won": false
+        }
+      ],
+      "winner": "simon russell beale|lehman trilogy"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Dana H.",
+          "person": "Deirdre O'Connell",
+          "won": true
+        },
+        {
+          "show": "The Skin of Our Teeth",
+          "person": "Gabby Beans",
+          "won": false
+        },
+        {
+          "show": "Trouble in Mind",
+          "person": "LaChanze",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Ruth Negga",
+          "won": false
+        },
+        {
+          "show": "How I Learned to Drive",
+          "person": "Mary-Louise Parker",
+          "won": false
+        }
+      ],
+      "winner": "deirdre oconnell|dana h"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "MJ",
+          "person": "Myles Frost",
+          "won": true
+        },
+        {
+          "show": "Mr. Saturday Night",
+          "person": "Billy Crystal",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Hugh Jackman",
+          "won": false
+        },
+        {
+          "show": "Mrs. Doubtfire",
+          "person": "Rob McClure",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Jaquel Spivey",
+          "won": false
+        }
+      ],
+      "winner": "myles frost|mj"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Paradise Square",
+          "person": "Joaquina Kalukango",
+          "won": true
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": "Sharon D. Clarke",
+          "won": false
+        },
+        {
+          "show": "Flying Over Sunset",
+          "person": "Carmen Cusack",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Sutton Foster",
+          "won": false
+        },
+        {
+          "show": "Girl from the North Country",
+          "person": "Mare Winningham",
+          "won": false
+        }
+      ],
+      "winner": "joaquina kalukango|paradise square"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Take Me Out",
+          "person": "Jesse Tyler Ferguson",
+          "won": true
+        },
+        {
+          "show": "Hangmen",
+          "person": "Alfie Allen",
+          "won": false
+        },
+        {
+          "show": "Trouble in Mind",
+          "person": "Chuck Cooper",
+          "won": false
+        },
+        {
+          "show": "Clyde's",
+          "person": "Ron Cephas Jones",
+          "won": false
+        },
+        {
+          "show": "Take Me Out",
+          "person": "Michael Oberholtzer",
+          "won": false
+        },
+        {
+          "show": "Take Me Out",
+          "person": "Jesse Williams",
+          "won": false
+        }
+      ],
+      "winner": "jesse tyler ferguson|take me out"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Skeleton Crew",
+          "person": "Phylicia Rashad",
+          "won": true
+        },
+        {
+          "show": "Clyde's",
+          "person": "Uzo Aduba",
+          "won": false
+        },
+        {
+          "show": "POTUS",
+          "person": "Rachel Dratch",
+          "won": false
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": "Kenita R. Miller",
+          "won": false
+        },
+        {
+          "show": "POTUS",
+          "person": "Julie White",
+          "won": false
+        },
+        {
+          "show": "Clyde's",
+          "person": "Kara Young",
+          "won": false
+        }
+      ],
+      "winner": "phylicia rashad|skeleton crew"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Company",
+          "person": "Matt Doyle",
+          "won": true
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Sidney DuPont",
+          "won": false
+        },
+        {
+          "show": "Funny Girl",
+          "person": "Jared Grimes",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "John-Andrew Morrison",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "A. J. Shively",
+          "won": false
+        }
+      ],
+      "winner": "matt doyle|company"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Company",
+          "person": "Patti LuPone",
+          "won": true
+        },
+        {
+          "show": "Girl from the North Country",
+          "person": "Jeannette Bayardelle",
+          "won": false
+        },
+        {
+          "show": "Mr. Saturday Night",
+          "person": "Shoshana Bean",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Jayne Houdyshell",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "L Morgan Lee",
+          "won": false
+        },
+        {
+          "show": "Company",
+          "person": "Jennifer Simard",
+          "won": false
+        }
+      ],
+      "winner": "patti lupone|company"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Sam Mendes",
+          "won": true
+        },
+        {
+          "show": "The Skin of Our Teeth",
+          "person": "Lileana Blain-Cruz",
+          "won": false
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": "Camille A. Brown",
+          "won": false
+        },
+        {
+          "show": "American Buffalo",
+          "person": "Neil Pepe",
+          "won": false
+        },
+        {
+          "show": "Dana H.",
+          "person": "Les Waters",
+          "won": false
+        }
+      ],
+      "winner": "sam mendes|lehman trilogy"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Company",
+          "person": "Marianne Elliott",
+          "won": true
+        },
+        {
+          "show": "Six",
+          "person": "Jamie Armitage and Lucy Moss",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Stephen Brackett",
+          "won": false
+        },
+        {
+          "show": "Girl from the North Country",
+          "person": "Conor McPherson",
+          "won": false
+        },
+        {
+          "show": "MJ",
+          "person": "Christopher Wheeldon",
+          "won": false
+        }
+      ],
+      "winner": "marianne elliott|company"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "MJ",
+          "person": "Christopher Wheeldon",
+          "won": true
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": "Camille A. Brown",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Warren Carlyle",
+          "won": false
+        },
+        {
+          "show": "Six",
+          "person": "Carrie-Anne Ingrouille",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Bill T. Jones",
+          "won": false
+        }
+      ],
+      "winner": "christopher wheeldon|mj"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Girl from the North Country",
+          "person": "Simon Hale",
+          "won": true
+        },
+        {
+          "show": "Company",
+          "person": "David Cullen",
+          "won": false
+        },
+        {
+          "show": "Six",
+          "person": "Tom Curran",
+          "won": false
+        },
+        {
+          "show": "MJ",
+          "person": "David Holcenberg and Jason Michael Webb",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Charlie Rosen",
+          "won": false
+        }
+      ],
+      "winner": "simon hale|girl from the north country"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Es Devlin",
+          "won": true
+        },
+        {
+          "show": "POTUS",
+          "person": "Beowulf Boritt",
+          "won": false
+        },
+        {
+          "show": "Skeleton Crew",
+          "person": "Michael Carnahan and Nicholas Hussong",
+          "won": false
+        },
+        {
+          "show": "Hangmen",
+          "person": "Anna Fleischle",
+          "won": false
+        },
+        {
+          "show": "American Buffalo",
+          "person": "Scott Pask",
+          "won": false
+        },
+        {
+          "show": "The Skin of Our Teeth",
+          "person": "Adam Rigg",
+          "won": false
+        }
+      ],
+      "winner": "es devlin|lehman trilogy"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Skin of Our Teeth",
+          "person": "Montana Levi Blanco",
+          "won": true
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": "Sarafina Bush",
+          "won": false
+        },
+        {
+          "show": "Trouble in Mind",
+          "person": "Emilio Sosa",
+          "won": false
+        },
+        {
+          "show": "Plaza Suite",
+          "person": "Jane Greenwood",
+          "won": false
+        },
+        {
+          "show": "Clyde's",
+          "person": "Jennifer Moeller",
+          "won": false
+        }
+      ],
+      "winner": "montana levi blanco|skin of our teeth"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Jon Clark",
+          "won": true
+        },
+        {
+          "show": "Hangmen",
+          "person": "Joshua Carr",
+          "won": false
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": "Jiyoun Chang",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Jane Cox",
+          "won": false
+        },
+        {
+          "show": "The Skin of Our Teeth",
+          "person": "Yi Zhao",
+          "won": false
+        }
+      ],
+      "winner": "jon clark|lehman trilogy"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Dana H.",
+          "person": "Mikhail Fiksel",
+          "won": true
+        },
+        {
+          "show": "The Lehman Trilogy",
+          "person": "Dominic Bilkey and Nick Powell",
+          "won": false
+        },
+        {
+          "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+          "person": "Justin Ellington",
+          "won": false
+        },
+        {
+          "show": "The Skin of Our Teeth",
+          "person": "Palmer Hefferan",
+          "won": false
+        },
+        {
+          "show": "Macbeth",
+          "person": "Mikaal Sulaiman",
+          "won": false
+        }
+      ],
+      "winner": "mikhail fiksel|dana h"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Company",
+          "person": "Bunny Christie",
+          "won": true
+        },
+        {
+          "show": "Flying Over Sunset",
+          "person": "Beowulf Boritt and 59 Productions",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Arnulfo Maldonado",
+          "won": false
+        },
+        {
+          "show": "MJ",
+          "person": "Derek McLane and Peter Nigrini",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Allen Moyer",
+          "won": false
+        }
+      ],
+      "winner": "bunny christie|company"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Six",
+          "person": "Gabriella Slade",
+          "won": true
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": "Fly Davis",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Toni-Leslie James",
+          "won": false
+        },
+        {
+          "show": "Diana",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "MJ",
+          "person": "Paul Tazewell",
+          "won": false
+        }
+      ],
+      "winner": "gabriella slade|six"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "MJ",
+          "person": "Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "Company",
+          "person": "Neil Austin",
+          "won": false
+        },
+        {
+          "show": "Six",
+          "person": "Tim Deiling",
+          "won": false
+        },
+        {
+          "show": "Paradise Square",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "Flying Over Sunset",
+          "person": "Bradley King",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Jen Schriever",
+          "won": false
+        }
+      ],
+      "winner": "natasha katz|mj"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "MJ",
+          "person": "Gareth Owen",
+          "won": true
+        },
+        {
+          "show": "Girl from the North Country",
+          "person": "Simon Baker",
+          "won": false
+        },
+        {
+          "show": "Six",
+          "person": "Paul Gatehouse",
+          "won": false
+        },
+        {
+          "show": "Company",
+          "person": "Ian Dickinson (Autograph)",
+          "won": false
+        },
+        {
+          "show": "A Strange Loop",
+          "person": "Drew Levy",
+          "won": false
+        }
+      ],
+      "winner": "gareth owen|mj"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Company",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Company",
+        "person": "Marianne Elliott",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Company",
+        "person": "Matt Doyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Company",
+        "person": "Patti LuPone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Company",
+        "person": "Jennifer Simard",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Company",
+        "person": "Liam Steel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Company",
+        "person": "Bunny Christie",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Company",
+        "person": "Ian Dickinson for Autograph",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Strange Loop",
+        "person": "Jaquel Spivey",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Original Score",
+        "show": "A Strange Loop",
+        "person": "Michael R. Jackson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "MJ",
+        "person": "Jason Michael Webb & David Holcenberg",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "MJ",
+        "person": "Natasha Katz",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "MJ",
+        "person": "Gareth Owen",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "MJ",
+        "person": "Myles Frost",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "MJ",
+        "person": "Tavon Olds-Sample",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "MJ",
+        "person": "Christopher Wheeldon, Rich and Tone Talauega & Michael Balderrama",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Wig and Hair Design",
+        "show": "MJ",
+        "person": "Charles LaPointe",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Six",
+        "person": "Toby Marlow and Lucy Moss",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Six",
+        "person": "Toby Marlow and Lucy Moss",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Six",
+        "person": "Gabriella Slade",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Ensemble Award",
+        "show": "Six",
+        "person": "Adrianna Hicks, Andrea Macasaet, Brittney Mack, Abby Mueller, Samantha Pauly, Anna Uzele",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Six",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Six",
+        "person": "Lucy Moss and Jamie Armitage",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Six",
+        "person": "Toby Marlow and Lucy Moss",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Six",
+        "person": "Carrie-Anne Ingrouille",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Six",
+        "person": "Tom Curran",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Six",
+        "person": "Emma Bailey",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Six",
+        "person": "Paul Gatehouse",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Take Me Out",
+        "person": "Jesse Tyler Ferguson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Mr. Saturday Night",
+        "person": "Billy Crystal",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Mr. Saturday Night",
+        "person": "Billy Crystal, Lowell Ganz, Babaloo Mandel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Mr. Saturday Night",
+        "person": "Amanda Green",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Kimberly Akimbo",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Victoria Clark",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Justin Cooley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Bonnie Milligan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Jessica Stone",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Kimberly Akimbo",
+        "person": "Jeanine Tesori",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Kimberly Akimbo",
+        "person": "David Lindsay-Abaire",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "David Zinn",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Kai Harada",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Lehman Trilogy",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Lehman Trilogy",
+        "person": "Simon Russell Beale",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Lehman Trilogy",
+        "person": "Sam Mendes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lighting Design (Play or Musical)",
+        "show": "The Lehman Trilogy",
+        "person": "Jon Clark",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design (Play or Musical)",
+        "show": "The Lehman Trilogy",
+        "person": "Nick Powell and Dominic Bilkey",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Video/Projection Design (Play or Musical)",
+        "show": "The Lehman Trilogy",
+        "person": "Luke Halls",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Lehman Trilogy",
+        "person": "Adam Godley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Lehman Trilogy",
+        "person": "Adrian Lester",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design (Play or Musical)",
+        "show": "The Lehman Trilogy",
+        "person": "Es Devlin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Musical (Broadway or Off-Broadway)",
+        "show": "Company",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Company",
+        "person": "Matt Doyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Company",
+        "person": "Patti LuPone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "MJ",
+        "person": "Christopher Wheeldon & Rich + Tone Talauega",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "MJ",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "MJ",
+        "person": "Myles Frost",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "MJ",
+        "person": "Christopher Wheeldon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "MJ",
+        "person": "Quentin Earl Darrington",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "MJ",
+        "person": "Jason Michael Webb & David Holcenberg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "MJ",
+        "person": "Natasha Katz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Strange Loop",
+        "person": "Jaquel Spivey",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Six",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Six",
+        "person": "Lucy Moss and Toby Marlow",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Six",
+        "person": "Gabriella Slade",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play (Broadway or Off-Broadway)",
+        "show": "Take Me Out",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Take Me Out",
+        "person": "Jesse Tyler Ferguson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Take Me Out",
+        "person": "Patrick J. Adams",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Take Me Out",
+        "person": "Michael Oberholtzer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Take Me Out",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Mr. Saturday Night",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Mr. Saturday Night",
+        "person": "Shoshana Bean",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Mr. Saturday Night",
+        "person": "Billy Crystal, Lowell Ganz, Babaloo Mandel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Mr. Saturday Night",
+        "person": "Jeff Sugg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Kimberly Akimbo",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Victoria Clark",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Jessica Stone",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "David Lindsay-Abaire",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Justin Cooley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Bonnie Milligan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Score",
+        "show": "Kimberly Akimbo",
+        "person": "Jeanine Tesori & David Lindsay-Abaire",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Kimberly Akimbo",
+        "person": "John Clancy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Outstanding Production of a Play",
+        "show": "The Lehman Trilogy",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Production of a Musical",
+        "show": "A Strange Loop",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Take Me Out",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Company",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "The Music Man",
+        "person": "Sutton Foster",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "A Case for the Existence of God",
+        "person": "Samuel D. Hunter",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Kimberly Akimbo",
+        "person": "Jeanine Tesori and David Lindsay-Abaire",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

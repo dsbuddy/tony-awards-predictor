@@ -1,0 +1,1962 @@
+{
+  "year": 2000,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 1999-2000 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Copenhagen",
+          "person": "Michael Frayn",
+          "won": true
+        },
+        {
+          "show": "Dirty Blonde",
+          "person": "Claudia Shear",
+          "won": false
+        },
+        {
+          "show": "The Ride Down Mt. Morgan",
+          "person": "Arthur Miller",
+          "won": false
+        },
+        {
+          "show": "True West",
+          "person": "Sam Shepard",
+          "won": false
+        }
+      ],
+      "winner": "michael frayn|copenhagen"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Contact",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "James Joyce's The Dead",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Swing!",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Wild Party",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "contact"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "The Real Thing",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Amadeus",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A Moon for the Misbegotten",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Price",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "real thing"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Kiss Me, Kate",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Jesus Christ Superstar",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Tango Argentino",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "kiss me kate"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "James Joyce's The Dead",
+          "person": "Richard Nelson",
+          "won": true
+        },
+        {
+          "show": "Contact",
+          "person": "John Weidman",
+          "won": false
+        },
+        {
+          "show": "Marie Christine",
+          "person": "Michael John LaChiusa",
+          "won": false
+        },
+        {
+          "show": "The Wild Party",
+          "person": "Michael John LaChiusa & George C. Wolfe",
+          "won": false
+        }
+      ],
+      "winner": "richard nelson|james joyces the dead"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Aida",
+          "person": "Elton John (music), Tim Rice (lyrics)",
+          "won": true
+        },
+        {
+          "show": "James Joyce's The Dead",
+          "person": "Shaun Davey, Richard Nelson",
+          "won": false
+        },
+        {
+          "show": "Marie Christine",
+          "person": "Michael John LaChiusa",
+          "won": false
+        },
+        {
+          "show": "The Wild Party",
+          "person": "Michael John LaChiusa",
+          "won": false
+        }
+      ],
+      "winner": "elton john music tim rice lyrics|aida"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "The Real Thing",
+          "person": "Stephen Dillane",
+          "won": true
+        },
+        {
+          "show": "A Moon for the Misbegotten",
+          "person": "Gabriel Byrne",
+          "won": false
+        },
+        {
+          "show": "True West",
+          "person": "Philip Seymour Hoffman",
+          "won": false
+        },
+        {
+          "show": "True West",
+          "person": "John C. Reilly",
+          "won": false
+        },
+        {
+          "show": "Amadeus",
+          "person": "David Suchet",
+          "won": false
+        }
+      ],
+      "winner": "stephen dillane|real thing"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "The Real Thing",
+          "person": "Jennifer Ehle",
+          "won": true
+        },
+        {
+          "show": "The Rainmaker",
+          "person": "Jayne Atkinson",
+          "won": false
+        },
+        {
+          "show": "Waiting in the Wings",
+          "person": "Rosemary Harris",
+          "won": false
+        },
+        {
+          "show": "A Moon for the Misbegotten",
+          "person": "Cherry Jones",
+          "won": false
+        },
+        {
+          "show": "Dirty Blonde",
+          "person": "Claudia Shear",
+          "won": false
+        }
+      ],
+      "winner": "jennifer ehle|real thing"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Brian Stokes Mitchell",
+          "won": true
+        },
+        {
+          "show": "The Music Man",
+          "person": "Craig Bierko",
+          "won": false
+        },
+        {
+          "show": "Putting It Together",
+          "person": "George Hearn",
+          "won": false
+        },
+        {
+          "show": "The Wild Party",
+          "person": "Mandy Patinkin",
+          "won": false
+        },
+        {
+          "show": "James Joyce's The Dead",
+          "person": "Christopher Walken",
+          "won": false
+        }
+      ],
+      "winner": "brian stokes mitchell|kiss me kate"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Aida",
+          "person": "Heather Headley",
+          "won": true
+        },
+        {
+          "show": "The Wild Party",
+          "person": "Toni Collette",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Rebecca Luker",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Marin Mazzie",
+          "won": false
+        },
+        {
+          "show": "Marie Christine",
+          "person": "Audra McDonald",
+          "won": false
+        }
+      ],
+      "winner": "heather headley|aida"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "A Moon for the Misbegotten",
+          "person": "Roy Dotrice",
+          "won": true
+        },
+        {
+          "show": "Dirty Blonde",
+          "person": "Kevin Chamberlin",
+          "won": false
+        },
+        {
+          "show": "Wrong Mountain",
+          "person": "Daniel Davis",
+          "won": false
+        },
+        {
+          "show": "The Green Bird",
+          "person": "Derek Smith",
+          "won": false
+        },
+        {
+          "show": "Dirty Blonde",
+          "person": "Bob Stillman",
+          "won": false
+        }
+      ],
+      "winner": "roy dotrice|moon for the misbegotten"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Copenhagen",
+          "person": "Blair Brown",
+          "won": true
+        },
+        {
+          "show": "The Ride Down Mt. Morgan",
+          "person": "Frances Conroy",
+          "won": false
+        },
+        {
+          "show": "Uncle Vanya",
+          "person": "Amy Ryan",
+          "won": false
+        },
+        {
+          "show": "Waiting in the Wings",
+          "person": "Helen Stenborg",
+          "won": false
+        },
+        {
+          "show": "The Real Thing",
+          "person": "Sarah Woodward",
+          "won": false
+        }
+      ],
+      "winner": "blair brown|copenhagen"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Contact",
+          "person": "Boyd Gaines",
+          "won": true
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Michael Berresse",
+          "won": false
+        },
+        {
+          "show": "James Joyce's The Dead",
+          "person": "Stephen Spinella",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Lee Wilkof",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Michael Mulheren",
+          "won": false
+        }
+      ],
+      "winner": "boyd gaines|contact"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Contact",
+          "person": "Karen Ziemba",
+          "won": true
+        },
+        {
+          "show": "Swing!",
+          "person": "Laura Benanti",
+          "won": false
+        },
+        {
+          "show": "Swing!",
+          "person": "Ann Hampton Callaway",
+          "won": false
+        },
+        {
+          "show": "The Wild Party",
+          "person": "Eartha Kitt",
+          "won": false
+        },
+        {
+          "show": "Contact",
+          "person": "Deborah Yates",
+          "won": false
+        }
+      ],
+      "winner": "karen ziemba|contact"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Copenhagen",
+          "person": "Michael Blakemore",
+          "won": true
+        },
+        {
+          "show": "Dirty Blonde",
+          "person": "James Lapine",
+          "won": false
+        },
+        {
+          "show": "The Real Thing",
+          "person": "David Leveaux",
+          "won": false
+        },
+        {
+          "show": "True West",
+          "person": "Matthew Warchus",
+          "won": false
+        }
+      ],
+      "winner": "michael blakemore|copenhagen"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Michael Blakemore",
+          "won": true
+        },
+        {
+          "show": "The Music Man",
+          "person": "Susan Stroman",
+          "won": false
+        },
+        {
+          "show": "Contact",
+          "person": "Susan Stroman",
+          "won": false
+        },
+        {
+          "show": "Swing!",
+          "person": "Lynne Taylor-Corbett",
+          "won": false
+        }
+      ],
+      "winner": "michael blakemore|kiss me kate"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Contact",
+          "person": "Susan Stroman",
+          "won": true
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Kathleen Marshall",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "Susan Stroman",
+          "won": false
+        },
+        {
+          "show": "Swing!",
+          "person": "Lynne Taylor-Corbett",
+          "won": false
+        }
+      ],
+      "winner": "susan stroman|contact"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Don Sebesky",
+          "won": true
+        },
+        {
+          "show": "The Music Man",
+          "person": "Doug Besterman",
+          "won": false
+        },
+        {
+          "show": "Marie Christine",
+          "person": "Jonathan Tunick",
+          "won": false
+        },
+        {
+          "show": "Swing!",
+          "person": "Harold Wheeler",
+          "won": false
+        }
+      ],
+      "winner": "don sebesky|kiss me kate"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Aida",
+          "person": "Bob Crowley",
+          "won": true
+        },
+        {
+          "show": "The Music Man",
+          "person": "Thomas Lynch",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Robin Wagner",
+          "won": false
+        },
+        {
+          "show": "Uncle Vanya",
+          "person": "Tony Walton",
+          "won": false
+        }
+      ],
+      "winner": "bob crowley|aida"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Martin Pakledinaz",
+          "won": true
+        },
+        {
+          "show": "Aida",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "The Green Bird",
+          "person": "Constance Hoffman",
+          "won": false
+        },
+        {
+          "show": "The Music Man",
+          "person": "William Ivey Long",
+          "won": false
+        }
+      ],
+      "winner": "martin pakledinaz|kiss me kate"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Aida",
+          "person": "Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "The Wild Party",
+          "person": "Jules Fisher & Peggy Eisenhauer",
+          "won": false
+        },
+        {
+          "show": "Marie Christine",
+          "person": "Jules Fisher & Peggy Eisenhauer",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Peter Kaczorowski",
+          "won": false
+        }
+      ],
+      "winner": "natasha katz|aida"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "costume_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "lighting_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Copenhagen",
+        "person": "Michael Frayn",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Contact with the Enemy",
+        "person": "Frank D. Gilroy",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Dinner with Friends",
+        "person": "Donald Margulies",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Dirty Blonde",
+        "person": "Claudia Shear",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Jitney",
+        "person": "August Wilson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Tale of the Allergist's Wife",
+        "person": "Charles Busch",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Contact",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "James Joyce's The Dead",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Saturday Night",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Swing!",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Wild Party",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Real Thing",
+        "person": "Tom Stoppard",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "A Moon for the Misbegotten",
+        "person": "Eugene O'Neill",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Price",
+        "person": "Arthur Miller",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "True West",
+        "person": "Sam Shepard",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Uncle Vanya",
+        "person": "Anton Chekhov",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Waste",
+        "person": "Harley Granville Barker",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Kiss Me, Kate",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Music Man",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Real Thing",
+        "person": "Stephen Dillane",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A Moon for the Misbegotten",
+        "person": "Gabriel Byrne",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Dirty Blonde",
+        "person": "Kevin Chamberlin",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "True West",
+        "person": "Philip Seymour Hoffman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Uncle Vanya",
+        "person": "Derek Jacobi",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Coyote on a Fence",
+        "person": "Paul Sparks",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Waverly Gallery",
+        "person": "Eileen Heckart",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Our Lady of Sligo",
+        "person": "Sin\u00e9ad Cusack",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Tale of the Allergist's Wife",
+        "person": "Linda Lavin",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Dirty Blonde",
+        "person": "Claudia Shear",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Jar the Floor",
+        "person": "Lynne Thigpen",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "In the Blood",
+        "person": "Charlayne Woodard",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Brian Stokes Mitchell",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Music Man",
+        "person": "Craig Bierko",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Wild Party",
+        "person": "Brian d'Arcy James",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Contact",
+        "person": "Boyd Gaines",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Wild Party",
+        "person": "Mandy Patinkin",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Aida",
+        "person": "Heather Headley",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Wild Party",
+        "person": "Toni Collette",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Music Man",
+        "person": "Rebecca Luker",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Marin Mazzie",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Marie Christine",
+        "person": "Audra McDonald",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Wild Party",
+        "person": "Julia Murney",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "A Moon for the Misbegotten",
+        "person": "Roy Dotrice",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Dinner with Friends",
+        "person": "Matthew Arkin",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Give Me Your Answer, Do!",
+        "person": "Joel Grey",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Author's Voice",
+        "person": "Philip Seymour Hoffman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Uncle Vanya",
+        "person": "Brian Murray",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Price",
+        "person": "Harris Yulin",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Fuddy Meers",
+        "person": "Marylouise Burke",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Cider House Rules, Part One",
+        "person": "Jillian Armenante",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "An Experiment with an Air Pump",
+        "person": "Seana Kofoed",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Moment When",
+        "person": "Phyllis Newman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Time of the Cuckoo",
+        "person": "\u00c7i\u011fdem Onat",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Country Club",
+        "person": "Amy Sedaris",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "James Joyce's The Dead",
+        "person": "Stephen Spinella",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Contact",
+        "person": "Jason Antoon",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Saturday Night",
+        "person": "Christopher Fitzgerald",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kat and the Kings",
+        "person": "Alistair Izobell",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Michael Mulheren",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Lee Wilkof",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Contact",
+        "person": "Karen Ziemba",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Jolson and Co.",
+        "person": "Nancy Anderson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "James Joyce's The Dead",
+        "person": "Sally Ann Howes",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Wild Party",
+        "person": "Eartha Kitt",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Wild Party",
+        "person": "Alix Korey",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Wild Party",
+        "person": "Idina Menzel",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Copenhagen",
+        "person": "Michael Blakemore",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Cider House Rules, Part One",
+        "person": "Thomas Hulce and Jane Jones",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Dirty Blonde",
+        "person": "James Lapine",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Uncle Vanya",
+        "person": "Michael Mayer",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Jitney",
+        "person": "Marion McClinton",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Dinner with Friends",
+        "person": "Daniel J. Sullivan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Michael Blakemore",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Wild Party",
+        "person": "Gabriel Barre",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Contact",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Music Man",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Contact",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Kat and the Kings",
+        "person": "Jody Abrahams and Loukmaan Adams",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Wild Party",
+        "person": "Mark Dendy",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Kiss Me, Kate",
+        "person": "Kathleen Marshall",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Music Man",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Swing!",
+        "person": "Lynne Taylor-Corbett",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Wild Party",
+        "person": "Andrew Lippa",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "James Joyce's The Dead",
+        "person": "Shaun Davey",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Saturday Night",
+        "person": "Stephen Sondheim",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Saturday Night",
+        "person": "Stephen Sondheim",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Big Bang",
+        "person": "Boyd Graham",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Bomb-itty of Errors",
+        "person": "Jordan Allen-Dutton, Jason Catalano & GQ",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Wild Party",
+        "person": "Andrew Lippa",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Kiss Me, Kate",
+        "person": "Don Sebesky",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Music Man",
+        "person": "Doug Besterman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Wild Party",
+        "person": "Michael Gibson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Kat and the Kings",
+        "person": "Taliep Petersen",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Saturday Night",
+        "person": "Jonathan Tunick",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Swing!",
+        "person": "Harold Wheeler",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Jitney",
+        "person": "David Gallo",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "East is East",
+        "person": "Derek McLane",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "The Time of the Cuckoo",
+        "person": "James Noone",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "An Empty Plate in the Caf\u00e9 du Grand Boeuf",
+        "person": "Rob Odorisio",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Dinner with Friends",
+        "person": "Neil Patel",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Uncle Vanya",
+        "person": "Tony Walton",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Robin Wagner",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Shockheaded Peter",
+        "person": "Julian Crouch and Graeme Gilmour",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "The Wild Party",
+        "person": "David Gallo",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Contact",
+        "person": "Thomas Lynch",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "The Music Man",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Kiss Me, Kate",
+        "person": "Martin Pakledinaz",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Country Club",
+        "person": "Jonathan Bixby and Gregory Gale",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Big Bang",
+        "person": "Boyd Graham",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Music Man",
+        "person": "William Ivey Long",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Wild Party",
+        "person": "Martin Pakledinaz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Shockheaded Peter",
+        "person": "Kevin Pollard",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Contact",
+        "person": "Peter Kaczorowski",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Dirty Blonde",
+        "person": "David J. Lander",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "An Experiment with an Air Pump",
+        "person": "Brian MacDevitt",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Water Engine",
+        "person": "Robert Perry",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Wild Party",
+        "person": "Kenneth Posner",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Space",
+        "person": "Scott Zielinski",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Copenhagen",
+        "person": "Michael Frayn",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Waiting in the Wings",
+        "person": "No\u00ebl Coward",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "True West",
+        "person": "Sam Shepard",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Green Bird",
+        "person": "Carlo Gozzi",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Contact",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Swing!",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "James Joyce's The Dead",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Saturday Night Fever",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Uncle Vanya",
+        "person": "Derek Jacobi",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Real Thing",
+        "person": "Stephen Dillane",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Amadeus",
+        "person": "Michael Sheen",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Amadeus",
+        "person": "David Suchet",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Waverly Gallery",
+        "person": "Eileen Heckart",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Waiting in the Wings",
+        "person": "Rosemary Harris",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Uncle Vanya",
+        "person": "Laura Linney",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Fuddy Meers",
+        "person": "J. Smith-Cameron",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Brian Stokes Mitchell",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Saturday Night Fever",
+        "person": "James Carpinello",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Music Man",
+        "person": "Craig Bierko",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Wild Party",
+        "person": "Taye Diggs",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Marin Mazzie",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Wild Party",
+        "person": "Toni Collette",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Aida",
+        "person": "Heather Headley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Music Man",
+        "person": "Rebecca Luker",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "A Moon for the Misbegotten",
+        "person": "Roy Dotrice",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Price",
+        "person": "Bob Dishy",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "An Experiment with an Air Pump",
+        "person": "Daniel Gerroll",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Waiting in the Wings",
+        "person": "Simon Jones",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Ride Down Mt. Morgan",
+        "person": "Frances Conroy",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Real Thing",
+        "person": "Jennifer Ehle",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Amadeus",
+        "person": "Cindy Katz",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Price",
+        "person": "Lizbeth MacKay",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "James Joyce's The Dead",
+        "person": "Stephen Spinella",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Michael Berresse",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Contact",
+        "person": "Boyd Gaines",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Jesus Christ Superstar",
+        "person": "Tony Vincent",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Contact",
+        "person": "Karen Ziemba",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "James Joyce's The Dead",
+        "person": "Blair Brown",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Music Man",
+        "person": "Ruth Williamson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Contact",
+        "person": "Deborah Yates",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Moon for the Misbegotten / Dinner with Friends",
+        "person": "Daniel J. Sullivan",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Amadeus",
+        "person": "Peter Hall",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Copenhagen",
+        "person": "Michael Blakemore",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Real Thing",
+        "person": "David Leveaux",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Contact / The Music Man",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Wild Party",
+        "person": "Mark Dendy",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Swing!",
+        "person": "Lynne Taylor-Corbett",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Kathleen Marshall",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Copenhagen",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Contact",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "The Waverly Gallery",
+        "person": "Eileen Heckart",
+        "won": true,
+        "is_broadway": false
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Jitney",
+        "person": "August Wilson",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Best Musical",
+        "show": "James Joyce's The Dead",
+        "person": "Shaun Davey, Richard Nelson",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "Copenhagen",
+        "person": "Michael Frayn",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      }
+    ]
+  }
+}

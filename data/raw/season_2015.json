@@ -1,0 +1,2879 @@
+{
+  "year": 2015,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2014-2015 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Curious Incident of the Dog in the Night-Time",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Disgraced",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Hand to God",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "curious incident of the dog in the night time"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Fun Home",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "An American in Paris",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Visit",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "fun home"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Skylight",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Elephant Man",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "This Is Our Youth",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "You Can't Take It with You",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "skylight"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "The King and I",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "On the Town",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "On the Twentieth Century",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "king and i"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Fun Home",
+          "person": "Lisa Kron",
+          "won": true
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Craig Lucas",
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Karey Kirkpatrick & John O'Farrell",
+          "won": false
+        },
+        {
+          "show": "The Visit",
+          "person": "Terrence McNally",
+          "won": false
+        }
+      ],
+      "winner": "lisa kron|fun home"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Fun Home",
+          "person": "Jeanine Tesori (music) & Lisa Kron (lyrics)",
+          "won": true
+        },
+        {
+          "show": "The Last Ship",
+          "person": "Sting",
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Wayne Kirkpatrick & Karey Kirkpatrick",
+          "won": false
+        },
+        {
+          "show": "The Visit",
+          "person": "John Kander (music) & Fred Ebb (lyrics)",
+          "won": false
+        }
+      ],
+      "winner": "jeanine tesori music lisa kron lyrics|fun home"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "The Curious Incident of the Dog in the Night-Time",
+          "person": "Alex Sharp",
+          "won": true
+        },
+        {
+          "show": "Hand to God",
+          "person": "Steven Boyer",
+          "won": false
+        },
+        {
+          "show": "The Elephant Man",
+          "person": "Bradley Cooper",
+          "won": false
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Ben Miles",
+          "won": false
+        },
+        {
+          "show": "Skylight",
+          "person": "Bill Nighy",
+          "won": false
+        }
+      ],
+      "winner": "alex sharp|curious incident of the dog in the night time"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "The Audience",
+          "person": "Helen Mirren",
+          "won": true
+        },
+        {
+          "show": "Hand to God",
+          "person": "Geneva Carr",
+          "won": false
+        },
+        {
+          "show": "The Heidi Chronicles",
+          "person": "Elisabeth Moss",
+          "won": false
+        },
+        {
+          "show": "Skylight",
+          "person": "Carey Mulligan",
+          "won": false
+        },
+        {
+          "show": "Constellations",
+          "person": "Ruth Wilson",
+          "won": false
+        }
+      ],
+      "winner": "helen mirren|audience"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Fun Home",
+          "person": "Michael Cerveris",
+          "won": true
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Robert Fairchild",
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Brian d'Arcy James",
+          "won": false
+        },
+        {
+          "show": "The King and I",
+          "person": "Ken Watanabe",
+          "won": false
+        },
+        {
+          "show": "On the Town",
+          "person": "Tony Yazbeck",
+          "won": false
+        }
+      ],
+      "winner": "michael cerveris|fun home"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The King and I",
+          "person": "Kelli O'Hara",
+          "won": true
+        },
+        {
+          "show": "On the Twentieth Century",
+          "person": "Kristin Chenoweth",
+          "won": false
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Leanne Cope",
+          "won": false
+        },
+        {
+          "show": "Fun Home",
+          "person": "Beth Malone",
+          "won": false
+        },
+        {
+          "show": "The Visit",
+          "person": "Chita Rivera",
+          "won": false
+        }
+      ],
+      "winner": "kelli ohara|king and i"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "The Audience",
+          "person": "Richard McCabe",
+          "won": true
+        },
+        {
+          "show": "Skylight",
+          "person": "Matthew Beard",
+          "won": false
+        },
+        {
+          "show": "Airline Highway",
+          "person": "K. Todd Freeman",
+          "won": false
+        },
+        {
+          "show": "The Elephant Man",
+          "person": "Alessandro Nivola",
+          "won": false
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Nathaniel Parker",
+          "won": false
+        },
+        {
+          "show": "It's Only a Play",
+          "person": "Micah Stock",
+          "won": false
+        }
+      ],
+      "winner": "richard mccabe|audience"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "You Can't Take It with You",
+          "person": "Annaleigh Ashford",
+          "won": true
+        },
+        {
+          "show": "The Elephant Man",
+          "person": "Patricia Clarkson",
+          "won": false
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Lydia Leonard",
+          "won": false
+        },
+        {
+          "show": "Hand to God",
+          "person": "Sarah Stiles",
+          "won": false
+        },
+        {
+          "show": "Airline Highway",
+          "person": "Julie White",
+          "won": false
+        }
+      ],
+      "winner": "annaleigh ashford|you cant take it with you"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Something Rotten!",
+          "person": "Christian Borle",
+          "won": true
+        },
+        {
+          "show": "On the Twentieth Century",
+          "person": "Andy Karl",
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Brad Oscar",
+          "won": false
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Brandon Uranowitz",
+          "won": false
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Max von Essen",
+          "won": false
+        }
+      ],
+      "winner": "christian borle|something rotten"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "The King and I",
+          "person": "Ruthie Ann Miles",
+          "won": true
+        },
+        {
+          "show": "Gigi",
+          "person": "Victoria Clark",
+          "won": false
+        },
+        {
+          "show": "Fun Home",
+          "person": "Judy Kuhn",
+          "won": false
+        },
+        {
+          "show": "Fun Home",
+          "person": "Sydney Lucas",
+          "won": false
+        },
+        {
+          "show": "Fun Home",
+          "person": "Emily Skeggs",
+          "won": false
+        }
+      ],
+      "winner": "ruthie ann miles|king and i"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "The Curious Incident of the Dog in the Night-Time",
+          "person": "Marianne Elliott",
+          "won": true
+        },
+        {
+          "show": "Skylight",
+          "person": "Stephen Daldry",
+          "won": false
+        },
+        {
+          "show": "You Can't Take It with You",
+          "person": "Scott Ellis",
+          "won": false
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Jeremy Herrin",
+          "won": false
+        },
+        {
+          "show": "Hand to God",
+          "person": "Moritz von Stuelpnagel",
+          "won": false
+        }
+      ],
+      "winner": "marianne elliott|curious incident of the dog in the night time"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Fun Home",
+          "person": "Sam Gold",
+          "won": true
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Casey Nicholaw",
+          "won": false
+        },
+        {
+          "show": "On the Town",
+          "person": "John Rando",
+          "won": false
+        },
+        {
+          "show": "The King and I",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Christopher Wheeldon",
+          "won": false
+        }
+      ],
+      "winner": "sam gold|fun home"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "An American in Paris",
+          "person": "Christopher Wheeldon",
+          "won": true
+        },
+        {
+          "show": "On the Town",
+          "person": "Joshua Bergasse",
+          "won": false
+        },
+        {
+          "show": "The King and I",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "The Curious Incident of the Dog in the Night-Time",
+          "person": "Scott Graham & Steven Hoggett",
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Casey Nicholaw",
+          "won": false
+        }
+      ],
+      "winner": "christopher wheeldon|american in paris"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "An American in Paris",
+          "person": "Christopher Austin, Don Sebesky & Bill Elliott",
+          "won": true
+        },
+        {
+          "show": "Fun Home",
+          "person": "John Clancy",
+          "won": false
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "The Last Ship",
+          "person": "Rob Mathes",
+          "won": false
+        }
+      ],
+      "winner": "christopher austin don sebesky bill elliott|american in paris"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Curious Incident of the Dog in the Night-Time",
+          "person": "Bunny Christie & Finn Ross",
+          "won": true
+        },
+        {
+          "show": "Skylight",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Christopher Oram",
+          "won": false
+        },
+        {
+          "show": "You Can't Take It with You",
+          "person": "David Rockwell",
+          "won": false
+        }
+      ],
+      "winner": "bunny christie finn ross|curious incident of the dog in the night time"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Christopher Oram",
+          "won": true
+        },
+        {
+          "show": "The Audience",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "You Can't Take It with You",
+          "person": "Jane Greenwood",
+          "won": false
+        },
+        {
+          "show": "Airline Highway",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "christopher oram|wolf hall parts one two"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The Curious Incident of the Dog in the Night-Time",
+          "person": "Paule Constable",
+          "won": true
+        },
+        {
+          "show": "Wolf Hall Parts One & Two",
+          "person": "Paule Constable & David Plater",
+          "won": false
+        },
+        {
+          "show": "Skylight",
+          "person": "Natasha Katz",
+          "won": false
+        },
+        {
+          "show": "Airline Highway",
+          "person": "Japhy Weideman",
+          "won": false
+        }
+      ],
+      "winner": "paule constable|curious incident of the dog in the night time"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "An American in Paris",
+          "person": "Bob Crowley & 59 Productions",
+          "won": true
+        },
+        {
+          "show": "On the Twentieth Century",
+          "person": "David Rockwell",
+          "won": false
+        },
+        {
+          "show": "The King and I",
+          "person": "Michael Yeargan",
+          "won": false
+        },
+        {
+          "show": "Fun Home",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "bob crowley 59 productions|american in paris"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "The King and I",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "Something Rotten!",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "An American in Paris",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "On the Twentieth Century",
+          "person": "William Ivey Long",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|king and i"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "An American in Paris",
+          "person": "Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "The King and I",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "Fun Home",
+          "person": "Ben Stanton",
+          "won": false
+        },
+        {
+          "show": "The Visit",
+          "person": "Japhy Weideman",
+          "won": false
+        }
+      ],
+      "winner": "natasha katz|american in paris"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "You Got Older",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Airline Highway",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The City of Conversation",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Between Riverside and Crazy",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "My Ma\u00f1ana Comes",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Let the Right One In",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Hamilton",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "An American in Paris",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Fly By Night",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Pretty Filthy",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Something Rotten!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Visit",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Elephant Man",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Fashions for Men",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Ghosts",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Iceman Cometh",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Tamburlaine the Great",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Wayside Motor Inn",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The King and I",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Into the Woods",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "On the Town",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "On the Twentieth Century",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Pageant",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Side Show",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Alex Sharp",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "I'm Gonna Pray for You So Hard",
+        "person": "Reed Birney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Elephant Man",
+        "person": "Bradley Cooper",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Between Riverside and Crazy",
+        "person": "Stephen McKinley Henderson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Wolf Hall Parts One & Two",
+        "person": "Ben Miles",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Sticks and Bones",
+        "person": "Bill Pullman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Audience",
+        "person": "Helen Mirren",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "You Got Older",
+        "person": "Brooke Bloom",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "A Walk in the Woods",
+        "person": "Kathleen Chalfant",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Fatal Weakness",
+        "person": "Kristin Griffith",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The City of Conversation",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Skylight",
+        "person": "Carey Mulligan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Rasheeda Speaking",
+        "person": "Tonya Pinkins",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "An American in Paris",
+        "person": "Robert Fairchild",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Something Rotten!",
+        "person": "Brian d'Arcy James",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Atomic",
+        "person": "Jeremy Kushnier",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Finding Neverland",
+        "person": "Matthew Morrison",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Side Show",
+        "person": "Ryan Silverman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Kristin Chenoweth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "John & Jen",
+        "person": "Kate Baldwin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "An American in Paris",
+        "person": "Leanne Cope",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Side Show",
+        "person": "Erin Davie",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "It Shoulda Been You",
+        "person": "Lisa Howard",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Visit",
+        "person": "Chita Rivera",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Airline Highway",
+        "person": "K. Todd Freeman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "It's Only a Play",
+        "person": "F. Murray Abraham",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "You Got Older",
+        "person": "Reed Birney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Rocket to the Moon",
+        "person": "Jonathan Hadary",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Village Bike",
+        "person": "Jason Butler Harner",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Pocatello",
+        "person": "Jonathan Hogan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "My Ma\u00f1ana Comes",
+        "person": "Jos\u00e9 Joaqu\u00edn P\u00e9rez",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "You Can't Take It with You",
+        "person": "Annaleigh Ashford",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The City of Conversation",
+        "person": "Beth Dixon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "You Can't Take It with You",
+        "person": "Julie Halston",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "To the Bone",
+        "person": "Paola L\u00e1zaro-Mu\u00f1oz",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Wolf Hall Parts One & Two",
+        "person": "Lydia Leonard",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Airline Highway",
+        "person": "Julie White",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Something Rotten!",
+        "person": "Christian Borle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Fly By Night",
+        "person": "Peter Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "It Shoulda Been You",
+        "person": "Josh Grisetti",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Andy Karl",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hamilton",
+        "person": "Leslie Odom, Jr.",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Something Rotten!",
+        "person": "Brad Oscar",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "An American in Paris",
+        "person": "Max von Essen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Hamilton",
+        "person": "Ren\u00e9e Elise Goldsberry",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Finding Neverland",
+        "person": "Carolee Carmello",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "It Shoulda Been You",
+        "person": "Tyne Daly",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Allegro",
+        "person": "Elizabeth A. Davis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Pretty Filthy",
+        "person": "Luba Mason",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Honeymoon in Vegas",
+        "person": "Nancy Opel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "On the Town",
+        "person": "Elizabeth Stanley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Marianne Elliott",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Wolf Hall Parts One & Two",
+        "person": "Jeremy Herrin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "You Got Older",
+        "person": "Anne Kauffman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Wayside Motor Inn",
+        "person": "Lila Neugebauer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Between Riverside and Crazy",
+        "person": "Austin Pendleton",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Deliverance",
+        "person": "Joe Tantalo",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Let the Right One In",
+        "person": "John Tiffany",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hamilton",
+        "person": "Thomas Kail",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Fly By Night",
+        "person": "Carolyn Cantor",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Side Show",
+        "person": "Bill Condon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Visit",
+        "person": "John Doyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Something Rotten!",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "An American in Paris",
+        "person": "Christopher Wheeldon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "An American in Paris",
+        "person": "Christopher Wheeldon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "On the Town",
+        "person": "Joshua Bergasse",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "On the Twentieth Century",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Last Ship",
+        "person": "Steven Hoggett",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Rococo Rouge",
+        "person": "Austin McCormick",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Something Rotten!",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Honeymoon in Vegas",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Fortress of Solitude",
+        "person": "Michael Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Visit",
+        "person": "John Kander",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Ghost Quartet",
+        "person": "Dave Malloy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Last Ship",
+        "person": "Sting",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Honeymoon in Vegas",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Visit",
+        "person": "Fred Ebb",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Fortress of Solitude",
+        "person": "Michael Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Something Rotten!",
+        "person": "Karey Kirkpatrick and Wayne Kirkpatrick",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Lion",
+        "person": "Benjamin Scheuer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Found",
+        "person": "Hunter Bell and Lee Overtree",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Something Rotten!",
+        "person": "Karey Kirkpatrick and John O'Farrell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "An American in Paris",
+        "person": "Craig Lucas",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Visit",
+        "person": "Terrence McNally",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Fly by Night",
+        "person": "Kim Rosenstock, Will Connolly, and Michael Mitnick",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "An American in Paris",
+        "person": "Christopher Austin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Allegro",
+        "person": "Mary-Mitchell Campbell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Something Rotten!",
+        "person": "Larry Hochman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Hamilton",
+        "person": "Alex Lacamoire",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Last Ship",
+        "person": "Rob Mathes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Honeymoon in Vegas",
+        "person": "Don Sebesky, Larry Blank, Jason Robert Brown, and Charlie Rosen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "An American in Paris",
+        "person": "Bob Crowley",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Let the Right One In",
+        "person": "Christine Jones",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Hamilton",
+        "person": "David Korins",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "An Octoroon",
+        "person": "Mimi Lien",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Visit",
+        "person": "Scott Pask",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Fashions for Men",
+        "person": "Daniel Zimmerman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Gigi",
+        "person": "Catherine Zuber",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "An American in Paris",
+        "person": "Bob Crowley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Audience",
+        "person": "Bob Crowley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Wolf Hall Parts One & Two",
+        "person": "Christopher Oram",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Hamilton",
+        "person": "Paul Tazewell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Fatal Weakness",
+        "person": "Andrea Varga",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Paule Constable",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Hamilton",
+        "person": "Howell Binkley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Wolf Hall Parts One & Two",
+        "person": "Paule Constable and David Plater",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Deliverance",
+        "person": "Maruti Evans",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Iceman Cometh",
+        "person": "Natasha Katz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Our Lady of Kibeho",
+        "person": "Ben Stanton",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Ian Dickinson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "The Other Mozart",
+        "person": "Nathan Davis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Deliverance",
+        "person": "Ien Denio",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Let the Right One In",
+        "person": "Gareth Fry",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Lives of the Saints",
+        "person": "John Gromada",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Our Lady of Kibeho",
+        "person": "Matt Tierney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Hamilton",
+        "person": "Nevin Steinberg",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Side Show",
+        "person": "Peter Hylenski",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "The King and I",
+        "person": "Scott Lehrer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Honeymoon in Vegas",
+        "person": "Scott Lehrer and Drew Levy",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "The Last Ship",
+        "person": "Brian Ronan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "An American in Paris",
+        "person": "Jon Weston",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Audience",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Wolf Hall",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "An American in Paris",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "It Shoulda Been You",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Last Ship",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Something Rotten!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Visit",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Between Riverside and Crazy",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The City of Conversation",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Nether",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Rasheeda Speaking",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Village Bike",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Hamilton",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "A Christmas Memory",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Disenchanted",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Fortress of Solitude",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Lonesome Traveler",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "You Can't Take It With You",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Fashions for Men",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Skylight",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Heidi Chronicles",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Elephant Man",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The King and I",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Side Show",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Into the Woods",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "On the Town",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "On the Twentieth Century",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Playwrights Award",
+        "show": "The Invisible Hand",
+        "person": "Ayad Akhtar",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Playwrights Award",
+        "show": "The Lion",
+        "person": "Benjamin Scheuer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Playwrights Award",
+        "show": "Stalking the Bogeyman",
+        "person": "Markus Potter",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Playwrights Award",
+        "show": "I'm Gonna Pray for You So Hard",
+        "person": "Halley Feiffer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Playwrights Award",
+        "show": "My Ma\u00f1ana Comes",
+        "person": "Elizabeth Irwin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "It Shoulda Been You",
+        "person": "Brian Hargrove",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Something Rotten!",
+        "person": "Karey Kirkpatrick & John O'Farrell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Visit",
+        "person": "Terrence McNally",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Last Ship",
+        "person": "John Logan & Brian Yorkey",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "The Visit",
+        "person": "John Kander & Fred Ebb",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Something Rotten!",
+        "person": "Wayne Kirkpatrick & Karey Kirkpatrick",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "It Shoulda Been You",
+        "person": "Barbara Anselmi & Brian Hargrove",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "The Last Ship",
+        "person": "Sting",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Marianne Elliott",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Wolf Hall",
+        "person": "Jeremy Herrin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "You Can't Take It With You",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Audience",
+        "person": "Stephen Daldry",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Elephant Man",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "An American in Paris",
+        "person": "Christopher Wheeldon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hamilton",
+        "person": "Thomas Kail",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Something Rotten!",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "It Shoulda Been You",
+        "person": "David Hyde Pierce",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "An American in Paris",
+        "person": "Christopher Wheeldon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "On the Town",
+        "person": "Joshua Bergasse",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Hamilton",
+        "person": "Andy Blankenbuehler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "On the Twentieth Century",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Something Rotten!",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Alex Sharp",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "I'm Gonna Pray for You So Hard",
+        "person": "Reed Birney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Elephant Man",
+        "person": "Bradley Cooper",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Between Riverside and Crazy",
+        "person": "Stephen McKinley Henderson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Wolf Hall",
+        "person": "Ben Miles",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Audience",
+        "person": "Helen Mirren",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The City of Conversation",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Heidi Chronicles",
+        "person": "Elisabeth Moss",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Rasheeda Speaking",
+        "person": "Tonya Pinkins",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Village Bike",
+        "person": "Greta Gerwig",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Audience",
+        "person": "Richard McCabe",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Wolf Hall",
+        "person": "Paul Jesson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Elephant Man",
+        "person": "Alessandro Nivola",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Wolf Hall",
+        "person": "Nathaniel Parker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Heidi Chronicles",
+        "person": "Bryce Pinkham",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "You Can't Take It With You",
+        "person": "Annaleigh Ashford",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Wolf Hall",
+        "person": "Lydia Leonard",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Elephant Man",
+        "person": "Patricia Clarkson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Francesca Faridany",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "You Can't Take It With You",
+        "person": "Julie Halston",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "An American in Paris",
+        "person": "Robert Fairchild",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Peter Gallagher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Something Rotten!",
+        "person": "Christian Borle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "On the Town",
+        "person": "Tony Yazbeck",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Something Rotten!",
+        "person": "Brian d'Arcy James",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Kristin Chenoweth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Visit",
+        "person": "Chita Rivera",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "An American in Paris",
+        "person": "Leanne Cope",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "It Shoulda Been You",
+        "person": "Tyne Daly",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The King and I",
+        "person": "Kelli O'Hara",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Andy Karl",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Doctor Zhivago",
+        "person": "Paul Alexander Nolan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Something Rotten!",
+        "person": "John Cariani",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "It Shoulda Been You",
+        "person": "Josh Grisetti",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "An American in Paris",
+        "person": "Max von Essen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The King and I",
+        "person": "Ruthie Ann Miles",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "On the Twentieth Century",
+        "person": "Mary Louise Wilson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "On the Town",
+        "person": "Megan Fairchild",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Gigi",
+        "person": "Victoria Clark",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Something Rotten!",
+        "person": "Heidi Blickenstaff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Just Jim Dale",
+        "person": "Jim Dale",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "The Bullpen",
+        "person": "Joe Assadourian",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "The Lion",
+        "person": "Benjamin Scheuer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Josephine and I",
+        "person": "Cush Jumbo",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Wiesenthal",
+        "person": "Tom Dugan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Bunny Christie",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "On the Twentieth Century",
+        "person": "David Rockwell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "An American in Paris",
+        "person": "Bob Crowley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The King and I",
+        "person": "Michael H. Yeargan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Something Rotten!",
+        "person": "Scott Pask",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The King and I",
+        "person": "Catherine Zuber",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Something Rotten!",
+        "person": "Gregg Barnes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Audience",
+        "person": "Bob Crowley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "On the Twentieth Century",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Wolf Hall",
+        "person": "Christopher Oram",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": "Paule Constable",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Visit",
+        "person": "Japhy Weideman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Something Rotten!",
+        "person": "Jeff Croiter",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Audience",
+        "person": "Rick Fisher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "An American in Paris",
+        "person": "Natasha Katz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "An American in Paris",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "You Can't Take It with You",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "The King and I",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "The Visit",
+        "person": "Chita Rivera",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Between Riverside and Crazy",
+        "person": "Stephen Adly Guirgis",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Hamilton",
+        "person": "Lin-Manuel Miranda",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+# Can Math Predict the Tony Awards? - narration
+# Paste into ElevenLabs/Descript, or read aloud.
+
+[Beat 01 - visual: 01_hook.png]
+Every June, a few hundred people decide the biggest awards in American theatre. The Tonys. And every June, fans argue for weeks about who's going to win. But here's the thing nobody says out loud: by the time the Tonys happen, a lot of the answer is already sitting there in plain sight, in the awards that came before. I built a model that only looks at those earlier awards. No insider info. And it calls the Tony winners correctly about two thirds of the time.
+
+[Beat 02 - visual: 02_timeline.png]
+Here's the setup. The Tonys are the last award show of the season, not the first. Before them come the Drama Desk Awards, the Outer Critics Circle, the Drama League, and the Critics' Circle. Four separate groups, all voting on the same shows, all announcing weeks earlier. And year after year, the same names keep coming up.
+
+[Beat 08 - visual: 08_precursor_power.png]
+But some of these are far better crystal balls than others. If you only followed one of them, the Drama League and the pundits' favorites would steer you right about three quarters of the time.
+
+[Beat 09 - visual: 09_sweep_effect.png]
+And here's the single most useful fact in the whole project. When one nominee wins both the Drama Desk and the Outer Critics in their category, they go on to win the Tony seventy six percent of the time. Win neither? Just nine percent. Sweep the big two, and it's basically over.
+
+[Beat 10 - visual: 10_agreement.png]
+And the more of these awards that agree on the same name, the more it stops being a prediction and starts being a formality.
+
+[Beat 12 - visual: 12_climb.png]
+So I kept stacking on everything else you could know before the ceremony. Critical reviews. Commercial heat. The pre-show betting favorites. And watched the accuracy climb, from fifty eight percent on the awards alone, up to sixty six.
+
+[Beat 03 - visual: 03_by_year.png]
+Does it actually work? Here's the honest test. Hide one year completely, train on every other year, then predict the year it never saw. Do that for all twenty six seasons. The model beats a naive baseline almost every single year, and lands around sixty six percent. Most categories have five nominees, so random guessing gets you twenty. We're more than three times better than a coin flip.
+
+[Beat 04 - visual: 04_by_category.png]
+But the average hides the best part. The model is not equally good at everything. Best Play? The early awards basically solve it, ninety six percent. But sound design, some of the featured races? Down at the bottom it's barely better than a coin flip, because the award groups genuinely disagree there. A good model isn't one that's always confident. It's one that knows when it doesn't know.
+
+[Beat 17 - visual: 17_upsets.png]
+And sometimes it's flat wrong. In two thousand four, every signal screamed Wicked for Best Musical. Avenue Q won. The data was sure. The voters had other plans. These upsets are exactly what the math can't see coming.
+
+[Beat 05 - visual: 05_calibration.png]
+Here's the real test of any model. When it says it's seventy percent sure, is it actually right seventy percent of the time? This chart says yes. The dots hug the line. When this model claims something's a lock, it wins about as often as it says. That's the difference between a model and a guy yelling predictions online.
+
+[Beat 11 - visual: 11_model_vs_pundits.png]
+So could it beat the human experts? Honest answer: on the marquee races the pros actually bother to call, no. The pundits still edge it. The model's real advantage is breadth. It calls every single category, including the brutal design races nobody else will touch.
+
+[Beat 06 - visual: 06_forecast_2026.png]
+Okay. Enough history. Here's what you came for. This year's picks, made before the ceremony, ranked by confidence. Green is a lock. Yellow is a lean. Red is the model throwing up its hands. The safe money is at the top. The toss-ups at the bottom are where your bracket gets busted.
+
+[Beat 07 - visual: 07_limits.png]
+Before you bet your rent on this, here's what it cannot do. It reads the awards, not the room. It can't feel a career-defining performance, or sense a vote-splitting upset brewing. Some years, the data just doesn't know. And that gap, between what the numbers say and what actually happens? That's the whole reason we still watch. Code and data are public. Tell me who it got wrong.
+

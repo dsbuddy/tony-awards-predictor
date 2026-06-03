@@ -1,0 +1,2030 @@
+{
+  "year": 2011,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2010-2011 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "War Horse",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Good People",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Jerusalem",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Motherfucker with the Hat",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "war horse"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Catch Me If You Can",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Sister Act",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "book of mormon"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "The Normal Heart",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Arcadia",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Importance of Being Earnest",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "normal heart"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Anything Goes",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "anything goes"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Trey Parker, Robert Lopez, Matt Stone",
+          "won": true
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "David Thompson",
+          "won": false
+        },
+        {
+          "show": "Sister Act",
+          "person": "Cheri Steinkellner, Bill Steinkellner, Douglas Carter Beane",
+          "won": false
+        }
+      ],
+      "winner": "trey parker robert lopez matt stone|book of mormon"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Trey Parker, Robert Lopez, Matt Stone",
+          "won": true
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "John Kander, Fred Ebb",
+          "won": false
+        },
+        {
+          "show": "Sister Act",
+          "person": "Alan Menken, Glenn Slater",
+          "won": false
+        },
+        {
+          "show": "Women on the Verge of a Nervous Breakdown",
+          "person": "David Yazbek",
+          "won": false
+        }
+      ],
+      "winner": "trey parker robert lopez matt stone|book of mormon"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Jerusalem",
+          "person": "Mark Rylance",
+          "won": true
+        },
+        {
+          "show": "The Importance of Being Earnest",
+          "person": "Brian Bedford",
+          "won": false
+        },
+        {
+          "show": "The Motherfucker with the Hat",
+          "person": "Bobby Cannavale",
+          "won": false
+        },
+        {
+          "show": "The Normal Heart",
+          "person": "Joe Mantello",
+          "won": false
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": "Al Pacino",
+          "won": false
+        }
+      ],
+      "winner": "mark rylance|jerusalem"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Good People",
+          "person": "Frances McDormand",
+          "won": true
+        },
+        {
+          "show": "Born Yesterday",
+          "person": "Nina Arianda",
+          "won": false
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": "Lily Rabe",
+          "won": false
+        },
+        {
+          "show": "Driving Miss Daisy",
+          "person": "Vanessa Redgrave",
+          "won": false
+        },
+        {
+          "show": "Brief Encounter",
+          "person": "Hannah Yelland",
+          "won": false
+        }
+      ],
+      "winner": "frances mcdormand|good people"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Catch Me If You Can",
+          "person": "Norbert Leo Butz",
+          "won": true
+        },
+        {
+          "show": "The Book of Mormon",
+          "person": "Josh Gad",
+          "won": false
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Joshua Henry",
+          "won": false
+        },
+        {
+          "show": "The Book of Mormon",
+          "person": "Andrew Rannells",
+          "won": false
+        },
+        {
+          "show": "Priscilla, Queen of the Desert",
+          "person": "Tony Sheldon",
+          "won": false
+        }
+      ],
+      "winner": "norbert leo butz|catch me if you can"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Anything Goes",
+          "person": "Sutton Foster",
+          "won": true
+        },
+        {
+          "show": "Baby It's You!",
+          "person": "Beth Leavel",
+          "won": false
+        },
+        {
+          "show": "Sister Act",
+          "person": "Patina Miller",
+          "won": false
+        },
+        {
+          "show": "The People in the Picture",
+          "person": "Donna Murphy",
+          "won": false
+        }
+      ],
+      "winner": "sutton foster|anything goes"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "The Normal Heart",
+          "person": "John Benjamin Hickey",
+          "won": true
+        },
+        {
+          "show": "Jerusalem",
+          "person": "Mackenzie Crook",
+          "won": false
+        },
+        {
+          "show": "Arcadia",
+          "person": "Billy Crudup",
+          "won": false
+        },
+        {
+          "show": "Bengal Tiger at the Baghdad Zoo",
+          "person": "Arian Moayed",
+          "won": false
+        },
+        {
+          "show": "The Motherfucker with the Hat",
+          "person": "Yul Vazquez",
+          "won": false
+        }
+      ],
+      "winner": "john benjamin hickey|normal heart"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "The Normal Heart",
+          "person": "Ellen Barkin",
+          "won": true
+        },
+        {
+          "show": "The House of Blue Leaves",
+          "person": "Edie Falco",
+          "won": false
+        },
+        {
+          "show": "Lombardi",
+          "person": "Judith Light",
+          "won": false
+        },
+        {
+          "show": "La Bete",
+          "person": "Joanna Lumley",
+          "won": false
+        },
+        {
+          "show": "The Motherfucker with the Hat",
+          "person": "Elizabeth Rodriguez",
+          "won": false
+        }
+      ],
+      "winner": "ellen barkin|normal heart"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "John Larroquette",
+          "won": true
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Colman Domingo",
+          "won": false
+        },
+        {
+          "show": "Anything Goes",
+          "person": "Adam Godley",
+          "won": false
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Forrest McClendon",
+          "won": false
+        },
+        {
+          "show": "The Book of Mormon",
+          "person": "Rory O'Malley",
+          "won": false
+        }
+      ],
+      "winner": "john larroquette|how to succeed in business without really trying"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Nikki M. James",
+          "won": true
+        },
+        {
+          "show": "Women on the Verge of a Nervous Breakdown",
+          "person": "Laura Benanti",
+          "won": false
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "Tammy Blanchard",
+          "won": false
+        },
+        {
+          "show": "Sister Act",
+          "person": "Victoria Clark",
+          "won": false
+        },
+        {
+          "show": "Women on the Verge of a Nervous Breakdown",
+          "person": "Patti LuPone",
+          "won": false
+        }
+      ],
+      "winner": "nikki m james|book of mormon"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "War Horse",
+          "person": "Marianne Elliott, Tom Morris",
+          "won": true
+        },
+        {
+          "show": "The Normal Heart",
+          "person": "Joel Grey, George C. Wolfe",
+          "won": false
+        },
+        {
+          "show": "The Motherfucker with the Hat",
+          "person": "Anna D. Shapiro",
+          "won": false
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": "Daniel J. Sullivan",
+          "won": false
+        }
+      ],
+      "winner": "marianne elliott tom morris|war horse"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Casey Nicholaw, Trey Parker",
+          "won": true
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "Anything Goes",
+          "person": "Kathleen Marshall",
+          "won": false
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Susan Stroman",
+          "won": false
+        }
+      ],
+      "winner": "casey nicholaw trey parker|book of mormon"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Anything Goes",
+          "person": "Kathleen Marshall",
+          "won": true
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "The Book of Mormon",
+          "person": "Casey Nicholaw",
+          "won": false
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Susan Stroman",
+          "won": false
+        }
+      ],
+      "winner": "kathleen marshall|anything goes"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Larry Hochman, Stephen Oremus",
+          "won": true
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "Doug Besterman",
+          "won": false
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Catch Me If You Can",
+          "person": "Marc Shaiman, Larry Blank",
+          "won": false
+        }
+      ],
+      "winner": "larry hochman stephen oremus|book of mormon"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "War Horse",
+          "person": "Rae Smith",
+          "won": true
+        },
+        {
+          "show": "The Motherfucker with the Hat",
+          "person": "Todd Rosenthal",
+          "won": false
+        },
+        {
+          "show": "Jerusalem",
+          "person": "Ultz",
+          "won": false
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": "Mark Wendland",
+          "won": false
+        }
+      ],
+      "winner": "rae smith|war horse"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Importance of Being Earnest",
+          "person": "Desmond Heeley",
+          "won": true
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": "Jess Goldstein",
+          "won": false
+        },
+        {
+          "show": "La Bete",
+          "person": "Mark Thompson",
+          "won": false
+        },
+        {
+          "show": "Born Yesterday",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "desmond heeley|importance of being earnest"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "War Horse",
+          "person": "Paule Constable",
+          "won": true
+        },
+        {
+          "show": "Bengal Tiger at the Baghdad Zoo",
+          "person": "David Lander",
+          "won": false
+        },
+        {
+          "show": "The Merchant of Venice",
+          "person": "Kenneth Posner",
+          "won": false
+        },
+        {
+          "show": "Jerusalem",
+          "person": "Mimi Jordan Sherin",
+          "won": false
+        }
+      ],
+      "winner": "paule constable|war horse"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "War Horse",
+          "person": "Christopher Shutt",
+          "won": true
+        },
+        {
+          "show": "Bengal Tiger at the Baghdad Zoo",
+          "person": "Acme Sound Partners, Cricket S. Myers",
+          "won": false
+        },
+        {
+          "show": "Brief Encounter",
+          "person": "Simon Baker",
+          "won": false
+        },
+        {
+          "show": "Jerusalem",
+          "person": "Ian Dickinson (Autograph)",
+          "won": false
+        }
+      ],
+      "winner": "christopher shutt|war horse"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Scott Pask",
+          "won": true
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Beowulf Boritt",
+          "won": false
+        },
+        {
+          "show": "Anything Goes",
+          "person": "Derek McLane",
+          "won": false
+        },
+        {
+          "show": "Bloody Bloody Andrew Jackson",
+          "person": "Donyale Werle",
+          "won": false
+        }
+      ],
+      "winner": "scott pask|book of mormon"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Priscilla, Queen of the Desert",
+          "person": "Tim Chappel, Lizzy Gardiner",
+          "won": true
+        },
+        {
+          "show": "Anything Goes",
+          "person": "Martin Pakledinaz",
+          "won": false
+        },
+        {
+          "show": "The Book of Mormon",
+          "person": "Ann Roth",
+          "won": false
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "tim chappel lizzy gardiner|priscilla queen of the desert"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Brian MacDevitt",
+          "won": true
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Ken Billington",
+          "won": false
+        },
+        {
+          "show": "How to Succeed in Business Without Really Trying",
+          "person": "Howell Binkley",
+          "won": false
+        },
+        {
+          "show": "Anything Goes",
+          "person": "Peter Kaczorowski",
+          "won": false
+        }
+      ],
+      "winner": "brian macdevitt|book of mormon"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "The Book of Mormon",
+          "person": "Brian Ronan",
+          "won": true
+        },
+        {
+          "show": "The Scottsboro Boys",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Catch Me If You Can",
+          "person": "Steve Canyon Kennedy",
+          "won": false
+        },
+        {
+          "show": "Anything Goes",
+          "person": "Brian Ronan",
+          "won": false
+        }
+      ],
+      "winner": "brian ronan|book of mormon"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "War Horse",
+        "person": "Nick Stafford",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "A Bright New Boise",
+        "person": "Samuel D. Hunter",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "A Small Fire",
+        "person": "Adam Bock",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Bengal Tiger at the Baghdad Zoo",
+        "person": "Rajiv Joseph",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Good People",
+        "person": "David Lindsay-Abaire",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Motherfucker with the Hat",
+        "person": "Stephen Adly Guirgis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Other Desert Cities",
+        "person": "Jon Robin Baitz",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Book of Mormon",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "In Transit",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Kid",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Priscilla, Queen of the Desert",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "See Rock City & Other Destinations",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Sister Act",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Normal Heart",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Born Yesterday",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The House of Blue Leaves",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Importance of Being Earnest",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Merchant of Venice",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Three Sisters",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Anything Goes",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hello Again",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "How to Succeed in Business Without Really Trying",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Motherfucker with the Hat",
+        "person": "Bobby Cannavale",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Divine Sister",
+        "person": "Charles Busch",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Merchant of Venice",
+        "person": "Al Pacino",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Diary of a Madman",
+        "person": "Geoffrey Rush",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Jerusalem",
+        "person": "Mark Rylance",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Mistakes Were Made",
+        "person": "Michael Shannon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Dusk Rings a Bell",
+        "person": "Paul Sparks",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Good People",
+        "person": "Frances McDormand",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Born Yesterday",
+        "person": "Nina Arianda",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Other Desert Cities",
+        "person": "Stockard Channing",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Other Place",
+        "person": "Laurie Metcalf",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "A Small Fire",
+        "person": "Michele Pawk",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Merchant of Venice",
+        "person": "Lily Rabe",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Catch Me If You Can",
+        "person": "Norbert Leo Butz",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Anything Goes",
+        "person": "Colin Donnell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "How to Succeed in Business Without Really Trying",
+        "person": "Daniel Radcliffe",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Book of Mormon",
+        "person": "Andrew Rannells",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Priscilla, Queen of the Desert",
+        "person": "Tony Sheldon",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Kid",
+        "person": "Christopher Sieber",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Anything Goes",
+        "person": "Sutton Foster",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Baby It's You!",
+        "person": "Beth Leavel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Sister Act",
+        "person": "Patina Miller",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The People in the Picture",
+        "person": "Donna Murphy",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "person": "Sherie Rene Scott",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Importance of Being Earnest",
+        "person": "Brian Bedford",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Peter and the Starcatcher",
+        "person": "Christian Borle",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Grand Manner",
+        "person": "Boyd Gaines",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Hallway Trilogy",
+        "person": "Logan Marshall-Green",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Angels in America: Millennium Approaches",
+        "person": "Zachary Quinto",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Arcadia",
+        "person": "Tom Riley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Motherfucker with the Hat",
+        "person": "Yul Vazquez",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The House of Blue Leaves",
+        "person": "Edie Falco",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Collection and A Kind of Alaska",
+        "person": "Lisa Emery",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Divine Sister",
+        "person": "Julie Halston",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "A Bright New Boise",
+        "person": "Sarah Nina Hayon",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Peter and the Starcatcher",
+        "person": "Celia Keenan-Bolger",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Other Desert Cities",
+        "person": "Linda Lavin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Lombardi",
+        "person": "Judith Light",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "How to Succeed in Business Without Really Trying",
+        "person": "John Larroquette",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Anything Goes",
+        "person": "Adam Godley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "person": "Brian Stokes Mitchell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Book of Mormon",
+        "person": "Rory O'Malley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hello Again",
+        "person": "Bob Stillman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Catch Me If You Can",
+        "person": "Tom Wopat",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "person": "Laura Benanti",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Catch Me If You Can",
+        "person": "Kerry Butler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Sister Act",
+        "person": "Victoria Clark",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Kid",
+        "person": "Jill Eikenberry",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Book of Mormon",
+        "person": "Nikki M. James",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "person": "Patti LuPone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Anything Goes",
+        "person": "Laura Osnes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Normal Heart",
+        "person": "Joel Grey, George C. Wolfe",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Small Fire",
+        "person": "Trip Cullman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Bengal Tiger at the Baghdad Zoo",
+        "person": "Moises Kaufman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Bright New Boise",
+        "person": "Davis McCallum",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Merchant of Venice and If I Forget",
+        "person": "Daniel J. Sullivan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Baby Universe",
+        "person": "Kirjan Waage, Gwendolyn Warnock",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Book of Mormon",
+        "person": "Casey Nicholaw, Trey Parker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "How to Succeed in Business Without Really Trying",
+        "person": "Rob Ashford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "In Transit",
+        "person": "Joe Calarco",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hello Again and See Rock City & Other Destinations",
+        "person": "Jack Cummings III",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Anything Goes",
+        "person": "Kathleen Marshall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Anything Goes",
+        "person": "Kathleen Marshall",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "How to Succeed in Business Without Really Trying",
+        "person": "Rob Ashford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Beautiful Burnout",
+        "person": "Scott Graham, Steven Hoggett",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Peter and the Starcatcher",
+        "person": "Steven Hoggett",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Book of Mormon",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Between Worlds",
+        "person": "Siudy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Book of Mormon",
+        "person": "Trey Parker, Robert Lopez, Matt Stone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "See Rock City & Other Destinations",
+        "person": "Brad Alexander",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Sister Act",
+        "person": "Alan Menken",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Catch Me If You Can",
+        "person": "Marc Shaiman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The People in the Picture",
+        "person": "Mike Stoller, Artie Butler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "person": "David Yazbek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Book of Mormon",
+        "person": "Trey Parker, Robert Lopez, Matt Stone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Newsical The Musical - Full Spin Ahead",
+        "person": "Rick Crom",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Kid",
+        "person": "Jack Lechner",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "See Rock City & Other Destinations",
+        "person": "Adam Mathias",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Sister Act",
+        "person": "Glenn Slater",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Catch Me If You Can",
+        "person": "Marc Shaiman, Scott Wittman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "See Rock City and Other Destinations",
+        "person": "Adam Mathias",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "In Transit",
+        "person": "Kristen Anderson-Lopez, James-Allen Ford, Russ Kaplan, Sara Wordsworth",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The People in the Picture",
+        "person": "Iris Rainer Dart",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Priscilla, Queen of the Desert",
+        "person": "Stephan Elliott, Allan Scott",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Book of Mormon",
+        "person": "Trey Parker, Robert Lopez, Matt Stone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Kid",
+        "person": "Michael Zam",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Book of Mormon",
+        "person": "Larry Hochman, Stephen Oremus",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Hello Again",
+        "person": "Mary-Mitchell Campbell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Burnt Part Boys",
+        "person": "Bruce Coughlin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "person": "Simon Hale, Jim Abbott, David Yazbek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Catch Me If You Can",
+        "person": "Marc Shaiman, Larry Blank",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Extraordinary Ordinary",
+        "person": "Lynne Shankel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Anything Goes",
+        "person": "Derek McLane",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Orange, Hat & Grace",
+        "person": "Rachel Hauck",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Lombardi",
+        "person": "David Korins, Zachary Borovay",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Bengal Tiger at the Baghdad Zoo",
+        "person": "Derek McLane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Treasure Island",
+        "person": "Tony Straiges",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Merchant of Venice",
+        "person": "Mark Wendland",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Priscilla, Queen of the Desert",
+        "person": "Tim Chappel, Lizzy Gardiner",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Importance of Being Earnest",
+        "person": "Desmond Heeley",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "A Free Man of Color",
+        "person": "Ann Hould-Ward",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Anything Goes",
+        "person": "Martin Pakledinaz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Book of Mormon",
+        "person": "Ann Roth",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Peter and the Starcatcher",
+        "person": "Paloma Young",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Bengal Tiger at the Baghdad Zoo",
+        "person": "David Lander",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "John Gabriel Borkman",
+        "person": "Jean Kalman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "See Rock City & Other Destinations",
+        "person": "R. Lee Kennedy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Spy Garbo",
+        "person": "Laura Mroczkowski",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Whipping Man",
+        "person": "Ben Stanton",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "A Small Fire",
+        "person": "David Weiner",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Bengal Tiger at the Baghdad Zoo",
+        "person": "Acme Sound Partners, Cricket S. Myers",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "The Merchant of Venice",
+        "person": "Acme Sound Partners",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "John Gabriel Borkman",
+        "person": "Ian Dickinson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Baby Universe",
+        "person": "Brett Jarvis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Wings",
+        "person": "Bray Poor",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "The Hallway Trilogy",
+        "person": "Eric Shimelonis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Anything Goes",
+        "person": "Brian Ronan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "The Burnt Part Boys",
+        "person": "Lindsay Jones",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Hello Again",
+        "person": "Michael Rasbury",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "The Book of Mormon",
+        "person": "Brian Ronan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "In Transit",
+        "person": "Jon Weston",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "War Horse",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Book of Mormon",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Other Desert Cities",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Kid",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Normal Heart",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Anything Goes",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "The Book of Mormon",
+        "person": "Trey Parker, Robert Lopez, Matt Stone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "War Horse",
+        "person": "Marianne Elliott, Tom Morris",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Book of Mormon",
+        "person": "Casey Nicholaw, Trey Parker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Anything Goes",
+        "person": "Kathleen Marshall",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Ghetto Klown",
+        "person": "John Leguizamo",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "The Whipping Man",
+        "person": "Matthew Lopez",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Jerusalem",
+        "person": "Mark Rylance",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Good People",
+        "person": "Frances McDormand",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Born Yesterday",
+        "person": "Nina Arianda",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Catch Me If You Can",
+        "person": "Norbert Leo Butz",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "War Horse",
+        "person": "Paule Constable",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "War Horse",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "The Book of Mormon",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "The Normal Heart",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Anything Goes",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "Jerusalem",
+        "person": "Mark Rylance",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Good People",
+        "person": "David Lindsay-Abaire",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "The Book of Mormon",
+        "person": "Trey Parker, Matt Stone, Robert Lopez",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "Jerusalem",
+        "person": "Jez Butterworth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ]
+  }
+}

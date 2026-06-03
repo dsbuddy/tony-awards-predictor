@@ -1,0 +1,2879 @@
+{
+  "year": 2019,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2018-2019 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Ferryman",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Choir Boy",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Ink",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "What the Constitution Means to Me",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "ferryman"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Prom",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Tootsie",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "hadestown"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "The Boys in the Band",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "All My Sons",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Burn This",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Torch Song",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Waverly Gallery",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "boys in the band"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Oklahoma!",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "oklahoma"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Tootsie",
+          "person": "Robert Horn",
+          "won": true
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Dominique Morisseau",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "Scott Brown and Anthony King",
+          "won": false
+        },
+        {
+          "show": "Hadestown",
+          "person": "Ana\u00efs Mitchell",
+          "won": false
+        },
+        {
+          "show": "The Prom",
+          "person": "Chad Beguelin and Bob Martin",
+          "won": false
+        }
+      ],
+      "winner": "robert horn|tootsie"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Ana\u00efs Mitchell",
+          "won": true
+        },
+        {
+          "show": "Be More Chill",
+          "person": "Joe Iconis",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "Eddie Perfect",
+          "won": false
+        },
+        {
+          "show": "The Prom",
+          "person": "Chad Beguelin and Matthew Sklar",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Adam Guettel",
+          "won": false
+        },
+        {
+          "show": "Tootsie",
+          "person": "David Yazbek",
+          "won": false
+        }
+      ],
+      "winner": "ana\u00efs mitchell|hadestown"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Network",
+          "person": "Bryan Cranston",
+          "won": true
+        },
+        {
+          "show": "The Ferryman",
+          "person": "Paddy Considine",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Jeff Daniels",
+          "won": false
+        },
+        {
+          "show": "Burn This",
+          "person": "Adam Driver",
+          "won": false
+        },
+        {
+          "show": "Choir Boy",
+          "person": "Jeremy Pope",
+          "won": false
+        }
+      ],
+      "winner": "bryan cranston|network"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "The Waverly Gallery",
+          "person": "Elaine May",
+          "won": true
+        },
+        {
+          "show": "All My Sons",
+          "person": "Annette Bening",
+          "won": false
+        },
+        {
+          "show": "The Ferryman",
+          "person": "Laura Donnelly",
+          "won": false
+        },
+        {
+          "show": "Bernhardt/Hamlet",
+          "person": "Janet McTeer",
+          "won": false
+        },
+        {
+          "show": "Hillary and Clinton",
+          "person": "Laurie Metcalf",
+          "won": false
+        },
+        {
+          "show": "What the Constitution Means to Me",
+          "person": "Heidi Schreck",
+          "won": false
+        }
+      ],
+      "winner": "elaine may|waverly gallery"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Tootsie",
+          "person": "Santino Fontana",
+          "won": true
+        },
+        {
+          "show": "The Prom",
+          "person": "Brooks Ashmanskas",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Derrick Baskin",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "Alex Brightman",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Damon Daunno",
+          "won": false
+        }
+      ],
+      "winner": "santino fontana|tootsie"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Cher Show",
+          "person": "Stephanie J. Block",
+          "won": true
+        },
+        {
+          "show": "The Prom",
+          "person": "Caitlin Kinnunen",
+          "won": false
+        },
+        {
+          "show": "The Prom",
+          "person": "Beth Leavel",
+          "won": false
+        },
+        {
+          "show": "Hadestown",
+          "person": "Eva Noblezada",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Kelli O'Hara",
+          "won": false
+        }
+      ],
+      "winner": "stephanie j block|cher show"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Ink",
+          "person": "Bertie Carvel",
+          "won": true
+        },
+        {
+          "show": "The Boys in the Band",
+          "person": "Robin de Jes\u00fas",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Gideon Glick",
+          "won": false
+        },
+        {
+          "show": "Burn This",
+          "person": "Brandon Uranowitz",
+          "won": false
+        },
+        {
+          "show": "All My Sons",
+          "person": "Benjamin Walker",
+          "won": false
+        }
+      ],
+      "winner": "bertie carvel|ink"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Celia Keenan-Bolger",
+          "won": true
+        },
+        {
+          "show": "The Ferryman",
+          "person": "Fionnula Flanagan",
+          "won": false
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": "Kristine Nielsen",
+          "won": false
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": "Julie White",
+          "won": false
+        },
+        {
+          "show": "King Lear",
+          "person": "Ruth Wilson",
+          "won": false
+        }
+      ],
+      "winner": "celia keenan bolger|to kill a mockingbird"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Andr\u00e9 De Shields",
+          "won": true
+        },
+        {
+          "show": "Tootsie",
+          "person": "Andy Grotelueschen",
+          "won": false
+        },
+        {
+          "show": "Hadestown",
+          "person": "Patrick Page",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Jeremy Pope",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Ephraim Sykes",
+          "won": false
+        }
+      ],
+      "winner": "andr\u00e9 de shields|hadestown"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Oklahoma!",
+          "person": "Ali Stroker",
+          "won": true
+        },
+        {
+          "show": "Tootsie",
+          "person": "Lilli Cooper",
+          "won": false
+        },
+        {
+          "show": "Hadestown",
+          "person": "Amber Gray",
+          "won": false
+        },
+        {
+          "show": "Tootsie",
+          "person": "Sarah Stiles",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Mary Testa",
+          "won": false
+        }
+      ],
+      "winner": "ali stroker|oklahoma"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "The Ferryman",
+          "person": "Sam Mendes",
+          "won": true
+        },
+        {
+          "show": "Ink",
+          "person": "Rupert Goold",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "Network",
+          "person": "Ivo van Hove",
+          "won": false
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": "George C. Wolfe",
+          "won": false
+        }
+      ],
+      "winner": "sam mendes|ferryman"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Rachel Chavkin",
+          "won": true
+        },
+        {
+          "show": "Tootsie",
+          "person": "Scott Ellis",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Daniel Fish",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Des McAnuff",
+          "won": false
+        },
+        {
+          "show": "The Prom",
+          "person": "Casey Nicholaw",
+          "won": false
+        }
+      ],
+      "winner": "rachel chavkin|hadestown"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Ain't Too Proud",
+          "person": "Sergio Trujillo",
+          "won": true
+        },
+        {
+          "show": "Choir Boy",
+          "person": "Camille A. Brown",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Warren Carlyle",
+          "won": false
+        },
+        {
+          "show": "Tootsie",
+          "person": "Denis Jones",
+          "won": false
+        },
+        {
+          "show": "Hadestown",
+          "person": "David Neumann",
+          "won": false
+        }
+      ],
+      "winner": "sergio trujillo|aint too proud"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Michael Chorney and Todd Sickafoose",
+          "won": true
+        },
+        {
+          "show": "Tootsie",
+          "person": "Simon Hale",
+          "won": false
+        },
+        {
+          "show": "Kiss Me, Kate",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Daniel Kluger",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Harold Wheeler",
+          "won": false
+        }
+      ],
+      "winner": "michael chorney and todd sickafoose|hadestown"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Ferryman",
+          "person": "Rob Howell",
+          "won": true
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Miriam Buether",
+          "won": false
+        },
+        {
+          "show": "Ink",
+          "person": "Bunny Christie",
+          "won": false
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "Network",
+          "person": "Jan Versweyveld",
+          "won": false
+        }
+      ],
+      "winner": "rob howell|ferryman"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Ferryman",
+          "person": "Rob Howell",
+          "won": true
+        },
+        {
+          "show": "Bernhardt/Hamlet",
+          "person": "Toni-Leslie James",
+          "won": false
+        },
+        {
+          "show": "Torch Song",
+          "person": "Clint Ramos",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Ann Roth",
+          "won": false
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": "Ann Roth",
+          "won": false
+        }
+      ],
+      "winner": "rob howell|ferryman"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Ink",
+          "person": "Neil Austin",
+          "won": true
+        },
+        {
+          "show": "Gary: A Sequel to Titus Andronicus",
+          "person": "Jules Fisher and Peggy Eisenhauer",
+          "won": false
+        },
+        {
+          "show": "The Ferryman",
+          "person": "Peter Mumford",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Jennifer Tipton",
+          "won": false
+        },
+        {
+          "show": "Network",
+          "person": "Jan Versweyveld and Tal Yarden",
+          "won": false
+        }
+      ],
+      "winner": "neil austin|ink"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Choir Boy",
+          "person": "Fitz Patton",
+          "won": true
+        },
+        {
+          "show": "Ink",
+          "person": "Adam Cork",
+          "won": false
+        },
+        {
+          "show": "To Kill a Mockingbird",
+          "person": "Scott Lehrer",
+          "won": false
+        },
+        {
+          "show": "The Ferryman",
+          "person": "Nick Powell",
+          "won": false
+        },
+        {
+          "show": "Network",
+          "person": "Eric Sleichim",
+          "won": false
+        }
+      ],
+      "winner": "fitz patton|choir boy"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Rachel Hauck",
+          "won": true
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Robert Brill and Peter Nigrini",
+          "won": false
+        },
+        {
+          "show": "King Kong",
+          "person": "Peter England",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Laura Jellinek",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "David Korins",
+          "won": false
+        }
+      ],
+      "winner": "rachel hauck|hadestown"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "The Cher Show",
+          "person": "Bob Mackie",
+          "won": true
+        },
+        {
+          "show": "Hadestown",
+          "person": "Michael Krass",
+          "won": false
+        },
+        {
+          "show": "Tootsie",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Paul Tazewell",
+          "won": false
+        }
+      ],
+      "winner": "bob mackie|cher show"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Bradley King",
+          "won": true
+        },
+        {
+          "show": "The Cher Show",
+          "person": "Kevin Adams",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Howell Binkley",
+          "won": false
+        },
+        {
+          "show": "King Kong",
+          "person": "Peter Mumford",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "Kenneth Posner and Peter Nigrini",
+          "won": false
+        }
+      ],
+      "winner": "bradley king|hadestown"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Hadestown",
+          "person": "Nevin Steinberg and Jessica Paz",
+          "won": true
+        },
+        {
+          "show": "King Kong",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Beetlejuice",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Ain't Too Proud",
+          "person": "Steve Canyon Kennedy",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Drew Levy",
+          "won": false
+        }
+      ],
+      "winner": "nevin steinberg and jessica paz|hadestown"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The Ferryman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Fairview",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Lewiston/Clarkston",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Usual Girls",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "What the Constitution Means to Me",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Prom",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Be More Chill",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Hello Girls",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Tootsie",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Waverly Gallery",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Fabulation, or the Re-Education of Undine",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Henry VI: Shakespeare's Trilogy in Two Parts",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Our Lady of 121st Street",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Summer and Smoke",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Uncle Vanya",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Fiddler on the Roof (Fidler Afn Dakh)",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Carmen Jones",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Kiss Me, Kate",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Merrily We Roll Along",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Uncle Vanya",
+        "person": "Jay O. Sanders",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Life Sucks",
+        "person": "Jeff Biehl",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Lewiston/Clarkston",
+        "person": "Edmund Donovan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Resistible Rise of Arturo Ui",
+        "person": "Ra\u00fal Esparza",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "I Was Most Alive With You",
+        "person": "Russell Harvard",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Waverly Gallery",
+        "person": "Elaine May",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Usual Girls",
+        "person": "Midori Francis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Boesman and Lena",
+        "person": "Zainab Jah",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Hillary and Clinton",
+        "person": "Laurie Metcalf",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "What the Constitution Means to Me",
+        "person": "Heidi Schreck",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Tootsie",
+        "person": "Santino Fontana",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Prom",
+        "person": "Brooks Ashmanskas",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": "Andrew R. Butler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Damon Daunno",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Fidler Afn Dakh",
+        "person": "Steven Skybell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Cher Show",
+        "person": "Stephanie J. Block",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Prom",
+        "person": "Beth Leavel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Rebecca Naomi Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Carmen Jones",
+        "person": "Anika Noni Rose",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": "Stacey Sargeant",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Ferryman",
+        "person": "Tom Glynn-Carney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Fairview",
+        "person": "Charles Browning",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Lewiston/Clarkston",
+        "person": "Arnie Burton",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Arthur Miller's All My Sons",
+        "person": "Hampton Fluker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Burn This",
+        "person": "Brandon Uranowitz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "To Kill a Mockingbird",
+        "person": "Celia Keenan-Bolger",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The House That Will Not Stand",
+        "person": "Harriett D. Foy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Eddie and Dave",
+        "person": "Megan Hill",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "King Lear",
+        "person": "Ruth Wilson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Othello",
+        "person": "Alison Wright",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hadestown",
+        "person": "Andr\u00e9 De Shields",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Corbin Bleu",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Girl from the North Country",
+        "person": "Sydney James Harcourt",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Be More Chill",
+        "person": "George Salazar",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Patrick Vaill",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Ali Stroker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Be More Chill",
+        "person": "Stephanie Hsu",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Beetlejuice",
+        "person": "Leslie Kritzer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Carmen Jones",
+        "person": "Soara-Joye Ross",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Tootsie",
+        "person": "Sarah Stiles",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Mary Testa",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Ferryman",
+        "person": "Sam Mendes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Fairview",
+        "person": "Sarah Benson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Jungle",
+        "person": "Stephen Daldry and Justin Martin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Usual Girls",
+        "person": "Tyne Rafaeli",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Plano",
+        "person": "Taylor Reynolds",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Life Sucks",
+        "person": "Jeff Wise",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hadestown",
+        "person": "Rachel Chavkin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Merrily We Roll Along",
+        "person": "Noah Brody",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Tootsie",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Daniel Fish",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Fiddler on the Roof",
+        "person": "Joel Grey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Tootsie",
+        "person": "Robert Horn",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Beetlejuice",
+        "person": "Scott Brown and Anthony King",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": "Andrew R. Butler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Prom",
+        "person": "Bob Martin and Chad Beguelin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Ain't Too Proud",
+        "person": "Dominique Morisseau",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Tootsie",
+        "person": "David Yazbek",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": "Andrew R. Butler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Be More Chill",
+        "person": "Joe Iconis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Hello Girls",
+        "person": "Peter Mills",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Midnight at the Never Get",
+        "person": "Mark Sonnenblick",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Twelfth Night",
+        "person": "Shaina Taub",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Tootsie",
+        "person": "David Yazbek",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Prom",
+        "person": "Chad Beguelin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": "Andrew R. Butler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Be More Chill",
+        "person": "Joe Iconis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Hello Girls",
+        "person": "Peter Mills",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Kiss Me, Kate",
+        "person": "Warren Carlyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Choir Boy",
+        "person": "Camille A. Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Tootsie",
+        "person": "Denis Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Twelfth Night",
+        "person": "Lorin Latarro",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Alice by Heart",
+        "person": "Rick and Jeff Kuperman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Hadestown",
+        "person": "David Neumann",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Daniel Kluger",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Fiddler on the Roof",
+        "person": "Larry Blank",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Girl from the North Country",
+        "person": "Simon Hale",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Be More Chill",
+        "person": "Charlie Rosen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Cher Show",
+        "person": "Daryl Waters",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Daddy",
+        "person": "Matt Saunders",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "The Jungle",
+        "person": "Miriam Buether",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Girls & Boys",
+        "person": "Es Devlin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "The Peculiar Patriot",
+        "person": "Maruti Evans",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Fairview",
+        "person": "Mimi Lien",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Beetlejuice",
+        "person": "David Korins",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Hadestown",
+        "person": "Rachel Hauck",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Laura Jellinek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "Girl from the North Country",
+        "person": "Rae Smith",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Hadestown",
+        "person": "Bradley King",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Carmen Jones",
+        "person": "Adam Honor\u00e9",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Midnight at the Never Get",
+        "person": "Jamie Roderick",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Rags Parkland Sings the Songs of the Future",
+        "person": "Barbara Samuels",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Rodgers & Hammerstein's Oklahoma!",
+        "person": "Scott Zielinski",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Ferryman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "What the Constitution Means to Me",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Ink",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Network",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "To Kill a Mockingbird",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Hadestown",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Prom",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Be More Chill",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Head Over Heels",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Tootsie",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "White Noise",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Fairview",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The House That Will Not Stand",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Lewiston/Clarkston",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Light",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Girl from the North Country",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Beast in the Jungle",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Black Light",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Hello Girls",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Midnight at the Never Get",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "All My Sons",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "By the Way, Meet Vera Stark",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Waverly Gallery",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Juno and the Paycock",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Our Lady of 121st Street",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Fiddler on the Roof (in Yiddish)",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Oklahoma!",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Smokey Joe's Cafe",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Carmen Jones",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Kiss Me, Kate",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "The Lifespan of a Fact",
+        "person": "Jeremy Kareken, David Murrell, and Gordon Farrell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Sugar in Our Wounds",
+        "person": "Donja R. Love",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Usual Girls",
+        "person": "Ming Peiffer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Behind the Sheet",
+        "person": "Charly E. Simpson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Slave Play",
+        "person": "Jeremy O. Harris",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Tootsie",
+        "person": "Robert Horn",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Hello Girls",
+        "person": "Peter Mills and Cara Reichel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Hadestown",
+        "person": "Ana\u00efs Mitchell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Head Over Heels",
+        "person": "Jeff Whitty and James Magruder",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Girl from the North Country",
+        "person": "Conor McPherson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Hadestown",
+        "person": "Ana\u00efs Mitchell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "The Hello Girls",
+        "person": "Peter Mills",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Tootsie",
+        "person": "David Yazbek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "The Prom",
+        "person": "Matthew Sklar and Chad Beguelin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Be More Chill",
+        "person": "Joe Iconis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Ferryman",
+        "person": "Sam Mendes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "To Kill a Mockingbird",
+        "person": "Bartlett Sher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "All My Sons",
+        "person": "Jack O'Brien",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Ink",
+        "person": "Rupert Goold",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Light",
+        "person": "Logan Vaughn",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hadestown",
+        "person": "Rachel Chavkin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Tootsie",
+        "person": "Scott Ellis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Oklahoma!",
+        "person": "Daniel Fish",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Fiddler on the Roof in Yiddish",
+        "person": "Joel Grey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Hello Girls",
+        "person": "Cara Reichel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Kiss Me, Kate",
+        "person": "Warren Carlyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Tootsie",
+        "person": "Denis Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Hadestown",
+        "person": "David Neumann",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Ain't Too Proud",
+        "person": "Sergio Trujillo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Cher Show",
+        "person": "Christopher Gattelli",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Oklahoma!",
+        "person": "Daniel Kluger",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Hadestown",
+        "person": "Michael Chorney and Todd Sickafoose",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Ain't Too Proud",
+        "person": "Harold Wheeler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Carmen Jones",
+        "person": "Joseph Joubert",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Girl from the North Country",
+        "person": "Simon Hale",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Network",
+        "person": "Bryan Cranston",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "White Noise",
+        "person": "Daveed Diggs",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "On Beckett",
+        "person": "Bill Irwin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Choir Boy",
+        "person": "Jeremy Pope",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Light",
+        "person": "McKinley Belcher III",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Waverly Gallery",
+        "person": "Elaine May",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Mother of the Maid",
+        "person": "Glenn Close",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The True",
+        "person": "Edie Falco",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "King Lear",
+        "person": "Glenda Jackson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Light",
+        "person": "Mandi Masden",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "All My Sons",
+        "person": "Benjamin Walker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Downstairs",
+        "person": "John Procaccino",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Ink",
+        "person": "Bertie Carvel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Apologia",
+        "person": "Hugh Dancy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Choir Boy",
+        "person": "John Clay III",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "To Kill a Mockingbird",
+        "person": "Celia Keenan-Bolger",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Sugar in Our Wounds",
+        "person": "Stephanie Berry",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The House That Will Not Stand",
+        "person": "Harriett D. Foy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Ferryman",
+        "person": "Fionnula Flanagan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Waverly Gallery",
+        "person": "Joan Allen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Tootsie",
+        "person": "Santino Fontana",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Oklahoma!",
+        "person": "Damon Daunno",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Fiddler on the Roof in Yiddish",
+        "person": "Steven Skybell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Hadestown",
+        "person": "Reeve Carney",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Prom",
+        "person": "Brooks Ashmanskas",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Cher Show",
+        "person": "Stephanie J. Block",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Kiss Me, Kate",
+        "person": "Kelli O'Hara",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Prom",
+        "person": "Beth Leavel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Carmen Jones",
+        "person": "Anika Noni Rose",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Girl from the North Country",
+        "person": "Mare Winningham",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hadestown",
+        "person": "Andr\u00e9 De Shields",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Be More Chill",
+        "person": "George Salazar",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Ain't Too Proud",
+        "person": "Ephraim Sykes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Tootsie",
+        "person": "John Behlmann",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Tootsie",
+        "person": "Reg Rogers",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Hadestown",
+        "person": "Amber Gray",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Beetlejuice",
+        "person": "Leslie Kritzer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Head Over Heels",
+        "person": "Bonnie Milligan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Tootsie",
+        "person": "Sarah Stiles",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Oklahoma!",
+        "person": "Ali Stroker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Mike Birbiglia's The New One",
+        "person": "Mike Birbiglia",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Sea Wall/A Life",
+        "person": "Jake Gyllenhaal",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Accidentally Brave",
+        "person": "Maddie Corman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "My Life On a Diet",
+        "person": "Ren\u00e9e Taylor",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Girls & Boys",
+        "person": "Carey Mulligan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Beetlejuice",
+        "person": "David Korins",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Ink",
+        "person": "Bunny Christie",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Bernhardt/Hamlet",
+        "person": "Beowulf Boritt",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Hadestown",
+        "person": "Rachel Hauck",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Ferryman",
+        "person": "Rob Howell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Cher Show",
+        "person": "Bob Mackie",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Ferryman",
+        "person": "Rob Howell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Tootsie",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Beetlejuice",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Head Over Heels",
+        "person": "Arianne Phillips",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Hadestown",
+        "person": "Bradley King",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Lewiston/Clarkston",
+        "person": "Stacey Derosier",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Ink",
+        "person": "Neil Austin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Sugar in Our Wounds",
+        "person": "Jason Lyons",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "King Kong",
+        "person": "Peter Mumford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "King Kong",
+        "person": "Peter England",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Network",
+        "person": "Tal Yarden",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "All My Sons",
+        "person": "Jeff Sugg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Beetlejuice",
+        "person": "Peter Nigrini",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Be More Chill",
+        "person": "Alex Basco Koch",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "King Kong",
+        "person": "Peter Hylenski",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Network",
+        "person": "Eric Sleichim",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Hadestown",
+        "person": "Nevin Steinberg",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Hadestown",
+        "person": "Jessica Paz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Oklahoma!",
+        "person": "Drew Levy",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "All My Sons",
+        "person": "John Gromada",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "The Ferryman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Hadestown",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "The Waverly Gallery",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Kiss Me, Kate",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "Network",
+        "person": "Bryan Cranston",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Achievement in Musical Theatre",
+        "show": "Kiss Me, Kate",
+        "person": "Kelli O'Hara",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Unique Contribution to the Theatre",
+        "show": "Gary: A Sequel to Titus Andronicus",
+        "person": "Taylor Mac",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Founders Award for Excellence in Directing",
+        "show": "Beetlejuice",
+        "person": "Alex Timbers",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Ferryman",
+        "person": "Jez Butterworth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Tootsie",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "The Ferryman",
+        "person": "Jez Butterworth",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ]
+  }
+}

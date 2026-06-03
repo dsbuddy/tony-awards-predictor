@@ -1,0 +1,697 @@
+{
+  "year": 2004,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2003-2004 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "I Am My Own Wife",
+          "person": "Doug Wright",
+          "won": true
+        },
+        {
+          "show": "Anna in the Tropics",
+          "person": "Nilo Cruz",
+          "won": false
+        },
+        {
+          "show": "Frozen",
+          "person": "Bryony Lavery",
+          "won": false
+        },
+        {
+          "show": "The Retreat from Moscow",
+          "person": "William Nicholson",
+          "won": false
+        }
+      ],
+      "winner": "doug wright|i am my own wife"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Avenue Q",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Boy from Oz",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "avenue q"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Henry IV",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Jumpers",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "King Lear",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A Raisin in the Sun",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "henry iv"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Assassins",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Big River",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Wonderful Town",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "assassins"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Avenue Q",
+          "person": "Jeff Whitty",
+          "won": true
+        },
+        {
+          "show": "The Boy from Oz",
+          "person": "Martin Sherman and Nick Enright",
+          "won": false
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": "Tony Kushner",
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": "Winnie Holzman",
+          "won": false
+        }
+      ],
+      "winner": "jeff whitty|avenue q"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Avenue Q",
+          "person": "Robert Lopez and Jeff Marx",
+          "won": true
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": "Jeanine Tesori and Tony Kushner",
+          "won": false
+        },
+        {
+          "show": "Taboo",
+          "person": "Boy George",
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": "Stephen Schwartz",
+          "won": false
+        }
+      ],
+      "winner": "robert lopez and jeff marx|avenue q"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "I Am My Own Wife",
+          "person": "Jefferson Mays",
+          "won": true
+        },
+        {
+          "show": "Henry IV",
+          "person": "Kevin Kline",
+          "won": false
+        },
+        {
+          "show": "Jumpers",
+          "person": "Simon Russell Beale",
+          "won": false
+        },
+        {
+          "show": "King Lear",
+          "person": "Christopher Plummer",
+          "won": false
+        },
+        {
+          "show": "Match",
+          "person": "Frank Langella",
+          "won": false
+        }
+      ],
+      "winner": "jefferson mays|i am my own wife"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "A Raisin in the Sun",
+          "person": "Phylicia Rashad",
+          "won": true
+        },
+        {
+          "show": "Frozen",
+          "person": "Swoosie Kurtz",
+          "won": false
+        },
+        {
+          "show": "Golda's Balcony",
+          "person": "Tovah Feldshuh",
+          "won": false
+        },
+        {
+          "show": "The Retreat from Moscow",
+          "person": "Eileen Atkins",
+          "won": false
+        },
+        {
+          "show": "Twentieth Century",
+          "person": "Anne Heche",
+          "won": false
+        }
+      ],
+      "winner": "phylicia rashad|raisin in the sun"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "The Boy from Oz",
+          "person": "Hugh Jackman",
+          "won": true
+        },
+        {
+          "show": "Avenue Q",
+          "person": "John Tartaglia",
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "Alfred Molina",
+          "won": false
+        },
+        {
+          "show": "Little Shop of Horrors",
+          "person": "Hunter Foster",
+          "won": false
+        },
+        {
+          "show": "Taboo",
+          "person": "Euan Morton",
+          "won": false
+        }
+      ],
+      "winner": "hugh jackman|boy from oz"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Wicked",
+          "person": "Idina Menzel",
+          "won": true
+        },
+        {
+          "show": "Avenue Q",
+          "person": "Stephanie D'Abruzzo",
+          "won": false
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": "Tonya Pinkins",
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": "Kristin Chenoweth",
+          "won": false
+        },
+        {
+          "show": "Wonderful Town",
+          "person": "Donna Murphy",
+          "won": false
+        }
+      ],
+      "winner": "idina menzel|wicked"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Frozen",
+          "person": "Brian F. O'Byrne",
+          "won": true
+        },
+        {
+          "show": "The Caretaker",
+          "person": "Aidan Gillen",
+          "won": false
+        },
+        {
+          "show": "The Retreat from Moscow",
+          "person": "Ben Chaplin",
+          "won": false
+        },
+        {
+          "show": "Sixteen Wounded",
+          "person": "Omar Metwally",
+          "won": false
+        },
+        {
+          "show": "Twentieth Century",
+          "person": "Tom Aldredge",
+          "won": false
+        }
+      ],
+      "winner": "brian f obyrne|frozen"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "A Raisin in the Sun",
+          "person": "Audra McDonald",
+          "won": true
+        },
+        {
+          "show": "Anna in the Tropics",
+          "person": "Daphne Rubin-Vega",
+          "won": false
+        },
+        {
+          "show": "Cat on a Hot Tin Roof",
+          "person": "Margo Martindale",
+          "won": false
+        },
+        {
+          "show": "Jumpers",
+          "person": "Essie Davis",
+          "won": false
+        },
+        {
+          "show": "A Raisin in the Sun",
+          "person": "Sanaa Lathan",
+          "won": false
+        }
+      ],
+      "winner": "audra mcdonald|raisin in the sun"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Assassins",
+          "person": "Michael Cerveris",
+          "won": true
+        },
+        {
+          "show": "Assassins",
+          "person": "Denis O'Hare",
+          "won": false
+        },
+        {
+          "show": "Big River",
+          "person": "Michael McElroy",
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "John Cariani",
+          "won": false
+        },
+        {
+          "show": "Taboo",
+          "person": "Raul Esparza",
+          "won": false
+        }
+      ],
+      "winner": "michael cerveris|assassins"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Caroline, or Change",
+          "person": "Anika Noni Rose",
+          "won": true
+        },
+        {
+          "show": "The Boy from Oz",
+          "person": "Beth Fowler",
+          "won": false
+        },
+        {
+          "show": "The Boy from Oz",
+          "person": "Isabel Keating",
+          "won": false
+        },
+        {
+          "show": "Never Gonna Dance",
+          "person": "Karen Ziemba",
+          "won": false
+        },
+        {
+          "show": "Wonderful Town",
+          "person": "Jennifer Westfeldt",
+          "won": false
+        }
+      ],
+      "winner": "anika noni rose|caroline or change"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Henry IV",
+          "person": "Jack O'Brien",
+          "won": true
+        },
+        {
+          "show": "Frozen",
+          "person": "Doug Hughes",
+          "won": false
+        },
+        {
+          "show": "I Am My Own Wife",
+          "person": "Moises Kaufman",
+          "won": false
+        },
+        {
+          "show": "Jumpers",
+          "person": "David Leveaux",
+          "won": false
+        }
+      ],
+      "winner": "jack obrien|henry iv"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Assassins",
+          "person": "Joe Mantello",
+          "won": true
+        },
+        {
+          "show": "Avenue Q",
+          "person": "Jason Moore",
+          "won": false
+        },
+        {
+          "show": "Caroline, or Change",
+          "person": "George C. Wolfe",
+          "won": false
+        },
+        {
+          "show": "Wonderful Town",
+          "person": "Kathleen Marshall",
+          "won": false
+        }
+      ],
+      "winner": "joe mantello|assassins"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Wonderful Town",
+          "person": "Kathleen Marshall",
+          "won": true
+        },
+        {
+          "show": "Bombay Dreams",
+          "person": "Anthony Van Laast and Farah Khan",
+          "won": false
+        },
+        {
+          "show": "Never Gonna Dance",
+          "person": "Jerry Mitchell",
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": "Wayne Cilento",
+          "won": false
+        }
+      ],
+      "winner": "kathleen marshall|wonderful town"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Assassins",
+          "person": "Michael Starobin",
+          "won": true
+        },
+        {
+          "show": "Bombay Dreams",
+          "person": "Paul Bogaev",
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": "William David Brohn",
+          "won": false
+        }
+      ],
+      "winner": "michael starobin|assassins"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Wicked",
+          "person": "Eugene Lee",
+          "won": true
+        },
+        {
+          "show": "Assassins",
+          "person": "Robert Brill",
+          "won": false
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "Tom Pye",
+          "won": false
+        },
+        {
+          "show": "Henry IV",
+          "person": "Ralph Funicello",
+          "won": false
+        }
+      ],
+      "winner": "eugene lee|wicked"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Wicked",
+          "person": "Susan Hilferty",
+          "won": true
+        },
+        {
+          "show": "Bombay Dreams",
+          "person": "Mark Thompson",
+          "won": false
+        },
+        {
+          "show": "Henry IV",
+          "person": "Jess Goldstein",
+          "won": false
+        },
+        {
+          "show": "Taboo",
+          "person": "Mike Nicholls and Bobby Pearce",
+          "won": false
+        }
+      ],
+      "winner": "susan hilferty|wicked"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Assassins",
+          "person": "Jules Fisher and Peggy Eisenhauer",
+          "won": true
+        },
+        {
+          "show": "Fiddler on the Roof",
+          "person": "Brian MacDevitt",
+          "won": false
+        },
+        {
+          "show": "Henry IV",
+          "person": "Brian MacDevitt",
+          "won": false
+        },
+        {
+          "show": "Wicked",
+          "person": "Kenneth Posner",
+          "won": false
+        }
+      ],
+      "winner": "jules fisher and peggy eisenhauer|assassins"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "costume_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "lighting_musical": {
+      "nominees": [],
+      "winner": null
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "I Am My Own Wife",
+        "person": "Doug Wright",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Wicked",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Henry IV",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "I Am My Own Wife",
+        "person": "Doug Wright",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Wicked",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "I Am My Own Wife",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Wicked",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Assassins",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Henry IV",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "The Boy from Oz",
+        "person": "Hugh Jackman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Intimate Apparel",
+        "person": "Lynn Nottage",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "Talking Heads",
+        "person": "Alan Bennett",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      }
+    ]
+  }
+}

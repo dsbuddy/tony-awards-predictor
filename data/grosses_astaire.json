@@ -1,0 +1,2048 @@
+[
+  {
+    "year": 2002,
+    "time_lock_confirmed": false,
+    "astaire_choreo_winner": {
+      "show": "Oklahoma!",
+      "person": "Susan Stroman"
+    },
+    "shows": [
+      {
+        "show": "Thoroughly Modern Millie",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Mamma Mia!",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Sweet Smell of Success",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Urinetown",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Into the Woods",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Oklahoma!",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Goat, or Who Is Sylvia?",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Fortune's Fool",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Metamorphoses",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Topdog/Underdog",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Private Lives",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Crucible",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Morning's at Seven",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Noises Off",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2001-2002 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2005,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": null,
+    "shows": [
+      {
+        "show": "Monty Python's Spamalot",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Dirty Rotten Scoundrels",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "The Light in the Piazza",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "The 25th Annual Putnam County Spelling Bee",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Doubt",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Democracy",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Gem of the Ocean",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Pillowman",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Brooklyn Boy",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Glengarry Glen Ross",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "On Golden Pond",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Twelve Angry Men",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Who's Afraid of Virginia Woolf?",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "La Cage aux Folles",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Pacific Overtures",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Sweet Charity",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Chitty Chitty Bang Bang",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "A Streetcar Named Desire",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Rivals",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2004-2005 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2007,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": null,
+    "shows": [
+      {
+        "show": "Spring Awakening",
+        "commercial_heat": "hot",
+        "near_capacity": false
+      },
+      {
+        "show": "Curtains",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Grey Gardens",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Mary Poppins",
+        "commercial_heat": "hot",
+        "near_capacity": false
+      },
+      {
+        "show": "Legally Blonde",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "The Coast of Utopia",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Frost/Nixon",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "The Little Dog Laughed",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Radio Golf",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Journey's End",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Inherit the Wind",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Talk Radio",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Translations",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Company",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Apple Tree",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A Chorus Line",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "110 in the Shade",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Coram Boy",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2006-2007 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2009,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Billy Elliot the Musical",
+      "person": "Peter Darling"
+    },
+    "shows": [
+      {
+        "show": "Billy Elliot the Musical",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Next to Normal",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Rock of Ages",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Shrek The Musical",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "God of Carnage",
+        "commercial_heat": "hot",
+        "near_capacity": false
+      },
+      {
+        "show": "Dividing the Estate",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Reasons to Be Pretty",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "33 Variations",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Hair",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Guys and Dolls",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Pal Joey",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "West Side Story",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Norman Conquests",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Joe Turner's Come and Gone",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Mary Stuart",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Waiting for Godot",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "9 to 5",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2008-2009 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2010,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Fela!",
+      "person": "Bill T. Jones"
+    },
+    "shows": [
+      {
+        "show": "Red",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "In the Next Room (or The Vibrator Play)",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Next Fall",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Time Stands Still",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Memphis",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "American Idiot",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Fela!",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Million Dollar Quartet",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Fences",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Lend Me a Tenor",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Royal Family",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A View from the Bridge",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "La Cage aux Folles",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Finian's Rainbow",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A Little Night Music",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Ragtime",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Enron",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Addams Family",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Come Fly Away",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Everyday Rapture",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Promises, Promises",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2009-2010 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2011,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "The Scottsboro Boys",
+      "person": "Susan Stroman"
+    },
+    "shows": [
+      {
+        "show": "The Book of Mormon",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "War Horse",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Anything Goes",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "How to Succeed in Business Without Really Trying",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Sister Act",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Catch Me If You Can",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Jerusalem",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Motherfucker with the Hat",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Normal Heart",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Arcadia",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Importance of Being Earnest",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Good People",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Scottsboro Boys",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Merchant of Venice",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2010-2011 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2012,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "The Gershwins' Porgy and Bess",
+      "person": "Ronald K. Brown"
+    },
+    "shows": [
+      {
+        "show": "Once",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Newsies",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Nice Work If You Can Get It",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Leap of Faith",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Clybourne Park",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Other Desert Cities",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Peter and the Starcatcher",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Venus in Fur",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Death of a Salesman",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Gore Vidal's The Best Man",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Master Class",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Wit",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Gershwins' Porgy and Bess",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Evita",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Follies",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Jesus Christ Superstar",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2011-2012 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2013,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Pippin / Motown: The Musical (tie)",
+      "person": "Chet Walker (Pippin); Patricia Wilcox & Warren Adams (Motown)"
+    },
+    "shows": [
+      {
+        "show": "Kinky Boots",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Matilda the Musical",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Bring It On: The Musical",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A Christmas Story: The Musical",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Pippin",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Annie",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Mystery of Edwin Drood",
+        "commercial_heat": "soft",
+        "near_capacity": null
+      },
+      {
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Vanya and Sonia and Masha and Spike",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Lucky Guy",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Assembled Parties",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "The Testament of Mary",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Who's Afraid of Virginia Woolf?",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Golden Boy",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Orphans",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Trip to Bountiful",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Nance",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Motown: The Musical",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Hands on a Hardbody",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Heiress",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2012-2013 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2014,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "After Midnight",
+      "person": "Warren Carlyle"
+    },
+    "shows": [
+      {
+        "show": "All the Way",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Act One",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Casa Valentina",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Mothers and Sons",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Outside Mullingar",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A Gentleman's Guide to Love and Murder",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "After Midnight",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Aladdin",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Beautiful: The Carole King Musical",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "A Raisin in the Sun",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Cripple of Inishmaan",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Glass Menagerie",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Twelfth Night",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Hedwig and the Angry Inch",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Les Miserables",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Violet",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2013-2014 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2015,
+    "time_lock_confirmed": false,
+    "astaire_choreo_winner": {
+      "show": "An American in Paris",
+      "person": "Christopher Wheeldon"
+    },
+    "shows": [
+      {
+        "show": "An American in Paris",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Fun Home",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Something Rotten!",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Visit",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Disgraced",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Hand to God",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Wolf Hall Parts One & Two",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Skylight",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Elephant Man",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "This Is Our Youth",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "You Can't Take It with You",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The King and I",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "On the Town",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "On the Twentieth Century",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Audience",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Airline Highway",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Last Ship",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Gigi",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Constellations",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Heidi Chronicles",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "It's Only a Play",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2014-2015 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2016,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Hamilton",
+      "person": "Andy Blankenbuehler"
+    },
+    "shows": [
+      {
+        "show": "Hamilton",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Bright Star",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "School of Rock",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Shuffle Along",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Waitress",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Humans",
+        "commercial_heat": "solid",
+        "near_capacity": true
+      },
+      {
+        "show": "Eclipsed",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Father",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "King Charles III",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A View from the Bridge",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Blackbird",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Crucible",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Long Day's Journey into Night",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Noises Off",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Color Purple",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Fiddler on the Roof",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "She Loves Me",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Spring Awakening",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2015-2016 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2017,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Bandstand",
+      "person": "Andy Blankenbuehler"
+    },
+    "shows": [
+      {
+        "show": "Hello, Dolly!",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Dear Evan Hansen",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Come From Away",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Natasha, Pierre & The Great Comet of 1812",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Groundhog Day",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Miss Saigon",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "War Paint",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "A Doll's House, Part 2",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Present Laughter",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Little Foxes",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Oslo",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Jitney",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Indecent",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Sweat",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Six Degrees of Separation",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Falsettos",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2016-2017 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2018,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Summer: The Donna Summer Musical",
+      "person": "Sergio Trujillo"
+    },
+    "shows": [
+      {
+        "show": "The Band's Visit",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Frozen",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Mean Girls",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "SpongeBob SquarePants",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "My Fair Lady",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Carousel",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Once on This Island",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Angels in America",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Dear Evan Hansen",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Summer: The Donna Summer Musical",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Hello, Dolly!",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Harry Potter and the Cursed Child",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Three Tall Women",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Iceman Cometh",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Travesties",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Saint Joan",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Escape to Margaritaville",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "1984",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Children of a Lesser God",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "M. Butterfly",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Meteor Shower",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Marvin's Room",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Lobby Hero",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Latin History for Morons",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Children",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Farinelli and the King",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Junk",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2017-2018 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2019,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Hadestown",
+      "person": "David Neumann"
+    },
+    "shows": [
+      {
+        "show": "Hadestown",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Ain't Too Proud",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Tootsie",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Beetlejuice",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Prom",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Ferryman",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Choir Boy",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Gary: A Sequel to Titus Andronicus",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Ink",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "What the Constitution Means to Me",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "To Kill a Mockingbird",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Network",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Cher Show",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Oklahoma!",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Kiss Me, Kate",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Boys in the Band",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "All My Sons",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Burn This",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Torch Song",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Waverly Gallery",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2018-2019 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2021,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": null,
+    "shows": [
+      {
+        "show": "Moulin Rouge!",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Jagged Little Pill",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Tina: The Tina Turner Musical",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Inheritance",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Grand Horizons",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Sea Wall/A Life",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Slave Play",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Sound Inside",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A Soldier's Play",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Betrayal",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Frankie and Johnny in the Clair de Lune",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Rose Tattoo",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "A Christmas Carol",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2020-2021 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2022,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Paradise Square",
+      "person": "Bill T. Jones, Garrett Coleman & Jason Oremus"
+    },
+    "shows": [
+      {
+        "show": "MJ",
+        "commercial_heat": "hot",
+        "near_capacity": false
+      },
+      {
+        "show": "A Strange Loop",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Six",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Girl from the North Country",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Mr. Saturday Night",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Paradise Square",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Company",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Music Man",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Caroline, or Change",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Lehman Trilogy",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Clyde's",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Hangmen",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Skeleton Crew",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Minutes",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Take Me Out",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "American Buffalo",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "How I Learned to Drive",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Trouble in Mind",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2021-2022 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2023,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "A Beautiful Noise",
+      "person": "Steven Hoggett"
+    },
+    "shows": [
+      {
+        "show": "Some Like It Hot",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "& Juliet",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Kimberly Akimbo",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Shucked",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "New York, New York",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Into the Woods",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Parade",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Camelot",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Leopoldstadt",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "A Doll's House",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Piano Lesson",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "The Sign in Sidney Brustein's Window",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Topdog/Underdog",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Ain't No Mo'",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Between Riverside and Crazy",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Cost of Living",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Fat Ham",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Life of Pi",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Prima Facie",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "A Christmas Carol",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Good Night, Oscar",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "KPOP",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2022-2023 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2024,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Hell's Kitchen / Water for Elephants (dual award)",
+      "person": "Camille A. Brown (Hell's Kitchen); Jesse Robb & Shana Carroll (Water for Elephants)"
+    },
+    "shows": [
+      {
+        "show": "Stereophonic",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Mary Jane",
+        "commercial_heat": "soft",
+        "near_capacity": null
+      },
+      {
+        "show": "Mother Play",
+        "commercial_heat": "soft",
+        "near_capacity": null
+      },
+      {
+        "show": "Prayer for the French Republic",
+        "commercial_heat": "soft",
+        "near_capacity": null
+      },
+      {
+        "show": "Jaja's African Hair Braiding",
+        "commercial_heat": "soft",
+        "near_capacity": null
+      },
+      {
+        "show": "Hell's Kitchen",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Illinoise",
+        "commercial_heat": "soft",
+        "near_capacity": null
+      },
+      {
+        "show": "Suffs",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Water for Elephants",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Outsiders",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "An Enemy of the People",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Purlie Victorious",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Appropriate",
+        "commercial_heat": "solid",
+        "near_capacity": null
+      },
+      {
+        "show": "Cabaret at the Kit Kat Club",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Gutenberg! The Musical!",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "The Who's Tommy",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Merrily We Roll Along",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2023-2024 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2025,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Buena Vista Social Club",
+      "person": "Justin Peck & Patricia Delgado"
+    },
+    "shows": [
+      {
+        "show": "Maybe Happy Ending",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Buena Vista Social Club",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Dead Outlaw",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Death Becomes Her",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Operation Mincemeat",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Purpose",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Oh, Mary!",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "John Proctor Is the Villain",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Sunset Boulevard",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Gypsy",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Floyd Collins",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Pirates! The Penzance Musical",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Just in Time",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Picture of Dorian Gray",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "The Hills of California",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "English",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Thornton Wilder's Our Town",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Romeo + Juliet",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Yellow Face",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Eureka Day",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2024-2025 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  },
+  {
+    "year": 2026,
+    "time_lock_confirmed": true,
+    "astaire_choreo_winner": {
+      "show": "Schmigadoon!",
+      "person": "Christopher Gattelli"
+    },
+    "shows": [
+      {
+        "show": "Ragtime",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Death of a Salesman",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Richard O'Brien's The Rocky Horror Show",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Fallen Angels",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Every Brilliant Thing",
+        "commercial_heat": "hot",
+        "near_capacity": true
+      },
+      {
+        "show": "Becky Shaw",
+        "commercial_heat": "solid",
+        "near_capacity": true
+      },
+      {
+        "show": "Joe Turner's Come and Gone",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Cats: The Jellicle Ball",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Giant",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "The Lost Boys",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Chess",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Schmigadoon!",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Titanique",
+        "commercial_heat": "solid",
+        "near_capacity": false
+      },
+      {
+        "show": "Two Strangers (Carry a Cake Across New York)",
+        "commercial_heat": "soft",
+        "near_capacity": false
+      },
+      {
+        "show": "Liberation",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Oedipus",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      },
+      {
+        "show": "Little Bear Ridge Road",
+        "commercial_heat": "unknown",
+        "near_capacity": null
+      }
+    ],
+    "notes": "Pre-ceremony commercial heat (capacity/grosses) and Astaire/Chita Rivera choreography award for the 2025-2026 season. Sources: Playbill/BroadwayWorld grosses, Astaire Awards."
+  }
+]

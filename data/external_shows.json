@@ -1,0 +1,2921 @@
+[
+  {
+    "year": 2009,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2008-2009 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "God of Carnage",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Reasons to Be Pretty",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "33 Variations",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Dividing the Estate",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Exit the King",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Speed-the-Plow",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Blithe Spirit",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Billy Elliot the Musical",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Next to Normal",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Rock of Ages",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Shrek The Musical",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "9 to 5",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "[title of show]",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Norman Conquests",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Joe Turner's Come and Gone",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Mary Stuart",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Waiting for Godot",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Hair",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Guys and Dolls",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Pal Joey",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "West Side Story",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2009-2010 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Red",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "In the Next Room (or The Vibrator Play)",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Next Fall",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Time Stands Still",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Memphis",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "American Idiot",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Fela!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Million Dollar Quartet",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Fences",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Lend Me a Tenor",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Royal Family",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "A View from the Bridge",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "La Cage aux Folles",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Finian's Rainbow",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "A Little Night Music",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Ragtime",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Addams Family",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Enron",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Everyday Rapture",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Hamlet",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Looped",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Collected Stories",
+        "still_open_at_tonys": null,
+        "closed_before_tonys": null,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Race",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "A Behanding in Spokane",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Superior Donuts",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Promises, Promises",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Sondheim on Sondheim",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Come Fly Away",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2010-2011 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "War Horse",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Good People",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Jerusalem",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Motherfucker with the Hat",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Book of Mormon",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Catch Me If You Can",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Scottsboro Boys",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Sister Act",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Normal Heart",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Arcadia",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Importance of Being Earnest",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Merchant of Venice",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Anything Goes",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "How to Succeed in Business Without Really Trying",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Women on the Verge of a Nervous Breakdown",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Bloody Bloody Andrew Jackson",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2011-2012 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Once",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Newsies",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Nice Work If You Can Get It",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Leap of Faith",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Clybourne Park",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Other Desert Cities",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Peter and the Starcatcher",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Venus in Fur",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Death of a Salesman",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Gershwins' Porgy and Bess",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Evita",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Follies",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Jesus Christ Superstar",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Best Man",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Master Class",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Wit",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "One Man, Two Guvnors",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "End of the Rainbow",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2012-2013 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Kinky Boots",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Matilda the Musical",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Bring It On: The Musical",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "A Christmas Story: The Musical",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Vanya and Sonia and Masha and Spike",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Assembled Parties",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Lucky Guy",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Testament of Mary",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Who's Afraid of Virginia Woolf?",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Golden Boy",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Orphans",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Trip to Bountiful",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Pippin",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Annie",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Mystery of Edwin Drood",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Rodgers + Hammerstein's Cinderella",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Hands on a Hardbody",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "All the Way",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Act One",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Casa Valentina",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Mothers and Sons",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Outside Mullingar",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Of Mice and Men",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Richard III",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Velocity of Autumn",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "A Gentleman's Guide to Love and Murder",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Beautiful: The Carole King Musical",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Aladdin",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "After Midnight",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Bullets Over Broadway",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Bridges of Madison County",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "If/Then",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Rocky",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "A Night with Janis Joplin",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Cripple of Inishmaan",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Glass Menagerie",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "A Raisin in the Sun",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Twelfth Night",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Cabaret",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Hedwig and the Angry Inch",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Les Mis\u00e9rables",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Violet",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Lady Day at Emerson's Bar and Grill",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      }
+    ],
+    "notes": "Show-level data for the 2013-2014 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage."
+  },
+  {
+    "year": 2015,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2014-2015 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Fun Home",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "An American in Paris",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Something Rotten!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Visit",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Disgraced",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Hand to God",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Wolf Hall Parts One & Two",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Skylight",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Elephant Man",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "This Is Our Youth",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "You Can't Take It with You",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The King and I",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "On the Town",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "On the Twentieth Century",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Audience",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Constellations",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Heidi Chronicles",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Airline Highway",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Gigi",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Last Ship",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2015-2016 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Hamilton",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Bright Star",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "School of Rock",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Waitress",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Humans",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Eclipsed",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Father",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "King Charles III",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "A View from the Bridge",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Blackbird",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Crucible",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Long Day's Journey Into Night",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Noises Off",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Color Purple",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Fiddler on the Roof",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "She Loves Me",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Spring Awakening",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2016-2017 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Dear Evan Hansen",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Come from Away",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Natasha, Pierre & The Great Comet of 1812",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Groundhog Day",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Anastasia",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Bandstand",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "War Paint",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Hello, Dolly!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Falsettos",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Miss Saigon",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Oslo",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Sweat",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Indecent",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "A Doll's House, Part 2",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Play That Goes Wrong",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Jitney",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Little Foxes",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Present Laughter",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Price",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Six Degrees of Separation",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2017-2018 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "The Band's Visit",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Frozen",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Mean Girls",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "SpongeBob SquarePants",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Once on This Island",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Carousel",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "My Fair Lady",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Summer: The Donna Summer Musical",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Harry Potter and the Cursed Child",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Children",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Farinelli and the King",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Junk",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Latin History for Morons",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Angels in America",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Iceman Cometh",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Lobby Hero",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Three Tall Women",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Travesties",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Saint Joan",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Children of a Lesser God",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Meteor Shower",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2018-2019 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Hadestown",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Ain't Too Proud",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Beetlejuice",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Prom",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Tootsie",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Cher Show",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Be More Chill",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "King Kong",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Oklahoma!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Kiss Me, Kate",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Ferryman",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "To Kill a Mockingbird",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Choir Boy",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Ink",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Network",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Gary: A Sequel to Titus Andronicus",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "What the Constitution Means to Me",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Boys in the Band",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "All My Sons",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Burn This",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Waverly Gallery",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Torch Song",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2020-2021 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "The Inheritance",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Slave Play",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Grand Horizons",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Sea Wall/A Life",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Sound Inside",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Moulin Rouge!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Jagged Little Pill",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Tina",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "A Soldier's Play",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Betrayal",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Frankie and Johnny in the Clair de Lune",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "A Christmas Carol",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Rose Tattoo",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Linda Vista",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "My Name Is Lucy Barton",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2021-2022 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "A Strange Loop",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "MJ",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": null,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Paradise Square",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Company",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Lehman Trilogy",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Six",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "for colored girls who have considered suicide / when the rainbow is enuf",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Girl from the North Country",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Music Man",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Skin of Our Teeth",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Clyde's",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Hangmen",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Mr. Saturday Night",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "American Buffalo",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Take Me Out",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Trouble in Mind",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Caroline, or Change",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Dana H.",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": null,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "How I Learned to Drive",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Macbeth",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "POTUS: Or, Behind Every Great Dumbass Are Seven Women Trying to Keep Him Alive",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Skeleton Crew",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "The Minutes",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": null,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Flying Over Sunset",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2022-2023 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Leopoldstadt",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Ain't No Mo'",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Between Riverside and Crazy",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Cost of Living",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Fat Ham",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Kimberly Akimbo",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "& Juliet",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "New York, New York",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Shucked",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Some Like It Hot",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Topdog/Underdog",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "A Doll's House",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Piano Lesson",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Sign in Sidney Brustein's Window",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Parade",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Camelot",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Into the Woods",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Good Night, Oscar",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Prima Facie",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Summer, 1976",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Ohio State Murders",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Death of a Salesman",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Life of Pi",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Almost Famous",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "negative",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "KPOP",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Stereophonic",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Hell's Kitchen",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "The Outsiders",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Illinoise",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Suffs",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Water for Elephants",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Merrily We Roll Along",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Cabaret at the Kit Kat Club",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Gutenberg! The Musical!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Who's Tommy",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Appropriate",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "An Enemy of the People",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Purlie Victorious: A Non-Confederate Romp Through the Cotton Patch",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Jaja's African Hair Braiding",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Mary Jane",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Mother Play",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Prayer for the French Republic",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      }
+    ],
+    "notes": "Show-level data for the 2023-2024 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage."
+  },
+  {
+    "year": 2025,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2024-2025 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Maybe Happy Ending",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Buena Vista Social Club",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Dead Outlaw",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Death Becomes Her",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Operation Mincemeat",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Purpose",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "English",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Hills of California",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "John Proctor Is the Villain",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Oh, Mary!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Eureka Day",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Thornton Wilder's Our Town",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Romeo + Juliet",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Yellow Face",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Sunset Boulevard",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Floyd Collins",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Gypsy",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Pirates! The Penzance Musical",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Just in Time",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Good Night, and Good Luck",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "hit_long_run"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "time_lock_confirmed": true,
+    "notes": "Show-level data for the 2025-2026 season, recorded as of the Tony ceremony date. Open/closed status compares each show's closing date to the ceremony; critical reception is from opening-night reviews; pundit favorite reflects pre-ceremony predictions. Sources: Wikipedia, Playbill, and aggregated pre-ceremony prediction coverage.",
+    "shows": [
+      {
+        "show": "Ragtime",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "hit_long_run"
+      },
+      {
+        "show": "Death of a Salesman",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "The Lost Boys",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "mixed",
+        "is_pundit_favorite": true,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Schmigadoon!",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Two Strangers (Carry a Cake Across New York)",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Titan\u00edque",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Cats: The Jellicle Ball",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Richard O'Brien's The Rocky Horror Show",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "The Balusters",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "rave",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Giant",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Liberation",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "rave",
+        "is_pundit_favorite": true,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Little Bear Ridge Road",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "positive",
+        "is_pundit_favorite": false,
+        "run_longevity": "short_flop"
+      },
+      {
+        "show": "Oedipus",
+        "still_open_at_tonys": null,
+        "closed_before_tonys": null,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Fallen Angels",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Every Brilliant Thing",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Becky Shaw",
+        "still_open_at_tonys": null,
+        "closed_before_tonys": null,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": true,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Joe Turner's Come and Gone",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "unknown"
+      },
+      {
+        "show": "Chess",
+        "still_open_at_tonys": true,
+        "closed_before_tonys": false,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Punch",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      },
+      {
+        "show": "Bug",
+        "still_open_at_tonys": false,
+        "closed_before_tonys": true,
+        "critics_reception": "unknown",
+        "is_pundit_favorite": false,
+        "run_longevity": "moderate"
+      }
+    ]
+  }
+]

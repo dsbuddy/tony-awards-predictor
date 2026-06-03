@@ -1,0 +1,1800 @@
+{
+  "year": 2007,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2006-2007 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Tom Stoppard",
+          "won": true
+        },
+        {
+          "show": "Frost/Nixon",
+          "person": "Peter Morgan",
+          "won": false
+        },
+        {
+          "show": "The Little Dog Laughed",
+          "person": "Douglas Carter Beane",
+          "won": false
+        },
+        {
+          "show": "Radio Golf",
+          "person": "August Wilson",
+          "won": false
+        }
+      ],
+      "winner": "tom stoppard|coast of utopia"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Curtains",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Grey Gardens",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mary Poppins",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "spring awakening"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Journey's End",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Inherit the Wind",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Talk Radio",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Translations",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "journeys end"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Company",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Apple Tree",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "A Chorus Line",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "110 in the Shade",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "company"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "Steven Sater",
+          "won": true
+        },
+        {
+          "show": "Curtains",
+          "person": "Rupert Holmes and Peter Stone",
+          "won": false
+        },
+        {
+          "show": "Grey Gardens",
+          "person": "Doug Wright",
+          "won": false
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Heather Hach",
+          "won": false
+        }
+      ],
+      "winner": "steven sater|spring awakening"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "Duncan Sheik (music), Steven Sater (lyrics)",
+          "won": true
+        },
+        {
+          "show": "Curtains",
+          "person": "John Kander (music); Fred Ebb, John Kander & Rupert Holmes (lyrics)",
+          "won": false
+        },
+        {
+          "show": "Grey Gardens",
+          "person": "Scott Frankel (music), Michael Korie (lyrics)",
+          "won": false
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Laurence O'Keefe & Nell Benjamin (music/lyrics)",
+          "won": false
+        }
+      ],
+      "winner": "duncan sheik music steven sater lyrics|spring awakening"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Frost/Nixon",
+          "person": "Frank Langella",
+          "won": true
+        },
+        {
+          "show": "Journey's End",
+          "person": "Boyd Gaines",
+          "won": false
+        },
+        {
+          "show": "The Coast of Utopia",
+          "person": "Br\u00edan F. O'Byrne",
+          "won": false
+        },
+        {
+          "show": "Inherit the Wind",
+          "person": "Christopher Plummer",
+          "won": false
+        },
+        {
+          "show": "Talk Radio",
+          "person": "Liev Schreiber",
+          "won": false
+        }
+      ],
+      "winner": "frank langella|frost nixon"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "The Little Dog Laughed",
+          "person": "Julie White",
+          "won": true
+        },
+        {
+          "show": "A Moon for the Misbegotten",
+          "person": "Eve Best",
+          "won": false
+        },
+        {
+          "show": "Heartbreak House",
+          "person": "Swoosie Kurtz",
+          "won": false
+        },
+        {
+          "show": "Deuce",
+          "person": "Angela Lansbury",
+          "won": false
+        },
+        {
+          "show": "The Year of Magical Thinking",
+          "person": "Vanessa Redgrave",
+          "won": false
+        }
+      ],
+      "winner": "julie white|little dog laughed"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Curtains",
+          "person": "David Hyde Pierce",
+          "won": true
+        },
+        {
+          "show": "LoveMusik",
+          "person": "Michael Cerveris",
+          "won": false
+        },
+        {
+          "show": "Company",
+          "person": "Ra\u00fal Esparza",
+          "won": false
+        },
+        {
+          "show": "Spring Awakening",
+          "person": "Jonathan Groff",
+          "won": false
+        },
+        {
+          "show": "Mary Poppins",
+          "person": "Gavin Lee",
+          "won": false
+        }
+      ],
+      "winner": "david hyde pierce|curtains"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Grey Gardens",
+          "person": "Christine Ebersole",
+          "won": true
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Laura Bell Bundy",
+          "won": false
+        },
+        {
+          "show": "110 in the Shade",
+          "person": "Audra McDonald",
+          "won": false
+        },
+        {
+          "show": "Curtains",
+          "person": "Debra Monk",
+          "won": false
+        },
+        {
+          "show": "LoveMusik",
+          "person": "Donna Murphy",
+          "won": false
+        }
+      ],
+      "winner": "christine ebersole|grey gardens"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Billy Crudup",
+          "won": true
+        },
+        {
+          "show": "The Coast of Utopia",
+          "person": "Ethan Hawke",
+          "won": false
+        },
+        {
+          "show": "Radio Golf",
+          "person": "Anthony Chisholm",
+          "won": false
+        },
+        {
+          "show": "Radio Golf",
+          "person": "John Earl Jelks",
+          "won": false
+        },
+        {
+          "show": "Journey's End",
+          "person": "Stark Sands",
+          "won": false
+        }
+      ],
+      "winner": "billy crudup|coast of utopia"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Jennifer Ehle",
+          "won": true
+        },
+        {
+          "show": "The Coast of Utopia",
+          "person": "Martha Plimpton",
+          "won": false
+        },
+        {
+          "show": "Coram Boy",
+          "person": "Xanthe Elbrick",
+          "won": false
+        },
+        {
+          "show": "Butley",
+          "person": "Dana Ivey",
+          "won": false
+        },
+        {
+          "show": "Coram Boy",
+          "person": "Jan Maxwell",
+          "won": false
+        }
+      ],
+      "winner": "jennifer ehle|coast of utopia"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "John Gallagher Jr.",
+          "won": true
+        },
+        {
+          "show": "Martin Short: Fame Becomes Me",
+          "person": "Brooks Ashmanskas",
+          "won": false
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Christian Borle",
+          "won": false
+        },
+        {
+          "show": "110 in the Shade",
+          "person": "John Cullum",
+          "won": false
+        },
+        {
+          "show": "LoveMusik",
+          "person": "David Pittu",
+          "won": false
+        }
+      ],
+      "winner": "john gallagher jr|spring awakening"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Grey Gardens",
+          "person": "Mary Louise Wilson",
+          "won": true
+        },
+        {
+          "show": "A Chorus Line",
+          "person": "Charlotte d'Amboise",
+          "won": false
+        },
+        {
+          "show": "Mary Poppins",
+          "person": "Rebecca Luker",
+          "won": false
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Orfeh",
+          "won": false
+        },
+        {
+          "show": "Curtains",
+          "person": "Karen Ziemba",
+          "won": false
+        }
+      ],
+      "winner": "mary louise wilson|grey gardens"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Jack O'Brien",
+          "won": true
+        },
+        {
+          "show": "Frost/Nixon",
+          "person": "Michael Grandage",
+          "won": false
+        },
+        {
+          "show": "Journey's End",
+          "person": "David Grindley",
+          "won": false
+        },
+        {
+          "show": "Coram Boy",
+          "person": "Melly Still",
+          "won": false
+        }
+      ],
+      "winner": "jack obrien|coast of utopia"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "Michael Mayer",
+          "won": true
+        },
+        {
+          "show": "Company",
+          "person": "John Doyle",
+          "won": false
+        },
+        {
+          "show": "Curtains",
+          "person": "Scott Ellis",
+          "won": false
+        },
+        {
+          "show": "Grey Gardens",
+          "person": "Michael Greif",
+          "won": false
+        }
+      ],
+      "winner": "michael mayer|spring awakening"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "Bill T. Jones",
+          "won": true
+        },
+        {
+          "show": "Curtains",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "Mary Poppins",
+          "person": "Matthew Bourne & Stephen Mear",
+          "won": false
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Jerry Mitchell",
+          "won": false
+        }
+      ],
+      "winner": "bill t jones|spring awakening"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "Duncan Sheik",
+          "won": true
+        },
+        {
+          "show": "Grey Gardens",
+          "person": "Bruce Coughlin",
+          "won": false
+        },
+        {
+          "show": "LoveMusik",
+          "person": "Jonathan Tunick",
+          "won": false
+        },
+        {
+          "show": "110 in the Shade",
+          "person": "Jonathan Tunick",
+          "won": false
+        }
+      ],
+      "winner": "duncan sheik|spring awakening"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Bob Crowley & Scott Pask",
+          "won": true
+        },
+        {
+          "show": "Journey's End",
+          "person": "Jonathan Fensom",
+          "won": false
+        },
+        {
+          "show": "Radio Golf",
+          "person": "David Gallo",
+          "won": false
+        },
+        {
+          "show": "Coram Boy",
+          "person": "Ti Green & Melly Still",
+          "won": false
+        }
+      ],
+      "winner": "bob crowley scott pask|coast of utopia"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "Coram Boy",
+          "person": "Ti Green & Melly Still",
+          "won": false
+        },
+        {
+          "show": "Heartbreak House",
+          "person": "Jane Greenwood",
+          "won": false
+        },
+        {
+          "show": "Inherit the Wind",
+          "person": "Santo Loquasto",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|coast of utopia"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The Coast of Utopia",
+          "person": "Brian MacDevitt, Kenneth Posner & Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "Coram Boy",
+          "person": "Paule Constable",
+          "won": false
+        },
+        {
+          "show": "Inherit the Wind",
+          "person": "Brian MacDevitt",
+          "won": false
+        },
+        {
+          "show": "Journey's End",
+          "person": "Jason Taylor",
+          "won": false
+        }
+      ],
+      "winner": "brian macdevitt kenneth posner natasha katz|coast of utopia"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Mary Poppins",
+          "person": "Bob Crowley",
+          "won": true
+        },
+        {
+          "show": "Spring Awakening",
+          "person": "Christine Jones",
+          "won": false
+        },
+        {
+          "show": "High Fidelity",
+          "person": "Anna Louizos",
+          "won": false
+        },
+        {
+          "show": "Grey Gardens",
+          "person": "Allen Moyer",
+          "won": false
+        }
+      ],
+      "winner": "bob crowley|mary poppins"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Grey Gardens",
+          "person": "William Ivey Long",
+          "won": true
+        },
+        {
+          "show": "Legally Blonde",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "Mary Poppins",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "Spring Awakening",
+          "person": "Susan Hilferty",
+          "won": false
+        }
+      ],
+      "winner": "william ivey long|grey gardens"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Spring Awakening",
+          "person": "Kevin Adams",
+          "won": true
+        },
+        {
+          "show": "110 in the Shade",
+          "person": "Christopher Akerlind",
+          "won": false
+        },
+        {
+          "show": "Mary Poppins",
+          "person": "Howard Harrison",
+          "won": false
+        },
+        {
+          "show": "Grey Gardens",
+          "person": "Peter Kaczorowski",
+          "won": false
+        }
+      ],
+      "winner": "kevin adams|spring awakening"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The Coast of Utopia",
+        "person": "Tom Stoppard",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Accomplices",
+        "person": "Bernard Weinraub",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Blackbird",
+        "person": "David Harrower",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Frost/Nixon",
+        "person": "Peter Morgan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Radio Golf",
+        "person": "August Wilson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Some Men",
+        "person": "Terrence McNally",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Spring Awakening",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Curtains",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "In the Heights",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Legally Blonde",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "LoveMusik",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Mary Poppins",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Journey's End",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Hairy Ape",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Hedda Gabler",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Talk Radio",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Taming of the Shrew",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Woyzeck",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Company",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "110 in the Shade",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Apple Tree",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Di Yam Gazlonim! (The Pirates of Penzance)",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "H.M.S. Pinafore",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Les Mis\u00e9rables",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Frost/Nixon",
+        "person": "Frank Langella",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Coast of Utopia: Voyage",
+        "person": "Br\u00edan F. O'Byrne",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Inherit the Wind",
+        "person": "Christopher Plummer",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Jack Goes Boating",
+        "person": "Philip Seymour Hoffman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Talk Radio",
+        "person": "Liev Schreiber",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A Moon for the Misbegotten",
+        "person": "Kevin Spacey",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Essential Self-Defense",
+        "person": "Paul Sparks",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "A Moon for the Misbegotten",
+        "person": "Eve Best",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Field",
+        "person": "Orlagh Cassidy",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Suddenly, Last Summer",
+        "person": "Blythe Danner",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Dutchman",
+        "person": "Jennifer Mudge",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Satellites",
+        "person": "Sandra Oh",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Internationalist",
+        "person": "Annie Parisse",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Mother Courage and Her Children",
+        "person": "Meryl Streep",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Company",
+        "person": "Ra\u00fal Esparza",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "LoveMusik",
+        "person": "Michael Cerveris",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Spring Awakening",
+        "person": "John Gallagher Jr.",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Spring Awakening",
+        "person": "Jonathan Groff",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Curtains",
+        "person": "David Hyde Pierce",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Martin Short: Fame Becomes Me",
+        "person": "Martin Short",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "110 in the Shade",
+        "person": "Audra McDonald",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "LoveMusik",
+        "person": "Donna Murphy",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Legally Blonde",
+        "person": "Laura Bell Bundy",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Mary Poppins",
+        "person": "Ashley Brown",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Apple Tree",
+        "person": "Kristin Chenoweth",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Spring Awakening",
+        "person": "Lea Michele",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Journey's End",
+        "person": "Boyd Gaines",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Radio Golf",
+        "person": "Anthony Chisholm",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Coast of Utopia",
+        "person": "Billy Crudup",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Jack Goes Boating",
+        "person": "John Ortiz",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Accomplices",
+        "person": "Andrew Polk",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Some Men",
+        "person": "Fred Weller",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Coast of Utopia",
+        "person": "Martha Plimpton",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Woyzeck",
+        "person": "Myriam Acharki",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Coram Boy",
+        "person": "Xanthe Elbrick",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Rearviewmirror",
+        "person": "Sarah Nina Hayon",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Coram Boy",
+        "person": "Jan Maxwell",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The American Pilot",
+        "person": "Rita Wolf",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Mary Poppins",
+        "person": "Gavin Lee",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Martin Short: Fame Becomes Me",
+        "person": "Brooks Ashmanskas",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Legally Blonde",
+        "person": "Christian Borle",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Les Mis\u00e9rables",
+        "person": "Aaron Lazar",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Adrift in Macao",
+        "person": "Orville Mendoza",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "LoveMusik",
+        "person": "David Pittu",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Curtains",
+        "person": "Debra Monk",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Pirate Queen",
+        "person": "Linda Balgord",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Les Mis\u00e9rables",
+        "person": "Celia Keenan-Bolger",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Legally Blonde",
+        "person": "Orfeh",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Company",
+        "person": "Barbara Walsh",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Curtains",
+        "person": "Karen Ziemba",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Coast of Utopia",
+        "person": "Jack O'Brien",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Twelfth Night",
+        "person": "Declan Donnellan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Frost/Nixon",
+        "person": "Michael Grandage",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Inherit the Wind",
+        "person": "Doug Hughes",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Hairy Ape",
+        "person": "Ciaran O'Reilly",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Marco Millions",
+        "person": "Tom Ridgely",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Spring Awakening",
+        "person": "Michael Mayer",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Company",
+        "person": "John Doyle",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "In the Heights",
+        "person": "Thomas Kail",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Legally Blonde",
+        "person": "Jerry Mitchell",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "LoveMusik",
+        "person": "Harold Prince",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Gutenberg! The Musical!",
+        "person": "Alex Timbers",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "In the Heights",
+        "person": "Andy Blankenbuehler",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "LoveMusik",
+        "person": "Patricia Birch",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Edward Scissorhands",
+        "person": "Matthew Bourne",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Mary Poppins",
+        "person": "Matthew Bourne and Stephen Mear",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Spring Awakening",
+        "person": "Bill T. Jones",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Legally Blonde",
+        "person": "Jerry Mitchell",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Curtains",
+        "person": "Rupert Holmes and Peter Stone",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Gutenberg! The Musical!",
+        "person": "Scott Brown and Anthony King",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Mary Poppins",
+        "person": "Julian Fellowes",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Legally Blonde",
+        "person": "Heather Hach",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Spring Awakening",
+        "person": "Steven Sater",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "LoveMusik",
+        "person": "Alfred Uhry",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Spring Awakening",
+        "person": "Duncan Sheik",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Curtains",
+        "person": "John Kander",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Twist: Please, Sir, May I Have Some More?",
+        "person": "Paul Leschen & Gila Sand",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Adrift in Macao",
+        "person": "Peter Rodgers Melnick",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "In the Heights",
+        "person": "Lin-Manuel Miranda",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Legally Blonde",
+        "person": "Laurence O'Keefe & Nell Benjamin",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Spring Awakening",
+        "person": "Steven Sater",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Curtains",
+        "person": "Fred Ebb, Rupert Holmes & John Kander",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "In the Heights",
+        "person": "Lin-Manuel Miranda",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Legally Blonde",
+        "person": "Nell Benjamin & Laurence O'Keefe",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Capitol Steps",
+        "person": "Mark Eaton, Elaina Newport & William Strauss",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Martin Short: Fame Becomes Me",
+        "person": "Marc Shaiman & Scott Wittman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Coast of Utopia",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Coram Boy",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Frost/Nixon",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Radio Golf",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Spring Awakening",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Curtains",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "LoveMusik",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Mary Poppins",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Indian Blood",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Exits and Entrances",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Pain and the Itch",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The Scene",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "In the Heights",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Evil Dead: The Musical",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Floyd and Clea: Under the Western Sky",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Gutenberg! The Musical!",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Journey's End",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Inherit the Wind",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Talk Radio",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Voysey Inheritance",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Company",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "The Apple Tree",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "A Chorus Line",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "110 in the Shade",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "The Coast of Utopia",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Spring Awakening",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Journey's End",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Company",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Talk Radio / Macbeth",
+        "person": "Liev Schreiber",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Coast of Utopia",
+        "person": "Tom Stoppard",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Play",
+        "show": "Frost/Nixon",
+        "person": "Peter Morgan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Best Musical",
+        "show": "Spring Awakening",
+        "person": "Duncan Sheik and Steven Sater",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      }
+    ]
+  }
+}

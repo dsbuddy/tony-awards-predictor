@@ -1,0 +1,1738 @@
+{
+  "year": 2017,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2016-2017 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Oslo",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Indecent",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Sweat",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "oslo"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Dear Evan Hansen",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Come from Away",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Groundhog Day",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "dear evan hansen"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Jitney",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Little Foxes",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Present Laughter",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Six Degrees of Separation",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "jitney"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Hello, Dolly!",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Falsettos",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Miss Saigon",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "hello dolly"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Steven Levenson",
+          "won": true
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Dave Malloy",
+          "won": false
+        },
+        {
+          "show": "Groundhog Day",
+          "person": "Danny Rubin",
+          "won": false
+        },
+        {
+          "show": "Come from Away",
+          "person": "Irene Sankoff and David Hein",
+          "won": false
+        }
+      ],
+      "winner": "steven levenson|dear evan hansen"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Benj Pasek and Justin Paul",
+          "won": true
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Dave Malloy",
+          "won": false
+        },
+        {
+          "show": "Groundhog Day",
+          "person": "Tim Minchin",
+          "won": false
+        },
+        {
+          "show": "Come from Away",
+          "person": "Irene Sankoff and David Hein",
+          "won": false
+        }
+      ],
+      "winner": "benj pasek and justin paul|dear evan hansen"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Present Laughter",
+          "person": "Kevin Kline",
+          "won": true
+        },
+        {
+          "show": "Heisenberg",
+          "person": "Denis Arndt",
+          "won": false
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "Chris Cooper",
+          "won": false
+        },
+        {
+          "show": "Six Degrees of Separation",
+          "person": "Corey Hawkins",
+          "won": false
+        },
+        {
+          "show": "Oslo",
+          "person": "Jefferson Mays",
+          "won": false
+        }
+      ],
+      "winner": "kevin kline|present laughter"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "Laurie Metcalf",
+          "won": true
+        },
+        {
+          "show": "The Present",
+          "person": "Cate Blanchett",
+          "won": false
+        },
+        {
+          "show": "Oslo",
+          "person": "Jennifer Ehle",
+          "won": false
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": "Sally Field",
+          "won": false
+        },
+        {
+          "show": "The Little Foxes",
+          "person": "Laura Linney",
+          "won": false
+        }
+      ],
+      "winner": "laurie metcalf|dolls house part 2"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Ben Platt",
+          "won": true
+        },
+        {
+          "show": "Falsettos",
+          "person": "Christian Borle",
+          "won": false
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Josh Groban",
+          "won": false
+        },
+        {
+          "show": "Groundhog Day",
+          "person": "Andy Karl",
+          "won": false
+        },
+        {
+          "show": "Hello, Dolly!",
+          "person": "David Hyde Pierce",
+          "won": false
+        }
+      ],
+      "winner": "ben platt|dear evan hansen"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Hello, Dolly!",
+          "person": "Bette Midler",
+          "won": true
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Den\u00e9e Benton",
+          "won": false
+        },
+        {
+          "show": "War Paint",
+          "person": "Christine Ebersole",
+          "won": false
+        },
+        {
+          "show": "War Paint",
+          "person": "Patti LuPone",
+          "won": false
+        },
+        {
+          "show": "Miss Saigon",
+          "person": "Eva Noblezada",
+          "won": false
+        }
+      ],
+      "winner": "bette midler|hello dolly"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Oslo",
+          "person": "Michael Aronov",
+          "won": true
+        },
+        {
+          "show": "The Price",
+          "person": "Danny DeVito",
+          "won": false
+        },
+        {
+          "show": "The Front Page",
+          "person": "Nathan Lane",
+          "won": false
+        },
+        {
+          "show": "The Little Foxes",
+          "person": "Richard Thomas",
+          "won": false
+        },
+        {
+          "show": "Jitney",
+          "person": "John Douglas Thompson",
+          "won": false
+        }
+      ],
+      "winner": "michael aronov|oslo"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "The Little Foxes",
+          "person": "Cynthia Nixon",
+          "won": true
+        },
+        {
+          "show": "Sweat",
+          "person": "Johanna Day",
+          "won": false
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "Jayne Houdyshell",
+          "won": false
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "Condola Rashad",
+          "won": false
+        },
+        {
+          "show": "Sweat",
+          "person": "Michelle Wilson",
+          "won": false
+        }
+      ],
+      "winner": "cynthia nixon|little foxes"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hello, Dolly!",
+          "person": "Gavin Creel",
+          "won": true
+        },
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Mike Faist",
+          "won": false
+        },
+        {
+          "show": "Falsettos",
+          "person": "Andrew Rannells",
+          "won": false
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Lucas Steele",
+          "won": false
+        },
+        {
+          "show": "Falsettos",
+          "person": "Brandon Uranowitz",
+          "won": false
+        }
+      ],
+      "winner": "gavin creel|hello dolly"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Rachel Bay Jones",
+          "won": true
+        },
+        {
+          "show": "Hello, Dolly!",
+          "person": "Kate Baldwin",
+          "won": false
+        },
+        {
+          "show": "Falsettos",
+          "person": "Stephanie J. Block",
+          "won": false
+        },
+        {
+          "show": "Come from Away",
+          "person": "Jenn Colella",
+          "won": false
+        },
+        {
+          "show": "Anastasia",
+          "person": "Mary Beth Peil",
+          "won": false
+        }
+      ],
+      "winner": "rachel bay jones|dear evan hansen"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Indecent",
+          "person": "Rebecca Taichman",
+          "won": true
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "Sam Gold",
+          "won": false
+        },
+        {
+          "show": "Jitney",
+          "person": "Ruben Santiago-Hudson",
+          "won": false
+        },
+        {
+          "show": "Oslo",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "The Little Foxes",
+          "person": "Daniel Sullivan",
+          "won": false
+        }
+      ],
+      "winner": "rebecca taichman|indecent"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Come from Away",
+          "person": "Christopher Ashley",
+          "won": true
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Rachel Chavkin",
+          "won": false
+        },
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Michael Greif",
+          "won": false
+        },
+        {
+          "show": "Groundhog Day",
+          "person": "Matthew Warchus",
+          "won": false
+        },
+        {
+          "show": "Hello, Dolly!",
+          "person": "Jerry Zaks",
+          "won": false
+        }
+      ],
+      "winner": "christopher ashley|come from away"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Bandstand",
+          "person": "Andy Blankenbuehler",
+          "won": true
+        },
+        {
+          "show": "Groundhog Day",
+          "person": "Peter Darling and Ellen Kane",
+          "won": false
+        },
+        {
+          "show": "Come from Away",
+          "person": "Kelly Devine",
+          "won": false
+        },
+        {
+          "show": "Holiday Inn",
+          "person": "Denis Jones",
+          "won": false
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Sam Pinkleton",
+          "won": false
+        }
+      ],
+      "winner": "andy blankenbuehler|bandstand"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Alex Lacamoire",
+          "won": true
+        },
+        {
+          "show": "Bandstand",
+          "person": "Bill Elliott and Greg Anthony Rassen",
+          "won": false
+        },
+        {
+          "show": "Hello, Dolly!",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Dave Malloy",
+          "won": false
+        }
+      ],
+      "winner": "alex lacamoire|dear evan hansen"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "The Play That Goes Wrong",
+          "person": "Nigel Hook",
+          "won": true
+        },
+        {
+          "show": "Jitney",
+          "person": "David Gallo",
+          "won": false
+        },
+        {
+          "show": "The Front Page",
+          "person": "Douglas W. Schmidt",
+          "won": false
+        },
+        {
+          "show": "Oslo",
+          "person": "Michael Yeargan",
+          "won": false
+        }
+      ],
+      "winner": "nigel hook|play that goes wrong"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "The Little Foxes",
+          "person": "Jane Greenwood",
+          "won": true
+        },
+        {
+          "show": "Present Laughter",
+          "person": "Susan Hilferty",
+          "won": false
+        },
+        {
+          "show": "Jitney",
+          "person": "Toni-Leslie James",
+          "won": false
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "jane greenwood|little foxes"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Indecent",
+          "person": "Christopher Akerlind",
+          "won": true
+        },
+        {
+          "show": "Jitney",
+          "person": "Jane Cox",
+          "won": false
+        },
+        {
+          "show": "Oslo",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "A Doll's House, Part 2",
+          "person": "Jennifer Tipton",
+          "won": false
+        }
+      ],
+      "winner": "christopher akerlind|indecent"
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Mimi Lien",
+          "won": true
+        },
+        {
+          "show": "Groundhog Day",
+          "person": "Rob Howell",
+          "won": false
+        },
+        {
+          "show": "War Paint",
+          "person": "David Korins",
+          "won": false
+        },
+        {
+          "show": "Hello, Dolly!",
+          "person": "Santo Loquasto",
+          "won": false
+        }
+      ],
+      "winner": "mimi lien|natasha pierre the great comet of 1812"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Hello, Dolly!",
+          "person": "Santo Loquasto",
+          "won": true
+        },
+        {
+          "show": "Anastasia",
+          "person": "Linda Cho",
+          "won": false
+        },
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Paloma Young",
+          "won": false
+        },
+        {
+          "show": "War Paint",
+          "person": "Catherine Zuber",
+          "won": false
+        }
+      ],
+      "winner": "santo loquasto|hello dolly"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Natasha, Pierre & The Great Comet of 1812",
+          "person": "Bradley King",
+          "won": true
+        },
+        {
+          "show": "Come from Away",
+          "person": "Howell Binkley",
+          "won": false
+        },
+        {
+          "show": "Hello, Dolly!",
+          "person": "Natasha Katz",
+          "won": false
+        },
+        {
+          "show": "Dear Evan Hansen",
+          "person": "Japhy Weideman",
+          "won": false
+        }
+      ],
+      "winner": "bradley king|natasha pierre the great comet of 1812"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Oslo",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "If I Forget",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Indecent",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "A Life",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Sweat",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Come from Away",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Anastasia",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Band's Visit",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Hadestown",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Lightning Thief: The Percy Jackson Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Jitney",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Front Page",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Hairy Ape",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Little Foxes",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Master Harold...and the Boys",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Picnic",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hello, Dolly!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Falsettos",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Sweet Charity",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Present Laughter",
+        "person": "Kevin Kline",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Hairy Ape",
+        "person": "Bobby Cannavale",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Othello",
+        "person": "Daniel Craig",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A Life",
+        "person": "David Hyde Pierce",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Jitney",
+        "person": "John Douglas Thompson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Little Foxes",
+        "person": "Laura Linney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Present",
+        "person": "Cate Blanchett",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "A Doll's House, Part 2",
+        "person": "Laurie Metcalf",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Love, Love, Love",
+        "person": "Amy Ryan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Tempest",
+        "person": "Harriet Walter",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Groundhog Day",
+        "person": "Andy Karl",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": "Nick Blaemire",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Miss Saigon",
+        "person": "Jon Jon Briones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Bronx Tale",
+        "person": "Nick Cordero",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Jeremy Secomb",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Hello, Dolly!",
+        "person": "Bette Midler",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Anastasia",
+        "person": "Christy Altomare",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "War Paint",
+        "person": "Christine Ebersole",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Sweet Charity",
+        "person": "Sutton Foster",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "War Paint",
+        "person": "Patti LuPone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Bandstand",
+        "person": "Laura Osnes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Price",
+        "person": "Danny DeVito",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Oslo",
+        "person": "Michael Aronov",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Front Page",
+        "person": "Nathan Lane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "If I Forget",
+        "person": "Jeremy Shamos",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Yen",
+        "person": "Justice Smith",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Little Foxes",
+        "person": "Cynthia Nixon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "A Doll's House, Part 2",
+        "person": "Jayne Houdyshell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Babylon Line",
+        "person": "Randy Graff",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Beauty Queen of Leenane",
+        "person": "Marie Mullen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Picnic",
+        "person": "Emily Skinner",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "If I Forget",
+        "person": "Kate Walsh",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hello, Dolly!",
+        "person": "Gavin Creel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Kid Victory",
+        "person": "Jeffry Denman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Lightning Thief: The Percy Jackson Musical",
+        "person": "George Salazar",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Band's Visit",
+        "person": "Ari'el Stachel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Falsettos",
+        "person": "Brandon Uranowitz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Come from Away",
+        "person": "Jenn Colella",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Hello, Dolly!",
+        "person": "Kate Baldwin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Falsettos",
+        "person": "Stephanie J. Block",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Anastasia",
+        "person": "Mary Beth Peil",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Spamilton",
+        "person": "Nora Schell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Jitney",
+        "person": "Ruben Santiago-Hudson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Life",
+        "person": "Anne Kauffman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "What Did You Expect? and Women of a Certain Age",
+        "person": "Richard Nelson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Little Foxes and If I Forget",
+        "person": "Daniel J. Sullivan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Natasha, Pierre & The Great Comet of 1812",
+        "person": "Rachel Chavkin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Band's Visit",
+        "person": "David Cromer",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Come from Away",
+        "person": "Christopher Ashley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Bill Buckhurst",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hello, Dolly!",
+        "person": "Jerry Zaks",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Bandstand",
+        "person": "Andy Blankenbuehler",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Hello, Dolly!",
+        "person": "Warren Carlyle",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Hairy Ape",
+        "person": "Aletta Collins",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Come from Away",
+        "person": "Kelly Devine",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Holiday Inn",
+        "person": "Denis Jones",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Band's Visit",
+        "person": "David Yazbek",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Anastasia",
+        "person": "Stephen Flaherty",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Beardo",
+        "person": "Dave Malloy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Bandstand",
+        "person": "Richard Oberacker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Come from Away",
+        "person": "Irene Sankoff and David Hein",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Band's Visit",
+        "person": "David Yazbek",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Spamilton",
+        "person": "Gerard Alessandrini",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Othello: The Remix",
+        "person": "GQ and JAQ",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "War Paint",
+        "person": "Michael Korie",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Come from Away",
+        "person": "David Hein and Irene Sankoff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Come from Away",
+        "person": "Irene Sankoff and David Hein",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Anastasia",
+        "person": "Terrence McNally",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Band's Visit",
+        "person": "Itamar Moses",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Bandstand",
+        "person": "Richard Oberacker and Rob Taylor",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Lightning Thief: The Percy Jackson Musical",
+        "person": "Joe Tracz",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Bandstand",
+        "person": "Bill Elliott and Greg Anthony Rassen",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Anastasia",
+        "person": "Doug Besterman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "War Paint",
+        "person": "Bruce Coughlin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "person": "Benjamin Cox",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Come from Away",
+        "person": "August Eriksmoen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Band's Visit",
+        "person": "Jamshied Sharifi",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Oslo",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Come from Away",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "If I Forget",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Band's Visit",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Jitney",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hello, Dolly!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Playwriting Award",
+        "show": "Small Mouth Sounds",
+        "person": "Bess Wohl",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Present Laughter",
+        "person": "Kevin Kline",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Little Foxes",
+        "person": "Laura Linney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Groundhog Day",
+        "person": "Andy Karl",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Hello, Dolly!",
+        "person": "Bette Midler",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Price",
+        "person": "Danny DeVito",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Little Foxes",
+        "person": "Cynthia Nixon",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hello, Dolly!",
+        "person": "Gavin Creel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Come from Away",
+        "person": "Jenn Colella",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Indecent",
+        "person": "Rebecca Taichman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Come from Away",
+        "person": "Christopher Ashley",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreographer",
+        "show": "Hello, Dolly!",
+        "person": "Warren Carlyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "The Band's Visit",
+        "person": "David Yazbek",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book Of A Musical",
+        "show": "Come from Away",
+        "person": "Irene Sankoff and David Hein",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Natasha, Pierre & The Great Comet of 1812",
+        "person": "Mimi Lien",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "War Paint",
+        "person": "Catherine Zuber",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Natasha, Pierre & The Great Comet of 1812",
+        "person": "Bradley King",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "The Encounter",
+        "person": "Gareth Fry and Pete Malkin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "show": "Anastasia",
+        "person": "Aaron Rhyne",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Bandstand",
+        "person": "Bill Elliott and Greg Anthony Rassen",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Hello, Dolly!",
+        "person": "Larry Hochman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "The Encounter",
+        "person": "Simon McBurney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Oslo",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Dear Evan Hansen",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Jitney",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Hello, Dolly!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Dear Evan Hansen",
+        "person": "Ben Platt",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Oslo",
+        "person": "J. T. Rogers",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "The Band's Visit",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

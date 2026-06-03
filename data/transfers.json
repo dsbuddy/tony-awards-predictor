@@ -1,0 +1,793 @@
+[
+  {
+    "year": 2009,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Billy Elliot the Musical",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "The Norman Conquests",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Mary Stuart",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Next to Normal",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Hair",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Reasons to Be Pretty",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2008-2009 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2010,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Red",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "La Cage aux Folles",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Douglas Hodge"
+      },
+      {
+        "show": "A Little Night Music",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Hamlet",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Fela!",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Next Fall",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2009-2010 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2011,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "War Horse",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Jerusalem",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Mark Rylance"
+      },
+      {
+        "show": "Sister Act",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Patina Miller"
+      },
+      {
+        "show": "Priscilla, Queen of the Desert",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Tony Sheldon"
+      },
+      {
+        "show": "The Merchant of Venice",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "The Scottsboro Boys",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Brief Encounter",
+        "transferred_from": "both",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": false,
+        "person": "Hannah Yelland"
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2010-2011 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2013,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Matilda the Musical",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Matilda the Musical",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Bertie Carvel"
+      },
+      {
+        "show": "The Other Place",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": "Laurie Metcalf"
+      },
+      {
+        "show": "Vanya and Sonia and Masha and Spike",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2012-2013 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2014,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Twelfth Night",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Richard III",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Mark Rylance"
+      },
+      {
+        "show": "The Cripple of Inishmaan",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2013-2014 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2015,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "The Curious Incident of the Dog in the Night-Time",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Wolf Hall Parts One & Two",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Disgraced",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Skylight",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "The Audience",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Helen Mirren"
+      },
+      {
+        "show": "Fun Home",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Hand to God",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2014-2015 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2017,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Groundhog Day",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Andy Karl"
+      },
+      {
+        "show": "Miss Saigon",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Natasha, Pierre & The Great Comet of 1812",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2016-2017 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2018,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Harry Potter and the Cursed Child",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Harry Potter and the Cursed Child",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Jamie Parker"
+      },
+      {
+        "show": "Farinelli and the King",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Mark Rylance"
+      },
+      {
+        "show": "The Children",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Angels in America",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Angels in America",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Andrew Garfield"
+      },
+      {
+        "show": "Travesties",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Tom Hollander"
+      },
+      {
+        "show": "The Band's Visit",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2017-2018 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2021,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "The Inheritance",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Betrayal",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Tom Hiddleston"
+      },
+      {
+        "show": "Tina",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": "Adrienne Warren"
+      },
+      {
+        "show": "Slave Play",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Sea Wall/A Life",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2020-2021 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2022,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "The Lehman Trilogy",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Hangmen",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Girl from the North Country",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Six",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Company",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Caroline, or Change",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Sharon D. Clarke"
+      },
+      {
+        "show": "A Strange Loop",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "How I Learned to Drive",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Dana H.",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2021-2022 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2023,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Leopoldstadt",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Prima Facie",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Jodie Comer"
+      },
+      {
+        "show": "& Juliet",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Kimberly Akimbo",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Fat Ham",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Between Riverside and Crazy",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Cost of Living",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Into the Woods",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "The Sign in Sidney Brustein's Window",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2022-2023 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2024,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Cabaret at the Kit Kat Club",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Eddie Redmayne"
+      },
+      {
+        "show": "Patriots",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Merrily We Roll Along",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": "Jonathan Groff"
+      },
+      {
+        "show": "Suffs",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Stereophonic",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Mary Jane",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Days of Wine and Roses",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Illinoise",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2023-2024 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2025,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "The Hills of California",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Operation Mincemeat",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Sunset Boulevard",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Sunset Boulevard",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Nicole Scherzinger"
+      },
+      {
+        "show": "The Picture of Dorian Gray",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Sarah Snook"
+      },
+      {
+        "show": "Oh, Mary!",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Yellow Face",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": null
+      },
+      {
+        "show": "Buena Vista Social Club",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions in major categories that transferred from London or Off-Broadway for the 2024-2025 season. Olivier wins are counted only if announced before that year's Tony ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (Tony Awards, Laurence Olivier Awards, individual show pages)."
+  },
+  {
+    "year": 2026,
+    "time_lock_confirmed": true,
+    "shows": [
+      {
+        "show": "Becky Shaw",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Cats: The Jellicle Ball",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Death of a Salesman",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Every Brilliant Thing",
+        "transferred_from": "both",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Fallen Angels",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Giant",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "John Lithgow"
+      },
+      {
+        "show": "Liberation",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Little Bear Ridge Road",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Oedipus",
+        "transferred_from": "london",
+        "won_olivier": true,
+        "prior_offbroadway_acclaim": null,
+        "person": "Lesley Manville"
+      },
+      {
+        "show": "Ragtime",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": false,
+        "person": null
+      },
+      {
+        "show": "Richard O'Brien's The Rocky Horror Show",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Schmigadoon!",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "The Balusters",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "The Lost Boys",
+        "transferred_from": "none",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      },
+      {
+        "show": "Titanique",
+        "transferred_from": "offbroadway",
+        "won_olivier": null,
+        "prior_offbroadway_acclaim": true,
+        "person": "Marla Mindelle"
+      },
+      {
+        "show": "Two Strangers (Carry a Cake Across New York)",
+        "transferred_from": "london",
+        "won_olivier": false,
+        "prior_offbroadway_acclaim": null,
+        "person": null
+      }
+    ],
+    "notes": "Tony-nominated productions for the 2025-2026 season, researched per show. Olivier wins counted only if announced before the June 2026 ceremony; Off-Broadway acclaim refers to a major award (Lortel, Obie, or Drama Desk Off-Broadway) won in a prior season before the Broadway transfer. Sources: Wikipedia (individual show pages, Laurence Olivier Awards)."
+  }
+]

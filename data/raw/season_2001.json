@@ -1,0 +1,985 @@
+{
+  "year": 2001,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2000-2001 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Proof",
+          "person": "David Auburn",
+          "won": true
+        },
+        {
+          "show": "The Invention of Love",
+          "person": "Tom Stoppard",
+          "won": false
+        },
+        {
+          "show": "King Hedley II",
+          "person": "August Wilson",
+          "won": false
+        },
+        {
+          "show": "The Tale of the Allergist's Wife",
+          "person": "Charles Busch",
+          "won": false
+        }
+      ],
+      "winner": "david auburn|proof"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "A Class Act",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Jane Eyre",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "producers"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "One Flew Over the Cuckoo's Nest",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Betrayal",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Best Man",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Search for Signs of Intelligent Life in the Universe",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "one flew over the cuckoos nest"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "42nd Street",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Bells Are Ringing",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Rocky Horror Show",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "42nd street"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Mel Brooks and Thomas Meehan",
+          "won": true
+        },
+        {
+          "show": "A Class Act",
+          "person": "Linda Kline and Lonny Price",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Terrence McNally",
+          "won": false
+        },
+        {
+          "show": "Jane Eyre",
+          "person": "John Caird",
+          "won": false
+        }
+      ],
+      "winner": "mel brooks and thomas meehan|producers"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Mel Brooks",
+          "won": true
+        },
+        {
+          "show": "A Class Act",
+          "person": "Edward Kleban",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "David Yazbek",
+          "won": false
+        },
+        {
+          "show": "Jane Eyre",
+          "person": "Paul Gordon",
+          "won": false
+        }
+      ],
+      "winner": "mel brooks|producers"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "The Invention of Love",
+          "person": "Richard Easton",
+          "won": true
+        },
+        {
+          "show": "Stones in His Pockets",
+          "person": "Se\u00e1n Campion",
+          "won": false
+        },
+        {
+          "show": "Stones in His Pockets",
+          "person": "Conleth Hill",
+          "won": false
+        },
+        {
+          "show": "King Hedley II",
+          "person": "Brian Stokes Mitchell",
+          "won": false
+        },
+        {
+          "show": "One Flew Over the Cuckoo's Nest",
+          "person": "Gary Sinise",
+          "won": false
+        }
+      ],
+      "winner": "richard easton|invention of love"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Proof",
+          "person": "Mary-Louise Parker",
+          "won": true
+        },
+        {
+          "show": "Betrayal",
+          "person": "Juliette Binoche",
+          "won": false
+        },
+        {
+          "show": "The Tale of the Allergist's Wife",
+          "person": "Linda Lavin",
+          "won": false
+        },
+        {
+          "show": "The Man Who Came to Dinner",
+          "person": "Jean Smart",
+          "won": false
+        },
+        {
+          "show": "King Hedley II",
+          "person": "Leslie Uggams",
+          "won": false
+        }
+      ],
+      "winner": "mary louise parker|proof"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Nathan Lane",
+          "won": true
+        },
+        {
+          "show": "The Producers",
+          "person": "Matthew Broderick",
+          "won": false
+        },
+        {
+          "show": "Seussical",
+          "person": "Kevin Chamberlin",
+          "won": false
+        },
+        {
+          "show": "The Rocky Horror Show",
+          "person": "Tom Hewitt",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Patrick Wilson",
+          "won": false
+        }
+      ],
+      "winner": "nathan lane|producers"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "42nd Street",
+          "person": "Christine Ebersole",
+          "won": true
+        },
+        {
+          "show": "Follies",
+          "person": "Blythe Danner",
+          "won": false
+        },
+        {
+          "show": "A Class Act",
+          "person": "Randy Graff",
+          "won": false
+        },
+        {
+          "show": "Bells Are Ringing",
+          "person": "Faith Prince",
+          "won": false
+        },
+        {
+          "show": "Jane Eyre",
+          "person": "Marla Schaffel",
+          "won": false
+        }
+      ],
+      "winner": "christine ebersole|42nd street"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "The Invention of Love",
+          "person": "Robert Sean Leonard",
+          "won": true
+        },
+        {
+          "show": "Proof",
+          "person": "Larry Bryggman",
+          "won": false
+        },
+        {
+          "show": "Proof",
+          "person": "Ben Shenkman",
+          "won": false
+        },
+        {
+          "show": "King Hedley II",
+          "person": "Charles Brown",
+          "won": false
+        },
+        {
+          "show": "Judgment at Nuremberg",
+          "person": "Michael Hayden",
+          "won": false
+        }
+      ],
+      "winner": "robert sean leonard|invention of love"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "King Hedley II",
+          "person": "Viola Davis",
+          "won": true
+        },
+        {
+          "show": "Proof",
+          "person": "Johanna Day",
+          "won": false
+        },
+        {
+          "show": "The Dinner Party",
+          "person": "Penny Fuller",
+          "won": false
+        },
+        {
+          "show": "The Tale of the Allergist's Wife",
+          "person": "Michele Lee",
+          "won": false
+        },
+        {
+          "show": "Judgment at Nuremberg",
+          "person": "Marthe Keller",
+          "won": false
+        }
+      ],
+      "winner": "viola davis|king hedley ii"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Gary Beach",
+          "won": true
+        },
+        {
+          "show": "The Producers",
+          "person": "Roger Bart",
+          "won": false
+        },
+        {
+          "show": "The Producers",
+          "person": "Brad Oscar",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "John Ellison Conlee",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Andr\u00e9 De Shields",
+          "won": false
+        }
+      ],
+      "winner": "gary beach|producers"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Cady Huffman",
+          "won": true
+        },
+        {
+          "show": "42nd Street",
+          "person": "Kate Levering",
+          "won": false
+        },
+        {
+          "show": "42nd Street",
+          "person": "Mary Testa",
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": "Polly Bergen",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Kathleen Freeman",
+          "won": false
+        }
+      ],
+      "winner": "cady huffman|producers"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Proof",
+          "person": "Daniel Sullivan",
+          "won": true
+        },
+        {
+          "show": "King Hedley II",
+          "person": "Marion McClinton",
+          "won": false
+        },
+        {
+          "show": "Stones in His Pockets",
+          "person": "Ian McElhinney",
+          "won": false
+        },
+        {
+          "show": "The Invention of Love",
+          "person": "Jack O'Brien",
+          "won": false
+        }
+      ],
+      "winner": "daniel sullivan|proof"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Susan Stroman",
+          "won": true
+        },
+        {
+          "show": "The Rocky Horror Show",
+          "person": "Christopher Ashley",
+          "won": false
+        },
+        {
+          "show": "42nd Street",
+          "person": "Mark Bramble",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Jack O'Brien",
+          "won": false
+        }
+      ],
+      "winner": "susan stroman|producers"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Susan Stroman",
+          "won": true
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Jerry Mitchell",
+          "won": false
+        },
+        {
+          "show": "Blast!",
+          "person": "Jim Moore, George Pinney, Jonathan Vanderkolff",
+          "won": false
+        },
+        {
+          "show": "42nd Street",
+          "person": "Randy Skinner",
+          "won": false
+        }
+      ],
+      "winner": "susan stroman|producers"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Doug Besterman",
+          "won": true
+        },
+        {
+          "show": "A Class Act",
+          "person": "Larry Hochman",
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": "Jonathan Tunick",
+          "won": false
+        },
+        {
+          "show": "The Full Monty",
+          "person": "Harold Wheeler",
+          "won": false
+        }
+      ],
+      "winner": "doug besterman|producers"
+    },
+    "scenic_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "costume_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "lighting_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Robin Wagner",
+          "won": true
+        },
+        {
+          "show": "The Invention of Love",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "The Adventures of Tom Sawyer",
+          "person": "Heidi Ettinger",
+          "won": false
+        },
+        {
+          "show": "42nd Street",
+          "person": "Douglas W. Schmidt",
+          "won": false
+        }
+      ],
+      "winner": "robin wagner|producers"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "William Ivey Long",
+          "won": true
+        },
+        {
+          "show": "Follies",
+          "person": "Theoni V. Aldredge",
+          "won": false
+        },
+        {
+          "show": "42nd Street",
+          "person": "Roger Kirk",
+          "won": false
+        },
+        {
+          "show": "The Rocky Horror Show",
+          "person": "David C. Woolard",
+          "won": false
+        }
+      ],
+      "winner": "william ivey long|producers"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "The Producers",
+          "person": "Peter Kaczorowski",
+          "won": true
+        },
+        {
+          "show": "Jane Eyre",
+          "person": "Jules Fisher and Peggy Eisenhauer",
+          "won": false
+        },
+        {
+          "show": "42nd Street",
+          "person": "Paul Gallo",
+          "won": false
+        },
+        {
+          "show": "The Adventures of Tom Sawyer",
+          "person": "Kenneth Posner",
+          "won": false
+        }
+      ],
+      "winner": "peter kaczorowski|producers"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Proof",
+        "person": "David Auburn",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Play",
+        "show": "The Tale of the Allergist's Wife",
+        "person": "Charles Busch",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "King Hedley II",
+        "person": "August Wilson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Producers",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Full Monty",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "42nd Street",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "One Flew Over the Cuckoo's Nest",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Proof",
+        "person": "Mary-Louise Parker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Tale of the Allergist's Wife",
+        "person": "Linda Lavin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "King Hedley II",
+        "person": "Brian Stokes Mitchell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Producers",
+        "person": "Nathan Lane",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Full Monty",
+        "person": "Patrick Wilson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Producers",
+        "person": "Gary Beach",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Full Monty",
+        "person": "John Ellison Conlee",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Full Monty",
+        "person": "Andr\u00e9 De Shields",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Producers",
+        "person": "Cady Huffman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "A Class Act",
+        "person": "Randy Graff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Full Monty",
+        "person": "Kathleen Freeman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "King Hedley II",
+        "person": "Charles Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "King Hedley II",
+        "person": "Viola Davis",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Producers",
+        "person": "Susan Stroman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Full Monty",
+        "person": "Jack O'Brien",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Producers",
+        "person": "Mel Brooks and Thomas Meehan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Full Monty",
+        "person": "Terrence McNally",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Full Monty",
+        "person": "David Yazbek",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "A Class Act",
+        "person": "Edward Kleban",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Producers",
+        "person": "Mel Brooks",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Full Monty",
+        "person": "David Yazbek",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "A Class Act",
+        "person": "Edward Kleban",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Producers",
+        "person": "Susan Stroman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "The Full Monty",
+        "person": "Jerry Mitchell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Producers",
+        "person": "Doug Besterman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Full Monty",
+        "person": "Harold Wheeler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Producers",
+        "person": "Robin Wagner",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "King Hedley II",
+        "person": "David Gallo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Producers",
+        "person": "William Ivey Long",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Full Monty",
+        "person": "Howell Binkley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Proof",
+        "person": "David Auburn",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "The Producers",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "One Flew Over the Cuckoo's Nest",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Proof",
+        "person": "Mary-Louise Parker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Off-Broadway Play",
+        "show": "The Tale of the Allergist's Wife",
+        "person": "Charles Busch",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "John Gassner Award (Outstanding Playwriting)",
+        "show": "The Tale of the Allergist's Wife",
+        "person": "Charles Busch",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Proof",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "The Producers",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "Proof",
+        "person": "Mary-Louise Parker",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Performance",
+        "show": "One Flew Over the Cuckoo's Nest",
+        "person": "Gary Sinise",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Invention of Love",
+        "person": "Tom Stoppard",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Best Musical",
+        "show": "The Producers",
+        "person": "Mel Brooks and Thomas Meehan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ]
+  }
+}

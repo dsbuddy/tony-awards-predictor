@@ -1,0 +1,1491 @@
+{
+  "year": 2018,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2017-2018 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Children",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Farinelli and the King",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Junk",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Latin History for Morons",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "harry potter and the cursed child"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Frozen",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "bands visit"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Angels in America",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Lobby Hero",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Three Tall Women",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Travesties",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "angels in america"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Once on This Island",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Carousel",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "My Fair Lady",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "once on this island"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Itamar Moses",
+          "won": true
+        },
+        {
+          "show": "Frozen",
+          "person": "Jennifer Lee",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Tina Fey",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Kyle Jarrow",
+          "won": false
+        }
+      ],
+      "winner": "itamar moses|bands visit"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "David Yazbek",
+          "won": true
+        },
+        {
+          "show": "Angels in America",
+          "person": "Adrian Sutton",
+          "won": false
+        },
+        {
+          "show": "Frozen",
+          "person": "Kristen Anderson-Lopez & Robert Lopez",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Jeff Richmond & Nell Benjamin",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Yolanda Adams, Steven Tyler & others",
+          "won": false
+        }
+      ],
+      "winner": "david yazbek|bands visit"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Angels in America",
+          "person": "Andrew Garfield",
+          "won": true
+        },
+        {
+          "show": "Travesties",
+          "person": "Tom Hollander",
+          "won": false
+        },
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Jamie Parker",
+          "won": false
+        },
+        {
+          "show": "Farinelli and the King",
+          "person": "Mark Rylance",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "Denzel Washington",
+          "won": false
+        }
+      ],
+      "winner": "andrew garfield|angels in america"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Three Tall Women",
+          "person": "Glenda Jackson",
+          "won": true
+        },
+        {
+          "show": "Saint Joan",
+          "person": "Condola Rashad",
+          "won": false
+        },
+        {
+          "show": "Children of a Lesser God",
+          "person": "Lauren Ridloff",
+          "won": false
+        },
+        {
+          "show": "Meteor Shower",
+          "person": "Amy Schumer",
+          "won": false
+        }
+      ],
+      "winner": "glenda jackson|three tall women"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Tony Shalhoub",
+          "won": true
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Harry Hadden-Paton",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Joshua Henry",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Ethan Slater",
+          "won": false
+        }
+      ],
+      "winner": "tony shalhoub|bands visit"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Katrina Lenk",
+          "won": true
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Lauren Ambrose",
+          "won": false
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Hailey Kilgore",
+          "won": false
+        },
+        {
+          "show": "Summer: The Donna Summer Musical",
+          "person": "LaChanze",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Taylor Louderman",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Jessie Mueller",
+          "won": false
+        }
+      ],
+      "winner": "katrina lenk|bands visit"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Angels in America",
+          "person": "Nathan Lane",
+          "won": true
+        },
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Anthony Boyle",
+          "won": false
+        },
+        {
+          "show": "Lobby Hero",
+          "person": "Michael Cera",
+          "won": false
+        },
+        {
+          "show": "Lobby Hero",
+          "person": "Brian Tyree Henry",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "David Morse",
+          "won": false
+        }
+      ],
+      "winner": "nathan lane|angels in america"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Three Tall Women",
+          "person": "Laurie Metcalf",
+          "won": true
+        },
+        {
+          "show": "Angels in America",
+          "person": "Susan Brown",
+          "won": false
+        },
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Noma Dumezweni",
+          "won": false
+        },
+        {
+          "show": "The Children",
+          "person": "Deborah Findlay",
+          "won": false
+        },
+        {
+          "show": "Angels in America",
+          "person": "Denise Gough",
+          "won": false
+        }
+      ],
+      "winner": "laurie metcalf|three tall women"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Ari'el Stachel",
+          "won": true
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Norbert Leo Butz",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Alexander Gemignani",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Grey Henson",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Gavin Lee",
+          "won": false
+        }
+      ],
+      "winner": "ariel stachel|bands visit"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Carousel",
+          "person": "Lindsay Mendez",
+          "won": true
+        },
+        {
+          "show": "Summer: The Donna Summer Musical",
+          "person": "Ariana DeBose",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Ren\u00e9e Fleming",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Ashley Park",
+          "won": false
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Diana Rigg",
+          "won": false
+        }
+      ],
+      "winner": "lindsay mendez|carousel"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "John Tiffany",
+          "won": true
+        },
+        {
+          "show": "Angels in America",
+          "person": "Marianne Elliott",
+          "won": false
+        },
+        {
+          "show": "Three Tall Women",
+          "person": "Joe Mantello",
+          "won": false
+        },
+        {
+          "show": "Travesties",
+          "person": "Patrick Marber",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "George C. Wolfe",
+          "won": false
+        }
+      ],
+      "winner": "john tiffany|harry potter and the cursed child"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "David Cromer",
+          "won": true
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Michael Arden",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Tina Landau",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Casey Nicholaw",
+          "won": false
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Bartlett Sher",
+          "won": false
+        }
+      ],
+      "winner": "david cromer|bands visit"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Carousel",
+          "person": "Justin Peck",
+          "won": true
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Steven Hoggett",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Casey Nicholaw",
+          "won": false
+        }
+      ],
+      "winner": "justin peck|carousel"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Jamshied Sharifi",
+          "won": true
+        },
+        {
+          "show": "Mean Girls",
+          "person": "John Clancy",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Tom Kitt",
+          "won": false
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Annmarie Milazzo & Michael Starobin",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Jonathan Tunick",
+          "won": false
+        }
+      ],
+      "winner": "jamshied sharifi|bands visit"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Christine Jones",
+          "won": true
+        },
+        {
+          "show": "Three Tall Women",
+          "person": "Miriam Buether",
+          "won": false
+        },
+        {
+          "show": "Farinelli and the King",
+          "person": "Jonathan Fensom",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "Santo Loquasto",
+          "won": false
+        },
+        {
+          "show": "Angels in America",
+          "person": "Ian MacNeil & Edward Pierce",
+          "won": false
+        }
+      ],
+      "winner": "christine jones|harry potter and the cursed child"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Katrina Lindsay",
+          "won": true
+        },
+        {
+          "show": "Farinelli and the King",
+          "person": "Jonathan Fensom",
+          "won": false
+        },
+        {
+          "show": "Angels in America",
+          "person": "Nicky Gillibrand",
+          "won": false
+        },
+        {
+          "show": "Three Tall Women",
+          "person": "Ann Roth",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "Ann Roth",
+          "won": false
+        }
+      ],
+      "winner": "katrina lindsay|harry potter and the cursed child"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Neil Austin",
+          "won": true
+        },
+        {
+          "show": "Angels in America",
+          "person": "Paule Constable",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "Peggy Eisenhauer & Jules Fisher",
+          "won": false
+        },
+        {
+          "show": "Farinelli and the King",
+          "person": "Paul Russell",
+          "won": false
+        },
+        {
+          "show": "Junk",
+          "person": "Ben Stanton",
+          "won": false
+        }
+      ],
+      "winner": "neil austin|harry potter and the cursed child"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "person": "Gareth Fry",
+          "won": true
+        },
+        {
+          "show": "Travesties",
+          "person": "Adam Cork",
+          "won": false
+        },
+        {
+          "show": "Angels in America",
+          "person": "Ian Dickinson",
+          "won": false
+        },
+        {
+          "show": "1984",
+          "person": "Tom Gibbons",
+          "won": false
+        },
+        {
+          "show": "The Iceman Cometh",
+          "person": "Dan Moses Schreier",
+          "won": false
+        }
+      ],
+      "winner": "gareth fry|harry potter and the cursed child"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "David Zinn",
+          "won": true
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Dane Laffrey",
+          "won": false
+        },
+        {
+          "show": "The Band's Visit",
+          "person": "Scott Pask",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Scott Pask, Finn Ross & Adam Young",
+          "won": false
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Michael Yeargan",
+          "won": false
+        }
+      ],
+      "winner": "david zinn|spongebob squarepants"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "My Fair Lady",
+          "person": "Catherine Zuber",
+          "won": true
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Gregg Barnes",
+          "won": false
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Clint Ramos",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Ann Roth",
+          "won": false
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "David Zinn",
+          "won": false
+        }
+      ],
+      "winner": "catherine zuber|my fair lady"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Tyler Micoleau",
+          "won": true
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Kevin Adams",
+          "won": false
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Peggy Eisenhauer & Jules Fisher",
+          "won": false
+        },
+        {
+          "show": "My Fair Lady",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Brian MacDevitt",
+          "won": false
+        }
+      ],
+      "winner": "tyler micoleau|bands visit"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "The Band's Visit",
+          "person": "Kai Harada",
+          "won": true
+        },
+        {
+          "show": "SpongeBob SquarePants",
+          "person": "Mike Dobson & Walter Trarbach",
+          "won": false
+        },
+        {
+          "show": "Once on This Island",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Carousel",
+          "person": "Scott Lehrer",
+          "won": false
+        },
+        {
+          "show": "Mean Girls",
+          "person": "Brian Ronan",
+          "won": false
+        }
+      ],
+      "winner": "kai harada|bands visit"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "person": null,
+        "show": "Admissions",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "person": null,
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "person": null,
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "person": null,
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "person": "Andrew Garfield",
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "person": "Glenda Jackson",
+        "show": "Three Tall Women",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Ethan Slater",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "person": "Jessie Mueller",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "person": "Nathan Lane",
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "person": "Jamie Brewer",
+        "show": "Amy and the Orphans",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "person": "Gavin Lee",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "person": "Lindsay Mendez",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "person": "John Tiffany",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "person": "Tina Landau",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "person": "Justin Peck",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "person": "David Friedman",
+        "show": "Desperate Measures",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "person": "Peter Kellogg",
+        "show": "Desperate Measures",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "person": "Tina Fey",
+        "show": "Mean Girls",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "person": "Jonathan Tunick",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music in a Play",
+        "person": "Imogen Heap",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design (Play)",
+        "person": "Miriam Buether",
+        "show": "Three Tall Women",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design (Musical)",
+        "person": "David Zinn",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design (Play)",
+        "person": "Jonathan Fensom",
+        "show": "Farinelli and the King",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design (Musical)",
+        "person": "Catherine Zuber",
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design (Play)",
+        "person": "Neil Austin",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design (Musical)",
+        "person": "Jules Fisher & Peggy Eisenhauer",
+        "show": "Once on This Island",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "person": "Finn Ross & Ash J. Woodward",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design (Play)",
+        "person": "Gareth Fry",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design (Musical)",
+        "person": "Kai Harada",
+        "show": "The Band's Visit",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Wig and Hair",
+        "person": "Charles G. LaPointe",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "person": "Billy Crudup",
+        "show": "Harry Clarke",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Chase Award for Unique Theatrical Experience",
+        "person": null,
+        "show": "Derren Brown: Secret",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Fight Choreography",
+        "person": "Steve Rankin",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Puppet Design",
+        "person": "Michael Curry",
+        "show": "Frozen",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "person": null,
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "person": null,
+        "show": "Farinelli and the King",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "person": null,
+        "show": "Junk",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "person": null,
+        "show": "The Children",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "person": null,
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "person": null,
+        "show": "Escape to Margaritaville",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "person": null,
+        "show": "Frozen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "person": null,
+        "show": "Mean Girls",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "person": null,
+        "show": "Prince of Broadway",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "person": null,
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "person": null,
+        "show": "Three Tall Women",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "person": null,
+        "show": "Travesties",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "person": null,
+        "show": "Lobby Hero",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "person": null,
+        "show": "Jesus Hopped the 'A' Train",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "person": null,
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "person": null,
+        "show": "Carousel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "person": null,
+        "show": "Pacific Overtures",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "person": null,
+        "show": "Once on This Island",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "person": null,
+        "show": "Admissions",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "person": null,
+        "show": "Mlima's Tale",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "person": null,
+        "show": "The Low Road",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "person": null,
+        "show": "Cost of Living",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "person": null,
+        "show": "Hangmen",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "person": null,
+        "show": "Desperate Measures",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "person": null,
+        "show": "Cruel Intentions: The Musical",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "person": null,
+        "show": "Jerry Springer: The Opera",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "person": null,
+        "show": "Miss You Like Hell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "person": "Andrew Garfield",
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "person": "Glenda Jackson",
+        "show": "Three Tall Women",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "person": "Nathan Lane",
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "person": "Laurie Metcalf",
+        "show": "Three Tall Women",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "person": "Ethan Slater",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "person": "Lauren Ambrose",
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "person": "Norbert Leo Butz",
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "person": "Lindsay Mendez",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "person": "Billy Crudup",
+        "show": "Harry Clarke",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "person": "John Tiffany",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "person": "Tina Landau",
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "person": "Bartlett Sher",
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "person": "Justin Peck",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "person": "Jonathan Tunick",
+        "show": "Carousel",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "person": "Jocelyn Bioh",
+        "show": "School Girls; Or, The African Mean Girls Play",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "person": "Tina Fey",
+        "show": "Mean Girls",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "person": null,
+        "show": "SpongeBob SquarePants",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "person": "Christine Jones",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "person": "Catherine Zuber",
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "person": "Neil Austin",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Projection Design",
+        "person": "Finn Ross & Ash J. Woodward",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "person": "Gareth Fry",
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "person": null,
+        "show": "Harry Potter and the Cursed Child",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "person": null,
+        "show": "The Band's Visit",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "person": null,
+        "show": "Angels in America",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "person": null,
+        "show": "My Fair Lady",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "person": "Glenda Jackson",
+        "show": "Three Tall Women",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "person": null,
+        "show": "Mary Jane",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Best Foreign Play",
+        "person": null,
+        "show": "Hangmen",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

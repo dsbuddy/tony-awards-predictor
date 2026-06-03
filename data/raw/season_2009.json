@@ -1,0 +1,2010 @@
+{
+  "year": 2009,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2008-2009 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "God of Carnage",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Dividing the Estate",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Reasons to Be Pretty",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "33 Variations",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "god of carnage"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Next to Normal",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Rock of Ages",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "billy elliot the musical"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "The Norman Conquests",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mary Stuart",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Waiting for Godot",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "norman conquests"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Hair",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Guys and Dolls",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Pal Joey",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "West Side Story",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "hair"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Lee Hall",
+          "won": true
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Brian Yorkey",
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": "David Lindsay-Abaire",
+          "won": false
+        },
+        {
+          "show": "[title of show]",
+          "person": "Hunter Bell",
+          "won": false
+        }
+      ],
+      "winner": "lee hall|billy elliot the musical"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Next to Normal",
+          "person": "Tom Kitt (music), Brian Yorkey (lyrics)",
+          "won": true
+        },
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Elton John (music), Lee Hall (lyrics)",
+          "won": false
+        },
+        {
+          "show": "9 to 5",
+          "person": "Dolly Parton (music and lyrics)",
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": "Jeanine Tesori (music), David Lindsay-Abaire (lyrics)",
+          "won": false
+        }
+      ],
+      "winner": "tom kitt music brian yorkey lyrics|next to normal"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Exit the King",
+          "person": "Geoffrey Rush",
+          "won": true
+        },
+        {
+          "show": "God of Carnage",
+          "person": "Jeff Daniels",
+          "won": false
+        },
+        {
+          "show": "Speed-the-Plow",
+          "person": "Ra\u00fal Esparza",
+          "won": false
+        },
+        {
+          "show": "God of Carnage",
+          "person": "James Gandolfini",
+          "won": false
+        },
+        {
+          "show": "Reasons to Be Pretty",
+          "person": "Thomas Sadoski",
+          "won": false
+        }
+      ],
+      "winner": "geoffrey rush|exit the king"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "God of Carnage",
+          "person": "Marcia Gay Harden",
+          "won": true
+        },
+        {
+          "show": "God of Carnage",
+          "person": "Hope Davis",
+          "won": false
+        },
+        {
+          "show": "33 Variations",
+          "person": "Jane Fonda",
+          "won": false
+        },
+        {
+          "show": "Mary Stuart",
+          "person": "Janet McTeer",
+          "won": false
+        },
+        {
+          "show": "Mary Stuart",
+          "person": "Harriet Walter",
+          "won": false
+        }
+      ],
+      "winner": "marcia gay harden|god of carnage"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "David Alvarez, Trent Kowalik, and Kiril Kulish",
+          "won": true
+        },
+        {
+          "show": "Hair",
+          "person": "Gavin Creel",
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": "Brian d'Arcy James",
+          "won": false
+        },
+        {
+          "show": "Rock of Ages",
+          "person": "Constantine Maroulis",
+          "won": false
+        },
+        {
+          "show": "Next to Normal",
+          "person": "J. Robert Spencer",
+          "won": false
+        }
+      ],
+      "winner": "david alvarez trent kowalik and kiril kulish|billy elliot the musical"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Next to Normal",
+          "person": "Alice Ripley",
+          "won": true
+        },
+        {
+          "show": "Pal Joey",
+          "person": "Stockard Channing",
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": "Sutton Foster",
+          "won": false
+        },
+        {
+          "show": "9 to 5",
+          "person": "Allison Janney",
+          "won": false
+        },
+        {
+          "show": "West Side Story",
+          "person": "Josefina Scaglione",
+          "won": false
+        }
+      ],
+      "winner": "alice ripley|next to normal"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Roger Robinson",
+          "won": true
+        },
+        {
+          "show": "Waiting for Godot",
+          "person": "John Glover",
+          "won": false
+        },
+        {
+          "show": "33 Variations",
+          "person": "Zach Grenier",
+          "won": false
+        },
+        {
+          "show": "The Norman Conquests",
+          "person": "Stephen Mangan",
+          "won": false
+        },
+        {
+          "show": "The Norman Conquests",
+          "person": "Paul Ritter",
+          "won": false
+        }
+      ],
+      "winner": "roger robinson|joe turners come and gone"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Blithe Spirit",
+          "person": "Angela Lansbury",
+          "won": true
+        },
+        {
+          "show": "Dividing the Estate",
+          "person": "Hallie Foote",
+          "won": false
+        },
+        {
+          "show": "The Norman Conquests",
+          "person": "Jessica Hynes",
+          "won": false
+        },
+        {
+          "show": "Reasons to Be Pretty",
+          "person": "Marin Ireland",
+          "won": false
+        },
+        {
+          "show": "The Norman Conquests",
+          "person": "Amanda Root",
+          "won": false
+        }
+      ],
+      "winner": "angela lansbury|blithe spirit"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Gregory Jbara",
+          "won": true
+        },
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "David Bologna",
+          "won": false
+        },
+        {
+          "show": "9 to 5",
+          "person": "Marc Kudisch",
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": "Christopher Sieber",
+          "won": false
+        },
+        {
+          "show": "Hair",
+          "person": "Will Swenson",
+          "won": false
+        }
+      ],
+      "winner": "gregory jbara|billy elliot the musical"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "West Side Story",
+          "person": "Karen Olivo",
+          "won": true
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Jennifer Damiano",
+          "won": false
+        },
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Haydn Gwynne",
+          "won": false
+        },
+        {
+          "show": "Pal Joey",
+          "person": "Martha Plimpton",
+          "won": false
+        },
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Carole Shelley",
+          "won": false
+        }
+      ],
+      "winner": "karen olivo|west side story"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "God of Carnage",
+          "person": "Matthew Warchus",
+          "won": true
+        },
+        {
+          "show": "Mary Stuart",
+          "person": "Phyllida Lloyd",
+          "won": false
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Bartlett Sher",
+          "won": false
+        },
+        {
+          "show": "The Norman Conquests",
+          "person": "Matthew Warchus",
+          "won": false
+        }
+      ],
+      "winner": "matthew warchus|god of carnage"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Stephen Daldry",
+          "won": true
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Michael Greif",
+          "won": false
+        },
+        {
+          "show": "Rock of Ages",
+          "person": "Kristin Hanggi",
+          "won": false
+        },
+        {
+          "show": "Hair",
+          "person": "Diane Paulus",
+          "won": false
+        }
+      ],
+      "winner": "stephen daldry|billy elliot the musical"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Peter Darling",
+          "won": true
+        },
+        {
+          "show": "Hair",
+          "person": "Karole Armitage",
+          "won": false
+        },
+        {
+          "show": "9 to 5",
+          "person": "Andy Blankenbuehler",
+          "won": false
+        },
+        {
+          "show": "Irving Berlin's White Christmas",
+          "person": "Randy Skinner",
+          "won": false
+        }
+      ],
+      "winner": "peter darling|billy elliot the musical"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Martin Koch",
+          "won": true
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Michael Starobin and Tom Kitt",
+          "won": true
+        },
+        {
+          "show": "Irving Berlin's White Christmas",
+          "person": "Larry Blank",
+          "won": false
+        },
+        {
+          "show": "Shrek The Musical",
+          "person": "Danny Troob and John Clancy",
+          "won": false
+        }
+      ],
+      "winner": "martin koch|billy elliot the musical"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "33 Variations",
+          "person": "Derek McLane",
+          "won": true
+        },
+        {
+          "show": "Exit the King",
+          "person": "Dale Ferguson",
+          "won": false
+        },
+        {
+          "show": "The Norman Conquests",
+          "person": "Rob Howell",
+          "won": false
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Michael Yeargan",
+          "won": false
+        }
+      ],
+      "winner": "derek mclane|33 variations"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Mary Stuart",
+          "person": "Anthony Ward",
+          "won": true
+        },
+        {
+          "show": "Exit the King",
+          "person": "Dale Ferguson",
+          "won": false
+        },
+        {
+          "show": "Waiting for Godot",
+          "person": "Jane Greenwood",
+          "won": false
+        },
+        {
+          "show": "Blithe Spirit",
+          "person": "Martin Pakledinaz",
+          "won": false
+        }
+      ],
+      "winner": "anthony ward|mary stuart"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Brian MacDevitt",
+          "won": true
+        },
+        {
+          "show": "Equus",
+          "person": "David Hersey",
+          "won": false
+        },
+        {
+          "show": "33 Variations",
+          "person": "David Lander",
+          "won": false
+        },
+        {
+          "show": "Mary Stuart",
+          "person": "Hugh Vanstone",
+          "won": false
+        }
+      ],
+      "winner": "brian macdevitt|joe turners come and gone"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Equus",
+          "person": "Gregory Clarke",
+          "won": true
+        },
+        {
+          "show": "Mary Stuart",
+          "person": "Paul Arditti",
+          "won": false
+        },
+        {
+          "show": "Exit the King",
+          "person": "Russell Goldsmith",
+          "won": false
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Scott Lehrer and Leon Rothenberg",
+          "won": false
+        }
+      ],
+      "winner": "gregory clarke|equus"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Ian MacNeil",
+          "won": true
+        },
+        {
+          "show": "Guys and Dolls",
+          "person": "Robert Brill",
+          "won": false
+        },
+        {
+          "show": "Pal Joey",
+          "person": "Scott Pask",
+          "won": false
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Mark Wendland",
+          "won": false
+        }
+      ],
+      "winner": "ian macneil|billy elliot the musical"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Shrek The Musical",
+          "person": "Tim Hatley",
+          "won": true
+        },
+        {
+          "show": "Rock of Ages",
+          "person": "Gregory Gale",
+          "won": false
+        },
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Nicky Gillibrand",
+          "won": false
+        },
+        {
+          "show": "Hair",
+          "person": "Michael McDonald",
+          "won": false
+        }
+      ],
+      "winner": "tim hatley|shrek the musical"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Rick Fisher",
+          "won": true
+        },
+        {
+          "show": "Hair",
+          "person": "Kevin Adams",
+          "won": false
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Kevin Adams",
+          "won": false
+        },
+        {
+          "show": "West Side Story",
+          "person": "Howell Binkley",
+          "won": false
+        }
+      ],
+      "winner": "rick fisher|billy elliot the musical"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Billy Elliot the Musical",
+          "person": "Paul Arditti",
+          "won": true
+        },
+        {
+          "show": "Hair",
+          "person": "Acme Sound Partners",
+          "won": false
+        },
+        {
+          "show": "Rock of Ages",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Next to Normal",
+          "person": "Brian Ronan",
+          "won": false
+        }
+      ],
+      "winner": "paul arditti|billy elliot the musical"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Ruined",
+        "person": "Lynn Nottage",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Becky Shaw",
+        "person": "Gina Gionfriddo",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Body Awareness",
+        "person": "Annie Baker",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Fifty Words",
+        "person": "Michael Weller",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Lady",
+        "person": "Craig Wright",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "reasons to be pretty",
+        "person": "Neil LaBute",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Billy Elliot the Musical",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "9 to 5",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Fela!",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Liza's at the Palace...",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Shrek the Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Story of My Life",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Norman Conquests",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Blithe Spirit",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Cripple of Inishmaan",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Exit the King",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Mary Stuart",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Waiting for Godot",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hair",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Pal Joey",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "West Side Story",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Norman Conquests",
+        "person": "Matthew Warchus",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Blasted",
+        "person": "Sarah Benson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Blithe Spirit",
+        "person": "Michael Blakemore",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Cripple of Inishmaan",
+        "person": "Garry Hynes",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "reasons to be pretty",
+        "person": "Terry Kinney",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Ruined",
+        "person": "Kate Whoriskey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": "Stephen Daldry",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Irving Berlin's White Christmas",
+        "person": "Walter Bobbie",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "9 to 5",
+        "person": "Joe Mantello",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Shrek the Musical",
+        "person": "Jason Moore",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hair",
+        "person": "Diane Paulus",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Enter Laughing the Musical",
+        "person": "Stuart Ross",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Exit the King",
+        "person": "Geoffrey Rush",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Winter's Tale",
+        "person": "Simon Russell Beale",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Blasted",
+        "person": "Reed Birney",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Speed-the-Plow",
+        "person": "Ra\u00fal Esparza",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Waiting for Godot",
+        "person": "Bill Irwin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Equus",
+        "person": "Daniel Radcliffe",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "reasons to be pretty",
+        "person": "Thomas Sadoski",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Mary Stuart",
+        "person": "Janet McTeer",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Ruined",
+        "person": "Saidah Arrika Ekulona",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "33 Variations",
+        "person": "Jane Fonda",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "God of Carnage",
+        "person": "Marcia Gay Harden",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Fifty Words",
+        "person": "Elizabeth Marvel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Scenes from an Execution",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Shrek the Musical",
+        "person": "Brian d'Arcy James",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Tale of Two Cities",
+        "person": "James Barbour",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Shrek the Musical",
+        "person": "Daniel Breaker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Enter Laughing",
+        "person": "Josh Grisetti",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Fela!",
+        "person": "Sahr Ngaujah",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Hair",
+        "person": "Will Swenson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "9 to 5",
+        "person": "Allison Janney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "9 to 5",
+        "person": "Stephanie J. Block",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Pal Joey",
+        "person": "Stockard Channing",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Shrek the Musical",
+        "person": "Sutton Foster",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "9 to 5",
+        "person": "Megan Hilty",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "My Vaudeville Man!",
+        "person": "Karen Murphy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "reasons to be pretty",
+        "person": "Pablo Schreiber",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Port Authority",
+        "person": "Brian d'Arcy James",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Back Back Back",
+        "person": "Jeremy Davidson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Body Awareness",
+        "person": "Peter Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Winter's Tale",
+        "person": "Ethan Hawke",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Animals Out of Paper",
+        "person": "Jeremy Shamos",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Blithe Spirit",
+        "person": "Angela Lansbury",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Cherry Orchard",
+        "person": "Rebecca Hall",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Seagull",
+        "person": "Zoe Kazan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Exit the King",
+        "person": "Andrea Martin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Seagull",
+        "person": "Carey Mulligan",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Ruined",
+        "person": "Condola Rashad",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": "Gregory Jbara",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Happiness",
+        "person": "Hunter Foster",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Toxic Avenger",
+        "person": "Demond Green",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "9 to 5",
+        "person": "Marc Kudisch",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Hair",
+        "person": "Bryce Ryness",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Shrek the Musical",
+        "person": "Christopher Sieber",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": "Haydn Gwynne",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Marvelous Wonderettes",
+        "person": "Farah Alvin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Forbidden Broadway Goes to Rehab",
+        "person": "Christina Bianco",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "West Side Story",
+        "person": "Karen Olivo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Toxic Avenger",
+        "person": "Nancy Opel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Pal Joey",
+        "person": "Martha Plimpton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": "Lee Hall",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "This Beautiful City",
+        "person": "Steven Cosson and Jim Lewis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Toxic Avenger",
+        "person": "Joe DiPietro",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Story of My Life",
+        "person": "Brian Hill",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Shrek the Musical",
+        "person": "David Lindsay-Abaire",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "9 to 5",
+        "person": "Patricia Resnick",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Billy Elliot the Musical",
+        "person": "Elton John",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Story of My Life",
+        "person": "Neil Bartram",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Dear Edwina",
+        "person": "Zina Goldrich",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "9 to 5",
+        "person": "Dolly Parton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Road Show",
+        "person": "Stephen Sondheim",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Shrek the Musical",
+        "person": "Jeanine Tesori",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Road Show",
+        "person": "Stephen Sondheim",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Story of My Life",
+        "person": "Neil Bartram",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "13",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Dear Edwina",
+        "person": "Marcy Heisler",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Shrek the Musical",
+        "person": "David Lindsay-Abaire",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "9 to 5",
+        "person": "Dolly Parton",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Billy Elliot the Musical",
+        "person": "Martin Koch",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Irving Berlin's White Christmas",
+        "person": "Larry Blank",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "9 to 5",
+        "person": "Bruce Coughlin, Stephen Oremus, and Alex Lacamoire",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Fela!",
+        "person": "Aaron Johnson and Antibalas",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "A Tale of Two Cities",
+        "person": "Edward B. Kessel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Shrek the Musical",
+        "person": "Danny Troob and John Clancy",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Why Torture is Wrong, and the People Who Love Them",
+        "person": "David Korins",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Exit the King",
+        "person": "Dale Ferguson",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "The Norman Conquests",
+        "person": "Rob Howell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Fifty Words",
+        "person": "Neil Patel",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "33 Variations",
+        "person": "Derek McLane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Desire Under the Elms",
+        "person": "Walt Spangler",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Shrek the Musical",
+        "person": "Tim Hatley",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Irving Berlin's White Christmas",
+        "person": "Anna Louizos",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Happiness",
+        "person": "Thomas Lynch",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "9 to 5",
+        "person": "Scott Pask",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Arias with a Twist",
+        "person": "Basil Twist",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Shrek the Musical",
+        "person": "Tim Hatley",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Norman Conquests",
+        "person": "Rob Howell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "9 to 5",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Hair",
+        "person": "Michael McDonald",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Blithe Spirit",
+        "person": "Martin Pakledinaz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Irving Berlin's White Christmas",
+        "person": "Carrie Robbins",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Equus",
+        "person": "David Hersey",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Hamlet",
+        "person": "Marcus Doshi",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Washing Machine",
+        "person": "Ben Kato",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Bury the Dead",
+        "person": "R. Lee Kennedy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "The Winter's Tale",
+        "person": "Paul Pyant",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Mary Stuart",
+        "person": "Hugh Vanstone",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": "Rick Fisher",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Hair",
+        "person": "Kevin Adams",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "9 to 5",
+        "person": "Jules Fisher and Kenneth Posner",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Clay",
+        "person": "Jason Lyons",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "Improbable Frequency",
+        "person": "Sin\u00e9ad McKenna",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "A Tale of Two Cities",
+        "person": "Richard Pilbrow",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Billy Elliot the Musical",
+        "person": "Paul Arditti",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Irving Berlin's White Christmas",
+        "person": "Acme Sound Partners",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Equus",
+        "person": "Gregory Clarke",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Shipwrecked! An Entertainment",
+        "person": "John Gromada",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "33 Variations",
+        "person": "Andr\u00e9 J. Pluess",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "9 to 5",
+        "person": "John Shivers",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "God of Carnage",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Ruined",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Norman Conquests",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Billy Elliot the Musical",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Toxic Avenger",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hair",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Billy Elliot the Musical",
+        "person": "Elton John and Lee Hall",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Norman Conquests",
+        "person": "Matthew Warchus",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": "Stephen Daldry",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Billy Elliot the Musical",
+        "person": "Peter Darling",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Exit the King",
+        "person": "Geoffrey Rush",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "God of Carnage",
+        "person": "Marcia Gay Harden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Shrek the Musical",
+        "person": "Brian d'Arcy James",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Shrek the Musical",
+        "person": "Sutton Foster",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "West Side Story",
+        "person": "Josefina Scaglione",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "Becky Shaw",
+        "person": "Gina Gionfriddo",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "God of Carnage",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Billy Elliot the Musical",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Exit the King",
+        "person": "Geoffrey Rush",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Ruined",
+        "person": "Lynn Nottage",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Billy Elliot the Musical",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "Black Watch",
+        "person": "Gregory Burke",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

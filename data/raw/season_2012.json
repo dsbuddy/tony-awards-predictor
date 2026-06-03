@@ -1,0 +1,1746 @@
+{
+  "year": 2012,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2011-2012 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "Clybourne Park",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Other Desert Cities",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Peter and the Starcatcher",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Venus in Fur",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "clybourne park"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Leap of Faith",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Newsies",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "once"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Death of a Salesman",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Best Man",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Master Class",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Wit",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "death of a salesman"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Evita",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Jesus Christ Superstar",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "gershwins porgy and bess"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "Enda Walsh",
+          "won": true
+        },
+        {
+          "show": "Lysistrata Jones",
+          "person": "Douglas Carter Beane",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Joe DiPietro",
+          "won": false
+        },
+        {
+          "show": "Newsies",
+          "person": "Harvey Fierstein",
+          "won": false
+        }
+      ],
+      "winner": "enda walsh|once"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Newsies",
+          "person": "Alan Menken (music), Jack Feldman (lyrics)",
+          "won": true
+        },
+        {
+          "show": "Bonnie & Clyde",
+          "person": "Frank Wildhorn (music), Don Black (lyrics)",
+          "won": false
+        },
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "Grant Olding",
+          "won": false
+        },
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Wayne Barker (music), Rick Elice (lyrics)",
+          "won": false
+        }
+      ],
+      "winner": "alan menken music jack feldman lyrics|newsies"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "James Corden",
+          "won": true
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Philip Seymour Hoffman",
+          "won": false
+        },
+        {
+          "show": "The Best Man",
+          "person": "James Earl Jones",
+          "won": false
+        },
+        {
+          "show": "Man and Boy",
+          "person": "Frank Langella",
+          "won": false
+        },
+        {
+          "show": "The Columnist",
+          "person": "John Lithgow",
+          "won": false
+        }
+      ],
+      "winner": "james corden|one man two guvnors"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Venus in Fur",
+          "person": "Nina Arianda",
+          "won": true
+        },
+        {
+          "show": "End of the Rainbow",
+          "person": "Tracie Bennett",
+          "won": false
+        },
+        {
+          "show": "Other Desert Cities",
+          "person": "Stockard Channing",
+          "won": false
+        },
+        {
+          "show": "The Lyons",
+          "person": "Linda Lavin",
+          "won": false
+        },
+        {
+          "show": "Wit",
+          "person": "Cynthia Nixon",
+          "won": false
+        }
+      ],
+      "winner": "nina arianda|venus in fur"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "Steve Kazee",
+          "won": true
+        },
+        {
+          "show": "Follies",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "Newsies",
+          "person": "Jeremy Jordan",
+          "won": false
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "Norm Lewis",
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": "Ron Raines",
+          "won": false
+        }
+      ],
+      "winner": "steve kazee|once"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "Audra McDonald",
+          "won": true
+        },
+        {
+          "show": "Follies",
+          "person": "Jan Maxwell",
+          "won": false
+        },
+        {
+          "show": "Once",
+          "person": "Cristin Milioti",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Kelli O'Hara",
+          "won": false
+        },
+        {
+          "show": "Bonnie & Clyde",
+          "person": "Laura Osnes",
+          "won": false
+        }
+      ],
+      "winner": "audra mcdonald|gershwins porgy and bess"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Christian Borle",
+          "won": true
+        },
+        {
+          "show": "End of the Rainbow",
+          "person": "Michael Cumpsty",
+          "won": false
+        },
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "Tom Edden",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Andrew Garfield",
+          "won": false
+        },
+        {
+          "show": "Clybourne Park",
+          "person": "Jeremy Shamos",
+          "won": false
+        }
+      ],
+      "winner": "christian borle|peter and the starcatcher"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Other Desert Cities",
+          "person": "Judith Light",
+          "won": true
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Linda Emond",
+          "won": false
+        },
+        {
+          "show": "Don't Dress for Dinner",
+          "person": "Spencer Kayden",
+          "won": false
+        },
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Celia Keenan-Bolger",
+          "won": false
+        },
+        {
+          "show": "Stick Fly",
+          "person": "Condola Rashad",
+          "won": false
+        }
+      ],
+      "winner": "judith light|other desert cities"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Michael McGrath",
+          "won": true
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "Phillip Boykin",
+          "won": false
+        },
+        {
+          "show": "Evita",
+          "person": "Michael Cerveris",
+          "won": false
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "David Alan Grier",
+          "won": false
+        },
+        {
+          "show": "Jesus Christ Superstar",
+          "person": "Josh Young",
+          "won": false
+        }
+      ],
+      "winner": "michael mcgrath|nice work if you can get it"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Judy Kaye",
+          "won": true
+        },
+        {
+          "show": "Once",
+          "person": "Elizabeth A. Davis",
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": "Jayne Houdyshell",
+          "won": false
+        },
+        {
+          "show": "On a Clear Day You Can See Forever",
+          "person": "Jessie Mueller",
+          "won": false
+        },
+        {
+          "show": "Ghost the Musical",
+          "person": "Da'Vine Joy Randolph",
+          "won": false
+        }
+      ],
+      "winner": "judy kaye|nice work if you can get it"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Death of a Salesman",
+          "person": "Mike Nichols",
+          "won": true
+        },
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "Nicholas Hytner",
+          "won": false
+        },
+        {
+          "show": "Clybourne Park",
+          "person": "Pam MacKinnon",
+          "won": false
+        },
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Roger Rees and Alex Timbers",
+          "won": false
+        }
+      ],
+      "winner": "mike nichols|death of a salesman"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "John Tiffany",
+          "won": true
+        },
+        {
+          "show": "Newsies",
+          "person": "Jeff Calhoun",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Kathleen Marshall",
+          "won": false
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "Diane Paulus",
+          "won": false
+        }
+      ],
+      "winner": "john tiffany|once"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Newsies",
+          "person": "Christopher Gattelli",
+          "won": true
+        },
+        {
+          "show": "Evita",
+          "person": "Rob Ashford",
+          "won": false
+        },
+        {
+          "show": "Once",
+          "person": "Steven Hoggett",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Kathleen Marshall",
+          "won": false
+        }
+      ],
+      "winner": "christopher gattelli|newsies"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "Martin Lowe",
+          "won": true
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "William David Brohn and Christopher Jahnke",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Bill Elliott",
+          "won": false
+        },
+        {
+          "show": "Newsies",
+          "person": "Danny Troob",
+          "won": false
+        }
+      ],
+      "winner": "martin lowe|once"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Donyale Werle",
+          "won": true
+        },
+        {
+          "show": "Other Desert Cities",
+          "person": "John Lee Beatty",
+          "won": false
+        },
+        {
+          "show": "Clybourne Park",
+          "person": "Daniel Ostling",
+          "won": false
+        },
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "Mark Thompson",
+          "won": false
+        }
+      ],
+      "winner": "donyale werle|peter and the starcatcher"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Paloma Young",
+          "won": true
+        },
+        {
+          "show": "Don't Dress for Dinner",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "A Streetcar Named Desire",
+          "person": "Paul Tazewell",
+          "won": false
+        },
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "Mark Thompson",
+          "won": false
+        }
+      ],
+      "winner": "paloma young|peter and the starcatcher"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Jeff Croiter",
+          "won": true
+        },
+        {
+          "show": "The Road to Mecca",
+          "person": "Peter Kaczorowski",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Brian MacDevitt",
+          "won": false
+        },
+        {
+          "show": "Other Desert Cities",
+          "person": "Kenneth Posner",
+          "won": false
+        }
+      ],
+      "winner": "jeff croiter|peter and the starcatcher"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Peter and the Starcatcher",
+          "person": "Darron L West",
+          "won": true
+        },
+        {
+          "show": "One Man, Two Guvnors",
+          "person": "Paul Arditti",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Scott Lehrer",
+          "won": false
+        },
+        {
+          "show": "End of the Rainbow",
+          "person": "Gareth Owen",
+          "won": false
+        }
+      ],
+      "winner": "darron l west|peter and the starcatcher"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "Bob Crowley",
+          "won": true
+        },
+        {
+          "show": "Ghost the Musical",
+          "person": "Rob Howell and Jon Driscoll",
+          "won": false
+        },
+        {
+          "show": "Newsies",
+          "person": "Tobin Ost and Sven Ortel",
+          "won": false
+        },
+        {
+          "show": "Spider-Man: Turn Off the Dark",
+          "person": "George Tsypin",
+          "won": false
+        }
+      ],
+      "winner": "bob crowley|once"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Follies",
+          "person": "Gregg Barnes",
+          "won": true
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "ESosa",
+          "won": false
+        },
+        {
+          "show": "Spider-Man: Turn Off the Dark",
+          "person": "Eiko Ishioka",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Martin Pakledinaz",
+          "won": false
+        }
+      ],
+      "winner": "gregg barnes|follies"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "Christopher Akerlind",
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": "Natasha Katz",
+          "won": false
+        },
+        {
+          "show": "Ghost the Musical",
+          "person": "Hugh Vanstone",
+          "won": false
+        }
+      ],
+      "winner": "natasha katz|once"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Once",
+          "person": "Clive Goodwin",
+          "won": true
+        },
+        {
+          "show": "The Gershwins' Porgy and Bess",
+          "person": "Acme Sound Partners",
+          "won": false
+        },
+        {
+          "show": "Follies",
+          "person": "Kai Harada",
+          "won": false
+        },
+        {
+          "show": "Nice Work If You Can Get It",
+          "person": "Brian Ronan",
+          "won": false
+        }
+      ],
+      "winner": "clive goodwin|once"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "Tribes",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Once",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Follies",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Death of a Salesman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "One Man, Two Guvnors",
+        "person": "James Corden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Death of a Salesman",
+        "person": "Philip Seymour Hoffman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "End of the Rainbow",
+        "person": "Tracie Bennett",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Follies",
+        "person": "Danny Burstein",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Newsies",
+        "person": "Jeremy Jordan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Other Desert Cities",
+        "person": "Judith Light",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "One Man, Two Guvnors",
+        "person": "Tom Edden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Death of a Salesman",
+        "person": "Bill Camp",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Michael McGrath",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Spider-Man: Turn Off the Dark",
+        "person": "Patrick Page",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Judy Kaye",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Death of a Salesman",
+        "person": "Mike Nichols",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Once",
+        "person": "John Tiffany",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Kathleen Marshall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Newsies",
+        "person": "Christopher Gattelli",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Newsies",
+        "person": "Alan Menken",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Once",
+        "person": "Glen Hansard and Marketa Irglova",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Once",
+        "person": "Martin Lowe",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music in a Play",
+        "show": "One Man, Two Guvnors",
+        "person": "Grant Olding",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Joe DiPietro",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Follies",
+        "person": "Gregg Barnes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Ghost the Musical",
+        "person": "Jon Driscoll, Rob Howell and Paul Kieve",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Death of a Salesman",
+        "person": "Brian MacDevitt",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "One Man, Two Guvnors",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Seminar",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Lyons",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Stick Fly",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Once",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Newsies",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Bonnie and Clyde",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Spider-Man: Turn Off the Dark",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Sons of the Prophet",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Blood and Gifts",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "The School for Lies",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Tribes",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Queen of the Mist",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Death Takes a Holiday",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Play It Cool",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Lucky Guy",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Death of a Salesman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Lady from Dubuque",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Private Lives",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Best Man",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Follies",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Carrie",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Porgy and Bess",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Evita",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "John Gassner Award",
+        "show": "The Submission",
+        "person": "Jeff Talbott",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Newsies",
+        "person": "Alan Menken and Jack Feldman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Queen of the Mist",
+        "person": "Michael John LaChiusa",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Bonnie and Clyde",
+        "person": "Frank Wildhorn and Don Black",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Death Takes a Holiday",
+        "person": "Maury Yeston",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "One Man, Two Guvnors",
+        "person": "Nicholas Hytner",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Death of a Salesman",
+        "person": "Mike Nichols",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Lyons",
+        "person": "Mark Brokaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Tribes",
+        "person": "David Cromer",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Once",
+        "person": "John Tiffany",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Newsies",
+        "person": "Jeff Calhoun",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Evita",
+        "person": "Michael Grandage",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Kathleen Marshall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Newsies",
+        "person": "Christopher Gattelli",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Evita",
+        "person": "Rob Ashford",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Once",
+        "person": "Steven Hoggett",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Nice Work If You Can Get It",
+        "person": "Kathleen Marshall",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "One Man, Two Guvnors",
+        "person": "James Corden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Death of a Salesman",
+        "person": "Philip Seymour Hoffman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Tribes",
+        "person": "Russell Harvard",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The School for Lies",
+        "person": "Hamish Linklater",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Sons of the Prophet",
+        "person": "Santino Fontana",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "End of the Rainbow",
+        "person": "Tracie Bennett",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Lyons",
+        "person": "Linda Lavin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Lady from Dubuque",
+        "person": "Laila Robins",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "A Streetcar Named Desire",
+        "person": "Nicole Ari Parker",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Master Class",
+        "person": "Tyne Daly",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Best Man",
+        "person": "James Earl Jones",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Death of a Salesman",
+        "person": "Andrew Garfield",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Blood and Gifts",
+        "person": "Jefferson Mays",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "One Man, Two Guvnors",
+        "person": "Tom Edden",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Tribes",
+        "person": "Will Brill",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Don't Dress for Dinner",
+        "person": "Spencer Kayden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "A Streetcar Named Desire",
+        "person": "Daphne Rubin-Vega",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Best Man",
+        "person": "Angela Lansbury",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Sons of the Prophet",
+        "person": "Joanna Gleason",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Other Desert Cities",
+        "person": "Judith Light",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Follies",
+        "person": "Danny Burstein",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Newsies",
+        "person": "Jeremy Jordan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Leap of Faith",
+        "person": "Raul Esparza",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Once",
+        "person": "Steve Kazee",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Gershwins' Porgy and Bess",
+        "person": "Norm Lewis",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Gershwins' Porgy and Bess",
+        "person": "Audra McDonald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Kelli O'Hara",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Follies",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Carrie",
+        "person": "Marin Mazzie",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Once",
+        "person": "Cristin Milioti",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Michael McGrath",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "The Gershwins' Porgy and Bess",
+        "person": "Phillip Boykin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Spider-Man: Turn Off the Dark",
+        "person": "Patrick Page",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Chris Sullivan",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Newsies",
+        "person": "Andrew Keenan-Bolger",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Nice Work If You Can Get It",
+        "person": "Judy Kaye",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Death Takes a Holiday",
+        "person": "Rebecca Luker",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Bonnie and Clyde",
+        "person": "Melissa van der Schyff",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Follies",
+        "person": "Jayne Houdyshell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Ghost the Musical",
+        "person": "Da'Vine Joy Randolph",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "An Iliad",
+        "person": "Denis O'Hare",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "An Iliad",
+        "person": "Stephen Spinella",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Spider-Man: Turn Off the Dark",
+        "person": "George Tsypin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Once",
+        "person": "Bob Crowley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Evita",
+        "person": "Christopher Oram",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Nice Work If You Can Get It",
+        "person": "Derek McLane",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Spider-Man: Turn Off the Dark",
+        "person": "Eiko Ishioka",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Follies",
+        "person": "Gregg Barnes",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Nice Work If You Can Get It",
+        "person": "Martin Pakledinaz",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Don't Dress for Dinner",
+        "person": "William Ivey Long",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Ghost the Musical",
+        "person": "Hugh Vanstone",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Evita",
+        "person": "Neil Austin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Death of a Salesman",
+        "person": "Brian MacDevitt",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Spider-Man: Turn Off the Dark",
+        "person": "Donald Holder",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Other Desert Cities",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Once",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Death of a Salesman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Follies",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "The Gershwins' Porgy and Bess",
+        "person": "Audra McDonald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Sons of the Prophet",
+        "person": "Stephen Karam",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Once",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Best Foreign Play",
+        "show": "Tribes",
+        "person": "Nina Raine",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2026 @@
+{
+  "year": 2014,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2013-2014 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "All the Way",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Act One",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Casa Valentina",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Mothers and Sons",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Outside Mullingar",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "all the way"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "After Midnight",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Aladdin",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "gentlemans guide to love and murder"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "A Raisin in the Sun",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Cripple of Inishmaan",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Twelfth Night",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "raisin in the sun"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Les Mis\u00e9rables",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Violet",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "hedwig and the angry inch"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Robert L. Freedman",
+          "won": true
+        },
+        {
+          "show": "Aladdin",
+          "person": "Chad Beguelin",
+          "won": false
+        },
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": "Douglas McGrath",
+          "won": false
+        },
+        {
+          "show": "Bullets Over Broadway",
+          "person": "Woody Allen",
+          "won": false
+        }
+      ],
+      "winner": "robert l freedman|gentlemans guide to love and murder"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "The Bridges of Madison County",
+          "person": "Jason Robert Brown",
+          "won": true
+        },
+        {
+          "show": "Aladdin",
+          "person": "Alan Menken, Howard Ashman, Tim Rice, Chad Beguelin",
+          "won": false
+        },
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Steven Lutvak, Robert L. Freedman",
+          "won": false
+        },
+        {
+          "show": "If/Then",
+          "person": "Tom Kitt, Brian Yorkey",
+          "won": false
+        }
+      ],
+      "winner": "jason robert brown|bridges of madison county"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "All the Way",
+          "person": "Bryan Cranston",
+          "won": true
+        },
+        {
+          "show": "Twelfth Night",
+          "person": "Samuel Barnett",
+          "won": false
+        },
+        {
+          "show": "Of Mice and Men",
+          "person": "Chris O'Dowd",
+          "won": false
+        },
+        {
+          "show": "Richard III",
+          "person": "Mark Rylance",
+          "won": false
+        },
+        {
+          "show": "Act One",
+          "person": "Tony Shalhoub",
+          "won": false
+        }
+      ],
+      "winner": "bryan cranston|all the way"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Lady Day at Emerson's Bar and Grill",
+          "person": "Audra McDonald",
+          "won": true
+        },
+        {
+          "show": "Mothers and Sons",
+          "person": "Tyne Daly",
+          "won": false
+        },
+        {
+          "show": "A Raisin in the Sun",
+          "person": "LaTanya Richardson Jackson",
+          "won": false
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": "Cherry Jones",
+          "won": false
+        },
+        {
+          "show": "The Velocity of Autumn",
+          "person": "Estelle Parsons",
+          "won": false
+        }
+      ],
+      "winner": "audra mcdonald|lady day at emersons bar and grill"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Neil Patrick Harris",
+          "won": true
+        },
+        {
+          "show": "Les Mis\u00e9rables",
+          "person": "Ramin Karimloo",
+          "won": false
+        },
+        {
+          "show": "Rocky the Musical",
+          "person": "Andy Karl",
+          "won": false
+        },
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Jefferson Mays",
+          "won": false
+        },
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Bryce Pinkham",
+          "won": false
+        }
+      ],
+      "winner": "neil patrick harris|hedwig and the angry inch"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": "Jessie Mueller",
+          "won": true
+        },
+        {
+          "show": "A Night with Janis Joplin",
+          "person": "Mary Bridget Davies",
+          "won": false
+        },
+        {
+          "show": "Violet",
+          "person": "Sutton Foster",
+          "won": false
+        },
+        {
+          "show": "If/Then",
+          "person": "Idina Menzel",
+          "won": false
+        },
+        {
+          "show": "The Bridges of Madison County",
+          "person": "Kelli O'Hara",
+          "won": false
+        }
+      ],
+      "winner": "jessie mueller|beautiful the carole king musical"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Twelfth Night",
+          "person": "Mark Rylance",
+          "won": true
+        },
+        {
+          "show": "Casa Valentina",
+          "person": "Reed Birney",
+          "won": false
+        },
+        {
+          "show": "Twelfth Night",
+          "person": "Paul Chahidi",
+          "won": false
+        },
+        {
+          "show": "Twelfth Night",
+          "person": "Stephen Fry",
+          "won": false
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": "Brian J. Smith",
+          "won": false
+        }
+      ],
+      "winner": "mark rylance|twelfth night"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "A Raisin in the Sun",
+          "person": "Sophie Okonedo",
+          "won": true
+        },
+        {
+          "show": "The Cripple of Inishmaan",
+          "person": "Sarah Greene",
+          "won": false
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": "Celia Keenan-Bolger",
+          "won": false
+        },
+        {
+          "show": "A Raisin in the Sun",
+          "person": "Anika Noni Rose",
+          "won": false
+        },
+        {
+          "show": "Casa Valentina",
+          "person": "Mare Winningham",
+          "won": false
+        }
+      ],
+      "winner": "sophie okonedo|raisin in the sun"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Aladdin",
+          "person": "James Monroe Iglehart",
+          "won": true
+        },
+        {
+          "show": "Cabaret",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "Bullets Over Broadway",
+          "person": "Nick Cordero",
+          "won": false
+        },
+        {
+          "show": "Violet",
+          "person": "Joshua Henry",
+          "won": false
+        },
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": "Jarrod Spector",
+          "won": false
+        }
+      ],
+      "winner": "james monroe iglehart|aladdin"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Lena Hall",
+          "won": true
+        },
+        {
+          "show": "Cabaret",
+          "person": "Linda Emond",
+          "won": false
+        },
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": "Anika Larsen",
+          "won": false
+        },
+        {
+          "show": "After Midnight",
+          "person": "Adriane Lenox",
+          "won": false
+        },
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Lauren Worsham",
+          "won": false
+        }
+      ],
+      "winner": "lena hall|hedwig and the angry inch"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "A Raisin in the Sun",
+          "person": "Kenny Leon",
+          "won": true
+        },
+        {
+          "show": "Twelfth Night",
+          "person": "Tim Carroll",
+          "won": false
+        },
+        {
+          "show": "The Cripple of Inishmaan",
+          "person": "Michael Grandage",
+          "won": false
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": "John Tiffany",
+          "won": false
+        }
+      ],
+      "winner": "kenny leon|raisin in the sun"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Darko Tresnjak",
+          "won": true
+        },
+        {
+          "show": "After Midnight",
+          "person": "Warren Carlyle",
+          "won": false
+        },
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Michael Mayer",
+          "won": false
+        },
+        {
+          "show": "Violet",
+          "person": "Leigh Silverman",
+          "won": false
+        }
+      ],
+      "winner": "darko tresnjak|gentlemans guide to love and murder"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "After Midnight",
+          "person": "Warren Carlyle",
+          "won": true
+        },
+        {
+          "show": "Rocky the Musical",
+          "person": "Steven Hoggett and Kelly Devine",
+          "won": false
+        },
+        {
+          "show": "Aladdin",
+          "person": "Casey Nicholaw",
+          "won": false
+        },
+        {
+          "show": "Bullets Over Broadway",
+          "person": "Susan Stroman",
+          "won": false
+        }
+      ],
+      "winner": "warren carlyle|after midnight"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "The Bridges of Madison County",
+          "person": "Jason Robert Brown",
+          "won": true
+        },
+        {
+          "show": "Bullets Over Broadway",
+          "person": "Doug Besterman",
+          "won": false
+        },
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": "Steve Sidwell",
+          "won": false
+        },
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Jonathan Tunick",
+          "won": false
+        }
+      ],
+      "winner": "jason robert brown|bridges of madison county"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Act One",
+          "person": "Beowulf Boritt",
+          "won": true
+        },
+        {
+          "show": "The Glass Menagerie",
+          "person": "Bob Crowley",
+          "won": false
+        },
+        {
+          "show": "Machinal",
+          "person": "Es Devlin",
+          "won": false
+        },
+        {
+          "show": "The Cripple of Inishmaan",
+          "person": "Christopher Oram",
+          "won": false
+        }
+      ],
+      "winner": "beowulf boritt|act one"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Twelfth Night",
+          "person": "Jenny Tiramani",
+          "won": true
+        },
+        {
+          "show": "Act One",
+          "person": "Jane Greenwood",
+          "won": false
+        },
+        {
+          "show": "Machinal",
+          "person": "Michael Krass",
+          "won": false
+        },
+        {
+          "show": "Casa Valentina",
+          "person": "Rita Ryack",
+          "won": false
+        }
+      ],
+      "winner": "jenny tiramani|twelfth night"
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The Glass Menagerie",
+          "person": "Natasha Katz",
+          "won": true
+        },
+        {
+          "show": "The Cripple of Inishmaan",
+          "person": "Paule Constable",
+          "won": false
+        },
+        {
+          "show": "Machinal",
+          "person": "Jane Cox",
+          "won": false
+        },
+        {
+          "show": "Of Mice and Men",
+          "person": "Japhy Weideman",
+          "won": false
+        }
+      ],
+      "winner": "natasha katz|glass menagerie"
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Lady Day at Emerson's Bar and Grill",
+          "person": "Steve Canyon Kennedy",
+          "won": true
+        },
+        {
+          "show": "The Cripple of Inishmaan",
+          "person": "Alex Baranowski",
+          "won": false
+        },
+        {
+          "show": "Act One",
+          "person": "Dan Moses Schreier",
+          "won": false
+        },
+        {
+          "show": "Machinal",
+          "person": "Matt Tierney",
+          "won": false
+        }
+      ],
+      "winner": "steve canyon kennedy|lady day at emersons bar and grill"
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Rocky the Musical",
+          "person": "Christopher Barreca",
+          "won": true
+        },
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Julian Crouch",
+          "won": false
+        },
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Alexander Dodge",
+          "won": false
+        },
+        {
+          "show": "Bullets Over Broadway",
+          "person": "Santo Loquasto",
+          "won": false
+        }
+      ],
+      "winner": "christopher barreca|rocky the musical"
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "A Gentleman's Guide to Love and Murder",
+          "person": "Linda Cho",
+          "won": true
+        },
+        {
+          "show": "Bullets Over Broadway",
+          "person": "William Ivey Long",
+          "won": false
+        },
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Arianne Phillips",
+          "won": false
+        },
+        {
+          "show": "After Midnight",
+          "person": "Isabel Toledo",
+          "won": false
+        }
+      ],
+      "winner": "linda cho|gentlemans guide to love and murder"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Kevin Adams",
+          "won": true
+        },
+        {
+          "show": "Rocky the Musical",
+          "person": "Christopher Akerlind",
+          "won": false
+        },
+        {
+          "show": "After Midnight",
+          "person": "Howell Binkley",
+          "won": false
+        },
+        {
+          "show": "The Bridges of Madison County",
+          "person": "Donald Holder",
+          "won": false
+        }
+      ],
+      "winner": "kevin adams|hedwig and the angry inch"
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Beautiful: The Carole King Musical",
+          "person": "Brian Ronan",
+          "won": true
+        },
+        {
+          "show": "After Midnight",
+          "person": "Peter Hylenski",
+          "won": false
+        },
+        {
+          "show": "Hedwig and the Angry Inch",
+          "person": "Tim O'Heir",
+          "won": false
+        },
+        {
+          "show": "Les Mis\u00e9rables",
+          "person": "Mick Potter",
+          "won": false
+        }
+      ],
+      "winner": "brian ronan|beautiful the carole king musical"
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "All the Way",
+        "person": "Robert Schenkkan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Core Values",
+        "person": "Steven Levenson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Domesticated",
+        "person": "Bruce Norris",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Explorers Club",
+        "person": "Nell Benjamin",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Night Alive",
+        "person": "Conor McPherson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Outside Mullingar",
+        "person": "John Patrick Shanley",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Regular Singing",
+        "person": "Richard Nelson",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Aladdin",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Beautiful: The Carole King Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Bridges of Madison County",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Fun Home",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Love's Labour's Lost",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Rocky the Musical",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Twelfth Night",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Cripple of Inishmaan",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "I Remember Mama",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "London Wall",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Model Apartment",
+        "person": null,
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "No Man's Land",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Of Mice and Men",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hedwig and the Angry Inch",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Les Mis\u00e9rables",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Violet",
+        "person": null,
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "All the Way",
+        "person": "Bryan Cranston",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Comedy of Errors",
+        "person": "Hamish Linklater",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "No Man's Land",
+        "person": "Ian McKellen",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Unavoidable Disappearance of Tom Durnin",
+        "person": "David Morse",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Of Mice and Men",
+        "person": "Chris O'Dowd",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Cripple of Inishmaan",
+        "person": "Daniel Radcliffe",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "A Raisin in the Sun",
+        "person": "Denzel Washington",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Lady Day at Emerson's Bar and Grill",
+        "person": "Audra McDonald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "I Remember Mama",
+        "person": "Barbara Andres",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Mothers and Sons",
+        "person": "Tyne Daly",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Domesticated",
+        "person": "Laurie Metcalf",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Juno and the Paycock",
+        "person": "J. Smith-Cameron",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Julius Caesar",
+        "person": "Harriet Walter",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Hedwig and the Angry Inch",
+        "person": "Neil Patrick Harris",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Jefferson Mays",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Aladdin",
+        "person": "Adam Jacobs",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Rocky the Musical",
+        "person": "Andy Karl",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Bridges of Madison County",
+        "person": "Steven Pasquale",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Bryce Pinkham",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Beautiful: The Carole King Musical",
+        "person": "Jessie Mueller",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Violet",
+        "person": "Sutton Foster",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "If/Then",
+        "person": "Idina Menzel",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Bridges of Madison County",
+        "person": "Kelli O'Hara",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Tamar of the River",
+        "person": "Margo Seibert",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Heathers",
+        "person": "Barrett Wilbert Weed",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Casa Valentina",
+        "person": "Reed Birney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Choir Boy",
+        "person": "Chuck Cooper",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Outside Mullingar",
+        "person": "Peter Maloney",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Year of the Rooster",
+        "person": "Bobby Moreno",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Jacksonian",
+        "person": "Bill Pullman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Glass Menagerie",
+        "person": "Brian J. Smith",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Glass Menagerie",
+        "person": "Celia Keenan-Bolger",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Old Friends",
+        "person": "Betty Buckley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "London Wall",
+        "person": "Julia Coffey",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Model Apartment",
+        "person": "Diane Davis",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Castle",
+        "person": "Jan Maxwell",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "A Raisin in the Sun",
+        "person": "Sophie Okonedo",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Aladdin",
+        "person": "James Monroe Iglehart",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Cabaret",
+        "person": "Danny Burstein",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Bullets Over Broadway",
+        "person": "Nick Cordero",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Violet",
+        "person": "Joshua Henry",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Nobody Loves You",
+        "person": "Rory O'Malley",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Big Fish",
+        "person": "Bobby Steggert",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Beautiful: The Carole King Musical",
+        "person": "Anika Larsen",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Lauren Worsham",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Little Miss Sunshine",
+        "person": "Stephanie J. Block",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "After Midnight",
+        "person": "Adriane Lenox",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Fun Home",
+        "person": "Sydney Lucas",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Threepenny Opera",
+        "person": "Laura Osnes",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Disaster!",
+        "person": "Jennifer Simard",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Twelfth Night",
+        "person": "Tim Carroll",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Christmas Carol",
+        "person": "Joe Calarco",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Family Furniture",
+        "person": "Thomas Kail",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "All the Way",
+        "person": "Bill Rauch",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Domesticated",
+        "person": "Anna D. Shapiro",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "A Midsummer Night's Dream",
+        "person": "Julie Taymor",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Darko Tresnjak",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Fun Home",
+        "person": "Sam Gold",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Hedwig and the Angry Inch",
+        "person": "Michael Mayer",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "The Bridges of Madison County",
+        "person": "Bartlett Sher",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Bullets Over Broadway",
+        "person": "Susan Stroman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Rocky the Musical",
+        "person": "Alex Timbers",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "After Midnight",
+        "person": "Warren Carlyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Rocky the Musical",
+        "person": "Steven Hoggett and Kelly Devine",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Love's Labour's Lost",
+        "person": "Danny Mefford",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Aladdin",
+        "person": "Casey Nicholaw",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Bullets Over Broadway",
+        "person": "Susan Stroman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Kung Fu",
+        "person": "Sonya Tayeh",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Bridges of Madison County",
+        "person": "Jason Robert Brown",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Big Fish",
+        "person": "Andrew Lippa",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Steven Lutvak",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Aladdin",
+        "person": "Alan Menken",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Heathers: The Musical",
+        "person": "Kevin Murphy & Laurence O'Keefe",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Fun Home",
+        "person": "Jeanine Tesori",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Robert L. Freedman & Steven Lutvak",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Aladdin",
+        "person": "Howard Ashman, Chad Beguelin & Tim Rice",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Bridges of Madison County",
+        "person": "Jason Robert Brown",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Love's Labour's Lost",
+        "person": "Michael Friedman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Far from Heaven",
+        "person": "Michael Korie",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Fun Home",
+        "person": "Lisa Kron",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Robert L. Freedman",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Aladdin",
+        "person": "Chad Beguelin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Murder for Two",
+        "person": "Joe Kinosian and Kellen Blair",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Fun Home",
+        "person": "Lisa Kron",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Beautiful: The Carole King Musical",
+        "person": "Douglas McGrath",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "The Bridges of Madison County",
+        "person": "Marsha Norman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Bridges of Madison County",
+        "person": "Jason Robert Brown",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Fun Home",
+        "person": "John Clancy",
+        "won": false,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Big Fish",
+        "person": "Larry Hochman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Beautiful: The Carole King Musical",
+        "person": "Steve Sidwell",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "If/Then",
+        "person": "Michael Starobin",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Jonathan Tunick",
+        "won": false,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Rocky the Musical",
+        "person": "Christopher Barreca",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Alexander Dodge",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Small Engine Repair",
+        "person": "Richard Hoover",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Bullets Over Broadway",
+        "person": "Santo Loquasto",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "A Doll's House",
+        "person": "Ian MacNeil",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Explorers Club",
+        "person": "Donyale Werle",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Bullets Over Broadway",
+        "person": "William Ivey Long",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "A Midsummer Night's Dream",
+        "person": "Constance Hoffman",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Nutcracker Rouge",
+        "person": "Zane Pihlstrom",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Mysteries",
+        "person": "Loren Shaw",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Twelfth Night",
+        "person": "Jenny Tiramani",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Heir Apparent",
+        "person": "David C. Woolard",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Rocky the Musical",
+        "person": "Christopher Akerlind",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Machinal",
+        "person": "Jane Cox",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Civil War",
+        "person": "David Lander",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "King Lear",
+        "person": "Peter Mumford",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Tamar of the River",
+        "person": "Brian Tovar",
+        "won": false,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Macbeth",
+        "person": "Japhy Weideman",
+        "won": false,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Play",
+        "show": "Machinal",
+        "person": "Matt Tierney",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design in a Musical",
+        "show": "Beautiful: The Carole King Musical",
+        "person": "Brian Ronan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "All the Way",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Play",
+        "show": "Appropriate",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Fun Home",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Glass Menagerie",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Hedwig and the Angry Inch",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "All the Way",
+        "person": "Bryan Cranston",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Glass Menagerie",
+        "person": "Cherry Jones",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Glass Menagerie",
+        "person": "Brian J. Smith",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Act One",
+        "person": "Andrea Martin",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Casa Valentina",
+        "person": "Mare Winningham",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Fun Home",
+        "person": "Michael Cerveris",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": "Jefferson Mays",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Lady Day at Emerson's Bar and Grill",
+        "person": "Audra McDonald",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Bullets Over Broadway",
+        "person": "Nick Cordero",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Bullets Over Broadway",
+        "person": "Marin Mazzie",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Twelfth Night",
+        "person": "Tim Carroll",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "After Midnight",
+        "person": "Warren Carlyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "After Midnight",
+        "person": "Warren Carlyle",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "Rocky",
+        "person": "Christopher Barreca",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Aladdin",
+        "person": "Gregg Barnes",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Hedwig and the Angry Inch",
+        "person": "Kevin Adams",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "All the Way",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "A Gentleman's Guide to Love and Murder",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "The Glass Menagerie",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Hedwig and the Angry Inch",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Hedwig and the Angry Inch",
+        "person": "Neil Patrick Harris",
+        "won": true,
+        "is_broadway": true,
+        "show_type": null
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Night Alive",
+        "person": "Conor McPherson",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      },
+      {
+        "category": "Best Musical",
+        "show": "Fun Home",
+        "person": "Jeanine Tesori and Lisa Kron",
+        "won": true,
+        "is_broadway": false,
+        "show_type": null
+      }
+    ]
+  }
+}

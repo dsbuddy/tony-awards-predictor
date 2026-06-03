@@ -1,0 +1,2282 @@
+{
+  "year": 2002,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2001-2002 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Goat, or Who Is Sylvia?",
+          "person": "Edward Albee",
+          "won": true
+        },
+        {
+          "show": "Fortune's Fool",
+          "person": "Mike Poulton",
+          "won": false
+        },
+        {
+          "show": "Metamorphoses",
+          "person": "Mary Zimmerman",
+          "won": false
+        },
+        {
+          "show": "Topdog/Underdog",
+          "person": "Suzan-Lori Parks",
+          "won": false
+        }
+      ],
+      "winner": "edward albee|goat or who is sylvia"
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Mamma Mia!",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Sweet Smell of Success",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Urinetown",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "thoroughly modern millie"
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Private Lives",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "The Crucible",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Noises Off",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "private lives"
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Into the Woods",
+          "person": null,
+          "won": true
+        },
+        {
+          "show": "Oklahoma!",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": "into the woods"
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Urinetown",
+          "person": "Greg Kotis",
+          "won": true
+        },
+        {
+          "show": "Mamma Mia!",
+          "person": "Catherine Johnson",
+          "won": false
+        },
+        {
+          "show": "Sweet Smell of Success",
+          "person": "John Guare",
+          "won": false
+        },
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Richard Morris and Dick Scanlan",
+          "won": false
+        }
+      ],
+      "winner": "greg kotis|urinetown"
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Urinetown",
+          "person": "Mark Hollmann and Greg Kotis",
+          "won": true
+        },
+        {
+          "show": "Sweet Smell of Success",
+          "person": "Marvin Hamlisch and Craig Carnelia",
+          "won": false
+        },
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Jeanine Tesori and Dick Scanlan",
+          "won": false
+        },
+        {
+          "show": "Thou Shalt Not",
+          "person": "Harry Connick Jr.",
+          "won": false
+        }
+      ],
+      "winner": "mark hollmann and greg kotis|urinetown"
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Fortune's Fool",
+          "person": "Alan Bates",
+          "won": true
+        },
+        {
+          "show": "The Elephant Man",
+          "person": "Billy Crudup",
+          "won": false
+        },
+        {
+          "show": "The Crucible",
+          "person": "Liam Neeson",
+          "won": false
+        },
+        {
+          "show": "Private Lives",
+          "person": "Alan Rickman",
+          "won": false
+        },
+        {
+          "show": "Topdog/Underdog",
+          "person": "Jeffrey Wright",
+          "won": false
+        }
+      ],
+      "winner": "alan bates|fortunes fool"
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Private Lives",
+          "person": "Lindsay Duncan",
+          "won": true
+        },
+        {
+          "show": "Hedda Gabler",
+          "person": "Kate Burton",
+          "won": false
+        },
+        {
+          "show": "The Crucible",
+          "person": "Laura Linney",
+          "won": false
+        },
+        {
+          "show": "The Dance of Death",
+          "person": "Helen Mirren",
+          "won": false
+        },
+        {
+          "show": "The Goat, or Who Is Sylvia?",
+          "person": "Mercedes Ruehl",
+          "won": false
+        }
+      ],
+      "winner": "lindsay duncan|private lives"
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Sweet Smell of Success",
+          "person": "John Lithgow",
+          "won": true
+        },
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Gavin Creel",
+          "won": false
+        },
+        {
+          "show": "Into the Woods",
+          "person": "John McMartin",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Patrick Wilson",
+          "won": false
+        },
+        {
+          "show": "Urinetown",
+          "person": "John Cullum",
+          "won": false
+        }
+      ],
+      "winner": "john lithgow|sweet smell of success"
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Sutton Foster",
+          "won": true
+        },
+        {
+          "show": "Mamma Mia!",
+          "person": "Louise Pitre",
+          "won": false
+        },
+        {
+          "show": "Into the Woods",
+          "person": "Vanessa L. Williams",
+          "won": false
+        },
+        {
+          "show": "Urinetown",
+          "person": "Nancy Opel",
+          "won": false
+        },
+        {
+          "show": "Urinetown",
+          "person": "Jennifer Laura Thompson",
+          "won": false
+        }
+      ],
+      "winner": "sutton foster|thoroughly modern millie"
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Fortune's Fool",
+          "person": "Frank Langella",
+          "won": true
+        },
+        {
+          "show": "The Crucible",
+          "person": "Brian Murray",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "William Biff McGuire",
+          "won": false
+        },
+        {
+          "show": "The Man Who Had All the Luck",
+          "person": "Sam Robards",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "Stephen Tobolowsky",
+          "won": false
+        }
+      ],
+      "winner": "frank langella|fortunes fool"
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Noises Off",
+          "person": "Katie Finneran",
+          "won": true
+        },
+        {
+          "show": "The Elephant Man",
+          "person": "Kate Burton",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "Elizabeth Franz",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "Estelle Parsons",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "Frances Sternhagen",
+          "won": false
+        }
+      ],
+      "winner": "katie finneran|noises off"
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "Oklahoma!",
+          "person": "Shuler Hensley",
+          "won": true
+        },
+        {
+          "show": "Into the Woods",
+          "person": "Gregg Edelman",
+          "won": false
+        },
+        {
+          "show": "Sweet Smell of Success",
+          "person": "Brian d'Arcy James",
+          "won": false
+        },
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Marc Kudisch",
+          "won": false
+        },
+        {
+          "show": "Thou Shalt Not",
+          "person": "Norbert Leo Butz",
+          "won": false
+        }
+      ],
+      "winner": "shuler hensley|oklahoma"
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Harriet Sansom Harris",
+          "won": true
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Andrea Martin",
+          "won": false
+        },
+        {
+          "show": "Mamma Mia!",
+          "person": "Judy Kaye",
+          "won": false
+        },
+        {
+          "show": "Into the Woods",
+          "person": "Laura Benanti",
+          "won": false
+        },
+        {
+          "show": "Urinetown",
+          "person": "Spencer Kayden",
+          "won": false
+        }
+      ],
+      "winner": "harriet sansom harris|thoroughly modern millie"
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Metamorphoses",
+          "person": "Mary Zimmerman",
+          "won": true
+        },
+        {
+          "show": "Private Lives",
+          "person": "Howard Davies",
+          "won": false
+        },
+        {
+          "show": "The Crucible",
+          "person": "Richard Eyre",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "Daniel Sullivan",
+          "won": false
+        }
+      ],
+      "winner": "mary zimmerman|metamorphoses"
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "Urinetown",
+          "person": "John Rando",
+          "won": true
+        },
+        {
+          "show": "Into the Woods",
+          "person": "James Lapine",
+          "won": false
+        },
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Michael Mayer",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Trevor Nunn",
+          "won": false
+        }
+      ],
+      "winner": "john rando|urinetown"
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Rob Ashford",
+          "won": true
+        },
+        {
+          "show": "Urinetown",
+          "person": "John Carrafa",
+          "won": false
+        },
+        {
+          "show": "Into the Woods",
+          "person": "John Carrafa",
+          "won": false
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "Susan Stroman",
+          "won": false
+        }
+      ],
+      "winner": "rob ashford|thoroughly modern millie"
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Doug Besterman and Ralph Burns",
+          "won": true
+        },
+        {
+          "show": "Mamma Mia!",
+          "person": "Benny Andersson, Bjorn Ulvaeus and Martin Koch",
+          "won": false
+        },
+        {
+          "show": "Sweet Smell of Success",
+          "person": "William David Brohn",
+          "won": false
+        },
+        {
+          "show": "Urinetown",
+          "person": "Bruce Coughlin",
+          "won": false
+        }
+      ],
+      "winner": "doug besterman and ralph burns|thoroughly modern millie"
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Private Lives",
+          "person": "Tim Hatley",
+          "won": true
+        },
+        {
+          "show": "Metamorphoses",
+          "person": "Daniel Ostling",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "John Lee Beatty",
+          "won": false
+        }
+      ],
+      "winner": "tim hatley|private lives"
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Private Lives",
+          "person": "Jenny Beavan",
+          "won": false
+        },
+        {
+          "show": "Into the Woods",
+          "person": "Susan Hilferty",
+          "won": false
+        },
+        {
+          "show": "Morning's at Seven",
+          "person": "Jane Greenwood",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "The Crucible",
+          "person": "Paul Gallo",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "sound_play": {
+      "nominees": [],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Into the Woods",
+          "person": "Douglas W. Schmidt",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Thoroughly Modern Millie",
+          "person": "Martin Pakledinaz",
+          "won": true
+        }
+      ],
+      "winner": "martin pakledinaz|thoroughly modern millie"
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Into the Woods",
+          "person": "Brian MacDevitt",
+          "won": true
+        },
+        {
+          "show": "Oklahoma!",
+          "person": "David Hersey",
+          "won": false
+        },
+        {
+          "show": "Sweet Smell of Success",
+          "person": "Natasha Katz",
+          "won": false
+        }
+      ],
+      "winner": "brian macdevitt|into the woods"
+    },
+    "sound_musical": {
+      "nominees": [],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": "Edward Albee",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Metamorphoses",
+        "person": "Mary Zimmerman",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Franny's Way",
+        "person": "Richard Nelson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "The Shape of Things",
+        "person": "Neil LaBute",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Thief River",
+        "person": "Lee Blessing",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Play",
+        "show": "Topdog/Underdog",
+        "person": "Suzan-Lori Parks",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "The Last Five Years",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Sweet Smell of Success",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Private Lives",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Crucible",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Cymbeline",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Morning's at Seven",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Noises Off",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Seagull",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Into the Woods",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Oklahoma!",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Fortune's Fool",
+        "person": "Alan Bates",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Crucible",
+        "person": "Liam Neeson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": "Bill Pullman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Private Lives",
+        "person": "Alan Rickman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Nocturne",
+        "person": "Dallas Roberts",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Topdog/Underdog",
+        "person": "Jeffrey Wright",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Private Lives",
+        "person": "Lindsay Duncan",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Everett Beekin",
+        "person": "Robin Bartlett",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Glory of Living",
+        "person": "Anna Paquin",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Wonder of the World",
+        "person": "Sarah Jessica Parker",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": "Mercedes Ruehl",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Seagull",
+        "person": "Meryl Streep",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "John Lithgow",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "The Last Five Years",
+        "person": "Norbert Leo Butz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "Brian d'Arcy James",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": "Raul Esparza",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Guys and Dolls",
+        "person": "Peter Gallagher",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Oklahoma!",
+        "person": "Patrick Wilson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Sutton Foster",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Into the Woods",
+        "person": "Laura Benanti",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Spitfire Grill",
+        "person": "Garrett Long",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Mamma Mia!",
+        "person": "Louise Pitre",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "The Last Five Years",
+        "person": "Sherie Rene Scott",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Into the Woods",
+        "person": "Vanessa Williams",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Fortune's Fool",
+        "person": "Frank Langella",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Nocturne",
+        "person": "Will LeBow",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Crucible",
+        "person": "Brian Murray",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Four",
+        "person": "Keith Nobbs",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "The Man Who Had All the Luck",
+        "person": "Sam Robards",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Major Barbara",
+        "person": "David Warner",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Noises Off",
+        "person": "Katie Finneran",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "The Women",
+        "person": "Jennifer Coolidge",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Kilt",
+        "person": "Kathleen Doyle",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Homebody/Kabul",
+        "person": "Linda Emond",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Morning's at Seven",
+        "person": "Elizabeth Franz",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Franny's Way",
+        "person": "Kathleen Widdoes",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Oklahoma!",
+        "person": "Shuler Hensley",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Oklahoma!",
+        "person": "Justin Bohon",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Thou Shalt Not",
+        "person": "Norbert Leo Butz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": "Jerry Dixon",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Into the Woods",
+        "person": "Gregg Edelman",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Marc Kudisch",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Harriet Harris",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "The Spitfire Grill",
+        "person": "Liz Callaway",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Mamma Mia!",
+        "person": "Judy Kaye",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Oklahoma!",
+        "person": "Andrea Martin",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Mamma Mia!",
+        "person": "Karen Mason",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Into the Woods",
+        "person": "Kerry O'Malley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Metamorphoses",
+        "person": "Mary Zimmerman",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Private Lives",
+        "person": "Howard Davies",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Crucible",
+        "person": "Richard Eyre",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Voice of the Turtle",
+        "person": "Carl Forsman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "The Shape of Things",
+        "person": "Neil LaBute",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Cymbeline",
+        "person": "Bartlett Sher",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Michael Mayer",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "Nicholas Hytner",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Into the Woods",
+        "person": "James Lapine",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Oklahoma!",
+        "person": "Trevor Nunn",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": "Scott Schwartz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Elaine Stritch: At Liberty",
+        "person": "George C. Wolfe",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Oklahoma!",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Thoroughly Modern Millie",
+        "person": "Rob Ashford",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Sweet Smell of Success",
+        "person": "Christopher Wheeldon",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "The Last Five Years",
+        "person": "Jason Robert Brown",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Sweet Smell of Success",
+        "person": "Marvin Hamlisch",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Tick, Tick... Boom!",
+        "person": "Jonathan Larson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Thoroughly Modern Millie",
+        "person": "Jeanine Tesori",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "The Last Five Years",
+        "person": "Jason Robert Brown",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Sweet Smell of Success",
+        "person": "Craig Carnelia",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Tick, Tick... Boom!",
+        "person": "Jonathan Larson",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Reefer Madness",
+        "person": "Kevin Murphy",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Thoroughly Modern Millie",
+        "person": "Dick Scanlan",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Dragapella Starring The Kinsey Sicks",
+        "person": "Ben Schatz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Elaine Stritch: At Liberty",
+        "person": "John Lahr and Elaine Stritch",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "John Guare",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": "Jonathan Larson and David Auburn",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Richard Morris and Dick Scanlan",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Thoroughly Modern Millie",
+        "person": "Doug Besterman and Ralph Burns",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Last Five Years",
+        "person": "Jason Robert Brown",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Elaine Stritch: At Liberty",
+        "person": "Jonathan Tunick",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Private Lives",
+        "person": "Tim Hatley",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Morning's at Seven",
+        "person": "John Lee Beatty",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "World of Mirth",
+        "person": "Michael Brown",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "Wonder of the World",
+        "person": "David Gallo",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "The Women",
+        "person": "Derek McLane",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Play",
+        "show": "36 Views",
+        "person": "Douglas Stein and Rupert Bohle",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Into the Woods",
+        "person": "Douglas W. Schmidt",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "The Last Five Years",
+        "person": "Beowulf Boritt",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "Bob Crowley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "David Gallo",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design of a Musical",
+        "show": "Oklahoma!",
+        "person": "Anthony Ward",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Women",
+        "person": "Isaac Mizrahi",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Private Lives",
+        "person": "Jenny Beavan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Sweet Smell of Success",
+        "person": "Bob Crowley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Into the Woods",
+        "person": "Susan Hilferty",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Reefer Madness",
+        "person": "Dick Magnanti",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Thoroughly Modern Millie",
+        "person": "Martin Pakledinaz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Metamorphoses",
+        "person": "T.J. Gerckens",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Psych",
+        "person": "Frances Aronson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Oklahoma!",
+        "person": "David Hersey",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Sweet Smell of Success",
+        "person": "Natasha Katz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Private Lives",
+        "person": "Peter Mumford",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Monster",
+        "person": "Kenneth Posner",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Into the Woods",
+        "person": "Dan Moses Schreier",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "To You, the Birdie!",
+        "person": "John Collins, Geoff Abbas and Jim Dawson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Cressida Among the Greeks",
+        "person": "Mark Huang",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Franny's Way",
+        "person": "Scott Lehrer",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "36 Views",
+        "person": "Matthew Spiro",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "The Glory of Living",
+        "person": "David Van Tieghem",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      }
+    ],
+    "occ": [
+      {
+        "category": "John Gassner Playwriting Award",
+        "show": "Topdog/Underdog",
+        "person": "Suzan-Lori Parks",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "John Gassner Playwriting Award",
+        "show": "The Glory of Living",
+        "person": "Rebecca Gilman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "John Gassner Playwriting Award",
+        "show": "The Dazzle",
+        "person": "Richard Greenberg",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "John Gassner Playwriting Award",
+        "show": "36 Views",
+        "person": "Naomi Iizuka",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Fortune's Fool",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Metamorphoses",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "Topdog/Underdog",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Urinetown",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Mamma Mia!",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Sweet Smell of Success",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Tick, Tick... Boom!",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Last Five Years",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "The Spitfire Grill",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding New Off-Broadway Musical",
+        "show": "Summer of '42",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Oklahoma!",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Into the Woods",
+        "person": null,
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Morning's at Seven",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Crucible",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "The Elephant Man",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Noises Off",
+        "person": null,
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "John Lithgow",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Urinetown",
+        "person": "John Cullum",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Sweet Smell of Success",
+        "person": "Brian d'Arcy James",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Musical",
+        "show": "Urinetown",
+        "person": "Hunter Foster",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Sutton Foster",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Oklahoma!",
+        "person": "Josefina Gabrielle",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Into the Woods",
+        "person": "Kerry O'Malley",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Musical",
+        "show": "Mamma Mia!",
+        "person": "Louise Pitre",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Fortune's Fool",
+        "person": "Alan Bates",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "Dance of Death",
+        "person": "Ian McKellen",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Crucible",
+        "person": "Liam Neeson",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actor in a Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": "Bill Pullman",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": "Mercedes Ruehl",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Hedda Gabler",
+        "person": "Kate Burton",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "The Crucible",
+        "person": "Laura Linney",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Actress in a Play",
+        "show": "Dance of Death",
+        "person": "Helen Mirren",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Oklahoma!",
+        "person": "Shuler Hensley",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Thou Shalt Not",
+        "person": "Norbert Leo Butz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Oklahoma!",
+        "person": "Justin Bohon",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Marc Kudisch",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Urinetown",
+        "person": "Spencer Kayden",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Into the Woods",
+        "person": "Laura Benanti",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Angela Christian",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Musical",
+        "show": "Oklahoma!",
+        "person": "Andrea Martin",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Fortune's Fool",
+        "person": "Frank Langella",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Morning's at Seven",
+        "person": "Stephen Tobolowsky",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actor in a Play",
+        "show": "Major Barbara",
+        "person": "David Warner",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Noises Off",
+        "person": "Katie Finneran",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Morning's at Seven",
+        "person": "Elizabeth Franz",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Morning's at Seven",
+        "person": "Julie Hagerty",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Featured Actress in a Play",
+        "show": "Major Barbara",
+        "person": "Dana Ivey",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Urinetown",
+        "person": "John Rando",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Into the Woods",
+        "person": "James Lapine",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Thoroughly Modern Millie",
+        "person": "Michael Mayer",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Musical",
+        "show": "Oklahoma!",
+        "person": "Trevor Nunn",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Metamorphoses",
+        "person": "Mary Zimmerman",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Morning's at Seven",
+        "person": "Daniel Sullivan",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Director of a Play",
+        "show": "Topdog/Underdog",
+        "person": "George C. Wolfe",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Oklahoma!",
+        "person": "Susan Stroman",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Thoroughly Modern Millie",
+        "person": "Rob Ashford",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Urinetown",
+        "person": "John Carrafa",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Sweet Smell of Success",
+        "person": "Christopher Wheeldon",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Oklahoma!",
+        "person": "Anthony Ward",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "Morning's at Seven",
+        "person": "John Lee Beatty",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "The Dazzle",
+        "person": "Allen Moyer",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Set Design",
+        "show": "36 Views",
+        "person": "Douglas Stein",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Women",
+        "person": "Isaac Mizrahi",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "The Elephant Man",
+        "person": "Santo Loquasto",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Thoroughly Modern Millie",
+        "person": "Martin Pakledinaz",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Oklahoma!",
+        "person": "Anthony Ward",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Oklahoma!",
+        "person": "David Hersey",
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "Thoroughly Modern Millie",
+        "person": "Donald Holder",
+        "show_type": "musical",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Elephant Man",
+        "person": "James F. Ingalls",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "36 Views",
+        "person": "David Weiner",
+        "show_type": "play",
+        "won": false,
+        "is_broadway": false
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Elaine Stritch: At Liberty",
+        "person": "Elaine Stritch",
+        "show_type": null,
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "An Almost Holy Picture",
+        "person": "Kevin Bacon",
+        "show_type": null,
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Sexaholix",
+        "person": "John Leguizamo",
+        "show_type": null,
+        "won": false,
+        "is_broadway": true
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Save It for the Stage",
+        "person": "Charles Nelson Reilly",
+        "show_type": null,
+        "won": false,
+        "is_broadway": false
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Metamorphoses",
+        "person": null,
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Urinetown",
+        "person": null,
+        "show_type": "musical",
+        "won": true,
+        "is_broadway": true
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "The Crucible",
+        "person": "Liam Neeson",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "The Goat, or Who Is Sylvia?",
+        "person": "Edward Albee",
+        "show_type": "play",
+        "won": true,
+        "is_broadway": true
+      }
+    ]
+  }
+}

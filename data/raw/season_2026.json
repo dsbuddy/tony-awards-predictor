@@ -1,0 +1,1205 @@
+{
+  "year": 2026,
+  "_source_notes": "Sources: Wikipedia (Tony Awards, Drama Desk, Outer Critics Circle, Drama League, New York Drama Critics' Circle) for the 2025-2026 season.",
+  "tony": {
+    "best_play": {
+      "nominees": [
+        {
+          "show": "The Balusters",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Giant",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Liberation",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Little Bear Ridge Road",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "best_musical": {
+      "nominees": [
+        {
+          "show": "The Lost Boys",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Titanique",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "best_revival_play": {
+      "nominees": [
+        {
+          "show": "Becky Shaw",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Every Brilliant Thing",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Fallen Angels",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Oedipus",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "best_revival_musical": {
+      "nominees": [
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": null,
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": null,
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "best_book": {
+      "nominees": [
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Jim Barne and Kit Buchan",
+          "won": false
+        },
+        {
+          "show": "Titanique",
+          "person": "Tye Blue, Marla Mindelle, Constantine Rousouli",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Chris Hoch and David Hornsby",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Cinco Paul",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "best_score": {
+      "nominees": [
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Steve Bargonetti",
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Jim Barne and Kit Buchan",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Cinco Paul",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "The Rescues",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Caroline Shaw",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lead_actor_play": {
+      "nominees": [
+        {
+          "show": "Punch",
+          "person": "Will Harrison",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Nathan Lane",
+          "won": false
+        },
+        {
+          "show": "Giant",
+          "person": "John Lithgow",
+          "won": false
+        },
+        {
+          "show": "Every Brilliant Thing",
+          "person": "Daniel Radcliffe",
+          "won": false
+        },
+        {
+          "show": "Oedipus",
+          "person": "Mark Strong",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lead_actress_play": {
+      "nominees": [
+        {
+          "show": "Fallen Angels",
+          "person": "Rose Byrne",
+          "won": false
+        },
+        {
+          "show": "Bug",
+          "person": "Carrie Coon",
+          "won": false
+        },
+        {
+          "show": "Liberation",
+          "person": "Susannah Flood",
+          "won": false
+        },
+        {
+          "show": "Oedipus",
+          "person": "Lesley Manville",
+          "won": false
+        },
+        {
+          "show": "Fallen Angels",
+          "person": "Kelli O'Hara",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lead_actor_musical": {
+      "nominees": [
+        {
+          "show": "Chess",
+          "person": "Nicholas Christopher",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "Luke Evans",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Joshua Henry",
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Sam Tutty",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Brandon Uranowitz",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lead_actress_musical": {
+      "nominees": [
+        {
+          "show": "Schmigadoon!",
+          "person": "Sara Chase",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "Stephanie Hsu",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Caissie Levy",
+          "won": false
+        },
+        {
+          "show": "Titanique",
+          "person": "Marla Mindelle",
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Christiani Pitts",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "feat_actor_play": {
+      "nominees": [
+        {
+          "show": "Death of a Salesman",
+          "person": "Christopher Abbott",
+          "won": false
+        },
+        {
+          "show": "Marjorie Prime",
+          "person": "Danny Burstein",
+          "won": false
+        },
+        {
+          "show": "Waiting for Godot",
+          "person": "Brandon J. Dirden",
+          "won": false
+        },
+        {
+          "show": "Becky Shaw",
+          "person": "Alden Ehrenreich",
+          "won": false
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Ruben Santiago-Hudson",
+          "won": false
+        },
+        {
+          "show": "The Balusters",
+          "person": "Richard Thomas",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "feat_actress_play": {
+      "nominees": [
+        {
+          "show": "Liberation",
+          "person": "Betsy Aidem",
+          "won": false
+        },
+        {
+          "show": "The Balusters",
+          "person": "Marylouise Burke",
+          "won": false
+        },
+        {
+          "show": "Giant",
+          "person": "Aya Cash",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Laurie Metcalf",
+          "won": false
+        },
+        {
+          "show": "Marjorie Prime",
+          "person": "June Squibb",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "feat_actor_musical": {
+      "nominees": [
+        {
+          "show": "The Lost Boys",
+          "person": "Ali Louis Bourzgui",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Andr\u00e9 De Shields",
+          "won": false
+        },
+        {
+          "show": "Chess",
+          "person": "Bryce Pinkham",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Ben Levi Ross",
+          "won": false
+        },
+        {
+          "show": "Titanique",
+          "person": "Layton Williams",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "feat_actress_musical": {
+      "nominees": [
+        {
+          "show": "The Lost Boys",
+          "person": "Shoshana Bean",
+          "won": false
+        },
+        {
+          "show": "Chess",
+          "person": "Hannah Cruz",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "Rachel Dratch",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Ana Gasteyer",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Nichelle Lewis",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "direction_play": {
+      "nominees": [
+        {
+          "show": "Giant",
+          "person": "Nicholas Hytner",
+          "won": false
+        },
+        {
+          "show": "Oedipus",
+          "person": "Robert Icke",
+          "won": false
+        },
+        {
+          "show": "The Balusters",
+          "person": "Kenny Leon",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Joe Mantello",
+          "won": false
+        },
+        {
+          "show": "Liberation",
+          "person": "Whitney White",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "direction_musical": {
+      "nominees": [
+        {
+          "show": "The Lost Boys",
+          "person": "Michael Arden",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Lear deBessonet",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Tim Jackson",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Zhailon Levingston and Bill Rauch",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "choreography": {
+      "nominees": [
+        {
+          "show": "Schmigadoon!",
+          "person": "Christopher Gattelli",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Christopher Cree Grant and Lauren Yalango-Grant",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Arturo Lyons and Omari Wiles",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Ellenore Scott",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "Ani Taj",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "orchestrations": {
+      "nominees": [
+        {
+          "show": "Schmigadoon!",
+          "person": "Doug Besterman and Mike Morris",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Kyler England, Adrianne Gonzalez, Ethan Popp, Gabriel Mann",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Trevor Holder, Doug Schadt, Andrew Lloyd Webber, David Wilson",
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Lux Pyramid",
+          "won": false
+        },
+        {
+          "show": "Chess",
+          "person": "Brian Usifer",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "scenic_play": {
+      "nominees": [
+        {
+          "show": "Oedipus",
+          "person": "Hildegard Bechtler",
+          "won": false
+        },
+        {
+          "show": "Bug",
+          "person": "Takeshi Kata",
+          "won": false
+        },
+        {
+          "show": "Dog Day Afternoon",
+          "person": "David Korins",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Chloe Lamford",
+          "won": false
+        },
+        {
+          "show": "Fallen Angels",
+          "person": "David Rockwell",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "costume_play": {
+      "nominees": [
+        {
+          "show": "Dog Day Afternoon",
+          "person": "Brenda Abbandandolo",
+          "won": false
+        },
+        {
+          "show": "Liberation",
+          "person": "Qween Jean",
+          "won": false
+        },
+        {
+          "show": "Fallen Angels",
+          "person": "Jeff Mahshie",
+          "won": false
+        },
+        {
+          "show": "The Balusters",
+          "person": "Emilio Sosa",
+          "won": false
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Paul Tazewell",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lighting_play": {
+      "nominees": [
+        {
+          "show": "Dog Day Afternoon",
+          "person": "Isabella Byrd",
+          "won": false
+        },
+        {
+          "show": "Oedipus",
+          "person": "Natasha Chivers",
+          "won": false
+        },
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Stacey Derosier",
+          "won": false
+        },
+        {
+          "show": "Bug",
+          "person": "Heather Gilbert",
+          "won": false
+        },
+        {
+          "show": "The Fear of 13",
+          "person": "Heather Gilbert",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Jack Knowles",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "sound_play": {
+      "nominees": [
+        {
+          "show": "Joe Turner's Come and Gone",
+          "person": "Justin Ellington",
+          "won": false
+        },
+        {
+          "show": "Oedipus",
+          "person": "Tom Gibbons",
+          "won": false
+        },
+        {
+          "show": "The Fear of 13",
+          "person": "Lee Kinney",
+          "won": false
+        },
+        {
+          "show": "Bug",
+          "person": "Josh Schmidt",
+          "won": false
+        },
+        {
+          "show": "Death of a Salesman",
+          "person": "Mikaal Sulaiman",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "scenic_musical": {
+      "nominees": [
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "dots",
+          "won": false
+        },
+        {
+          "show": "Two Strangers (Carry a Cake Across New York)",
+          "person": "Soutra Gilmour",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Rachel Hauck",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Dane Laffrey",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Scott Pask",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "costume_musical": {
+      "nominees": [
+        {
+          "show": "Ragtime",
+          "person": "Linda Cho",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Linda Cho",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Qween Jean",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Ryan Park",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "David Reynoso",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "lighting_musical": {
+      "nominees": [
+        {
+          "show": "Chess",
+          "person": "Kevin Adams",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Michael Arden and Jen Schriever",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "Jane Cox",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Donald Holder",
+          "won": false
+        },
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Adam Honor\u00e9",
+          "won": false
+        }
+      ],
+      "winner": null
+    },
+    "sound_musical": {
+      "nominees": [
+        {
+          "show": "Cats: The Jellicle Ball",
+          "person": "Kai Harada",
+          "won": false
+        },
+        {
+          "show": "Ragtime",
+          "person": "Kai Harada",
+          "won": false
+        },
+        {
+          "show": "The Lost Boys",
+          "person": "Adam Fisher",
+          "won": false
+        },
+        {
+          "show": "Richard O'Brien's The Rocky Horror Show",
+          "person": "Brian Ronan",
+          "won": false
+        },
+        {
+          "show": "Schmigadoon!",
+          "person": "Walter Trarbach",
+          "won": false
+        }
+      ],
+      "winner": null
+    }
+  },
+  "precursors": {
+    "drama_desk": [
+      {
+        "category": "Outstanding Play",
+        "show": "The Balusters",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Musical",
+        "show": "Schmigadoon!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Death of a Salesman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Ragtime",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Giant",
+        "person": "John Lithgow",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lead Performance in a Play",
+        "show": "Oedipus",
+        "person": "Lesley Manville",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Becky Shaw",
+        "person": "Alden Ehrenreich",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Performance in a Play",
+        "show": "Joe Turner's Come and Gone",
+        "person": "Ruben Santiago-Hudson",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Ragtime",
+        "person": "Joshua Henry",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lead Performance in a Musical",
+        "show": "Ragtime",
+        "person": "Caissie Levy",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "The Baker's Wife",
+        "person": "Judy Kuhn",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Performance in a Musical",
+        "show": "Ragtime",
+        "person": "Ben Levi Ross",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "Death of a Salesman",
+        "person": "Joe Mantello",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "Ragtime",
+        "person": "Lear deBessonet",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Schmigadoon!",
+        "person": "Christopher Gattelli",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Cats: The Jellicle Ball",
+        "person": "Omari Wiles & Arturo Lyons",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Music",
+        "show": "Mexodus",
+        "person": "Brian Quijada and Nygel D. Robinson",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lyrics",
+        "show": "Two Strangers (Carry a Cake Across New York)",
+        "person": "Jim Barne & Kit Buchan",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Mexodus",
+        "person": "Brian Quijada and Nygel D. Robinson",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "The Porch on Windy Hill",
+        "person": "Sherry Stregnack Lutken",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Play",
+        "show": "Death of a Salesman",
+        "person": "Chloe Lamford",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design of a Musical",
+        "show": "The Lost Boys",
+        "person": "Dane Laffrey",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design of a Play",
+        "show": "Joe Turner's Come and Gone",
+        "person": "Paul Tazewell",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Costume Design of a Musical",
+        "show": "Cats: The Jellicle Ball",
+        "person": "Qween Jean",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Play",
+        "show": "Death of a Salesman",
+        "person": "Jack Knowles",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lighting Design of a Musical",
+        "show": "The Lost Boys",
+        "person": "Jen Schriever and Michael Arden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design of a Play",
+        "show": "Oedipus",
+        "person": "Tom Gibbons",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Sound Design of a Musical",
+        "show": "Mexodus",
+        "person": "Mikhail Fiksel",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      }
+    ],
+    "occ": [
+      {
+        "category": "Outstanding New Broadway Musical",
+        "show": "Schmigadoon!",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Broadway Play",
+        "show": "The Balusters",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Revival of a Musical",
+        "show": "Ragtime",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Revival of a Play",
+        "show": "Death of a Salesman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Book of a Musical",
+        "show": "Schmigadoon!",
+        "person": "Cinco Paul",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding New Score",
+        "show": "Mexodus",
+        "person": "Brian Quijada and Nygel D. Robinson",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Direction of a Play",
+        "show": "Death of a Salesman",
+        "person": "Joe Mantello",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Direction of a Musical",
+        "show": "Ragtime",
+        "person": "Lear deBessonet",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Choreography",
+        "show": "Schmigadoon!",
+        "person": "Christopher Gattelli",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Orchestrations",
+        "show": "Schmigadoon!",
+        "person": "Doug Besterman and Mike Morris",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Play",
+        "show": "Death of a Salesman",
+        "person": "Nathan Lane",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Lead Performer in a Broadway Musical",
+        "show": "Ragtime",
+        "person": "Joshua Henry",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Play",
+        "show": "Death of a Salesman",
+        "person": "Laurie Metcalf",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Featured Performer in a Broadway Musical",
+        "show": "Ragtime",
+        "person": "Ben Levi Ross",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Solo Performance",
+        "show": "Every Brilliant Thing",
+        "person": "Daniel Radcliffe",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Outstanding Scenic Design",
+        "show": "The Lost Boys",
+        "person": "Dane Laffrey",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Costume Design",
+        "show": "Schmigadoon!",
+        "person": "Linda Cho",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Lighting Design",
+        "show": "The Lost Boys",
+        "person": "Jen Schriever and Michael Arden",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Outstanding Sound Design",
+        "show": "Mexodus",
+        "person": "Mikhail Fiksel",
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      }
+    ],
+    "drama_league": [
+      {
+        "category": "Distinguished Production of a Play",
+        "show": "Liberation",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Production of a Musical",
+        "show": "Mexodus",
+        "person": null,
+        "won": true,
+        "is_broadway": false,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Revival of a Play",
+        "show": "Death of a Salesman",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      },
+      {
+        "category": "Distinguished Revival of a Musical",
+        "show": "Ragtime",
+        "person": null,
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      },
+      {
+        "category": "Distinguished Performance Award",
+        "show": "Ragtime",
+        "person": "Joshua Henry",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "musical"
+      }
+    ],
+    "nydcc": [
+      {
+        "category": "Best Play",
+        "show": "Little Bear Ridge Road",
+        "person": "Samuel D. Hunter",
+        "won": true,
+        "is_broadway": true,
+        "show_type": "play"
+      }
+    ]
+  }
+}
